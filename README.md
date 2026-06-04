@@ -1,5 +1,3 @@
-# William J. Turkel
-
 I'm a Professor of History at The University of Western Ontario in Canada. You can contact me at  _william.j.turkel@gmail.com_ 
 
 - [Google scholar](https://scholar.google.com/citations?user=hYVXQVIAAAAJ&hl=en)
