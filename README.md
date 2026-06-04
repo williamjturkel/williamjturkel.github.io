@@ -1,4 +1,4 @@
-# home
+# William J. Turkel
 
 I'm a Professor of History at The University of Western Ontario in Canada. You can contact me at  _william.j.turkel@gmail.com_ 
 
