@@ -3,7 +3,7 @@ This is an open access, open content and open source textbook in the form of a _
 ## Second Revised Edition (Summer 2020)
 
 * [GitHub Repository](https://github.com/williamjturkel/Digital-Research-Methods-2nd-Ed)
-* [Download _Math_ _ematica_ notebook](https://github.com/williamjturkel/Digital-Research-Methods-2nd-Ed/releases/download/v2.01/turkel-digital-research-methods-with-mathematica-2nd-ed-rev-01-2020.nb)
+* [Download _Mathematica_ notebook](https://github.com/williamjturkel/Digital-Research-Methods-2nd-Ed/releases/download/v2.01/turkel-digital-research-methods-with-mathematica-2nd-ed-rev-01-2020.nb)
 * [View on Wolfram Cloud](https://www.wolframcloud.com/view?url=https://github.com/williamjturkel/Digital-Research-Methods-2nd-Ed/releases/download/v2.01/turkel-digital-research-methods-with-mathematica-2nd-ed-rev-01-2020.nb)
 
 The second revised edition (v2.01, September 2020) contains 23 complete chapters which cover the following topics. There are also a number of screencasts for each lesson.
