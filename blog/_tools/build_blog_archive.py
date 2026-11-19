@@ -117,7 +117,7 @@ def protect_liquid(md):
 
 
 def convert(post):
-    soup = BeautifulSoup(post["html"], "html.parser")
+    soup = BeautifulSoup(post["html"], "lxml")
     conv = FootnoteConverter(heading_style="ATX", bullets="*",
                              escape_underscores=True, escape_asterisks=True)
     body = conv.convert_soup(soup)
