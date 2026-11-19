@@ -4,7 +4,7 @@ _February 1, 2007_
 Originally published at `https://digitalhistoryhacks.blogspot.com/2007/02/more-readings-for-field-in-digital.html`
 
 Last month I posted a draft reading list[^1] for a general / comprehensive graduate exam in digital history. The list raised a fair amount of interest, and a number of people were kind enough to e-mail me suggested additions or blog about them. So, more or less in the order that I received them, here are more readings for a field in digital history. As before, I've included links to Amazon records to support further hacking. Suggestions are still welcome, of course.  
-  
+
 John Jordan[^2] emphasized the historical precursors of digital history, particularly systems theory.  
 
 * Ackoff, Russell and Fred Emery. On Purposeful Systems: An Interdisciplinary Analysis of Individual and Social Behavior as a System of Purposeful Events[^3], new ed. Aldine, 2005.
@@ -48,9 +48,13 @@ Jeremy Boggs[^24] posted a nice piece about the importance of design in digital 
 * Zeldman, Jeffrey. Designing with Web Standards[^36], 2nd ed. Peachpit, 2006.
 
 And last but not least, Tom Elliot[^37] pointed out Geoffrey Rockwell's great list of online readings in humanities computing[^38].  
-  
+
 Tags: bibliography[^39] \| digital history[^40] \| history education[^41] \| pedagogy[^42]
 
+---
+
+Previous: [Keywords and Clues](20070130-keywords-and-clues.md)  
+Next: [Exploratory Bibliography 3: Temporal Strata in Recommendations](20070204-exploratory-bibliography-3-temporal.md)  
 [Back to the blog archive](../README.md)
 
 [^1]: `http://digitalhistoryhacks.blogspot.com/2007/01/readings-for-field-in-digital-history.html`

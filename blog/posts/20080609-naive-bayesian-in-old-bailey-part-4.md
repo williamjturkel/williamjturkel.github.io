@@ -33,9 +33,13 @@ With raw text files for each of the trials, we're almost in a position to try do
 * ...
 
 That about does it for the utility routines. Next we have to address the problem of sampling.  
-  
+
 Tags: archive[^7] \| data mining[^8] \| digital history[^9] \| feature space[^10] \| machine learning[^11] \| text mining[^12]
 
+---
+
+Previous: [A Naive Bayesian in the Old Bailey, Part 3](20080607-naive-bayesian-in-old-bailey-part-3.md)  
+Next: [A Naive Bayesian in the Old Bailey, Part 5](20080612-naive-bayesian-in-old-bailey-part-5.md)  
 [Back to the blog archive](../README.md)
 
 [^1]: `http://www.catb.org/jargon/html/Y/yak-shaving.html`

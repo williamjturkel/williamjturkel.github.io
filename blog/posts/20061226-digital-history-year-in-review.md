@@ -4,59 +4,63 @@ _December 26, 2006_
 Originally published at `https://digitalhistoryhacks.blogspot.com/2006/12/digital-history-year-in-review.html`
 
 In August, AOL released some of their search data[^1] for more than half a million users. Among other things, it gives us some idea of what people are looking for when they search for history[^2]. Dan Cohen continued to underline the importance of APIs for the humanities[^3].  
-  
+
 Google digitized millions of Books[^4], leading Gregory Crane and others to wonder what you can do with a million books[^5]. The Open Content Alliance[^6] had same plan, different vision.  
-  
+
 Cyberspace, home of Collective Intelligence[^7] and Convergence Culture[^8]? Or just a stupid and boring hive mind[^9]? Either way, I think it has interesting implications for pedagogy[^10].  
-  
+
 Digital history: graduate seminars (1[^11], 2[^12], 3[^13]) and a bunch of new[^14] bloggers[^15].  
-  
+
 Google Earth[^16] added historical maps[^17].  
-  
+
 Josh Greenberg decided to leave his blog Epistemographer fallow[^18], with good results[^19]. Meanwhile, Tom Schienfeldt highlighted the "unintentional, unconventional and amateur" in Found History[^20]. Emma Tonkin argued that Folksonomies are just plain-text tagging under a new name[^21].  
-  
+
 Niall Ferguson wrote about historical gaming and simulation[^22] in New York magazine; Esther MacCallum-Stewart (Break of Day in the Trenches[^23]) and Gavin Robinson (Investigations of a Dog[^24]) extended the discussion in interesting new directions. At the end of the year, I was musing about alternate reality games[^25].  
-  
+
 Sheila Brennan began an ongoing survey of online History museums[^26] at Relaxing on the Trail.  
-  
+
 I is for Information Aesthetics[^27].  
-  
+
 (Just realized why this kind of thing can be tiresome.)  
-  
+
 Keyword in context (KWIC) is easy to implement[^28], but Jeffrey Garrett argued that it doesn't really fit with the way humanists think[^29].  
-  
+
 Brian Hayes discussed the search for the one, true programming Language[^30] in American Scientist. It's LISP.  
-  
+
 Dan Cohen noted that Machines are often the audience[^31] these days. He also wrote about data mining[^32], provided an example[^33] in his blog, and warned[^34] that we shouldn't allow available tools to guide our inquiry. I spent much of the year developing tools to mine[^35] the Dictionary of Canadian Biography and other online repositories.  
-  
+
 In September, Google released N-gram data[^36] to researchers. I argued that it could be put to use[^37] in digital history, and might help to change our notions of plagiarism[^38].  
-  
+
 O is for old. Just when you thought it was the new new[^39], it turned out to be weird[^40] weird[^41].  
-  
+
 Manan Ahmed penned a Polyglot Manifesto in two[^42] parts[^43]. I switched from Perl to Python.  
-  
+
 Q is for the <q> element, of course. Paula Petrik guided historians through the ins and outs of (X)HTML and CSS[^44] at HistoryTalk.  
-  
+
 Choudhury and colleagues demonstrated[^45] a new tool for document recognition.  
-  
+
 Exactly one year ago, in my first substantive post to this blog I suggested that historians be taught to search, spider and scrape[^46]. I still think it's necessary. Re: searching, Dan Cohen discussed the appeal[^47] of the single box, and Phil Bradley wrote about the past and future[^48] of search engines.  
-  
+
 Tags: Mills Kelly thought they could be used to subvert the archive[^49]. TEI: Keith Alexander talked about authoring[^50] directly in it. Timeline: the SIMILE group released a "DHTML-based AJAXy widget[^51]."  
-  
+
 Alan MacEachern[^52] started a series called "the Academic Alphabet" in University Affairs: "A is for admissions," "B is for books," and so on. Although he occasionally talks about digital history, he won't get to U until 2008. Good luck, buddy.  
-  
+
 Tim Burke wrote about the history of virtual worlds[^53] in Easily Distracted.  
-  
+
 W is for Wikipedia[^54]. Roy Rosenzweig wrote about whether history can be open source[^55]; Joseph Reagle blogged about his dissertation project[^56] on Wikipedia; Mills Kelly thought up classroom assignments[^57]; John Jordan discussed national variants[^58]. The New Yorker and Atlantic ran stories, too.  
-  
+
 I discovered the joys of XAMPP[^59] when I set up the new digital history server[^60] at Western. Jeff Barry wrote a similarly positive review at Endless Hybrids[^61].  
-  
+
 Yahoo! Term Extraction[^62], a handy way to find keywords in content.  
-  
+
 And finally, in September I got my first look[^63] at the cool new Zotero[^64]. Expect it to play a big role in digital history next year.  
-  
+
 Tags: digital history[^65]
 
+---
+
+Previous: [Pedagogy for Collective Intelligence](20061213-pedagogy-for-collective-intelligence.md)  
+Next: [Bent Circuits and Buzz Machines](20061227-bent-circuits-and-buzz-machines.md)  
 [Back to the blog archive](../README.md)
 
 [^1]: `http://digitalhistory.uwo.ca/quarry/aol-search-story.php`

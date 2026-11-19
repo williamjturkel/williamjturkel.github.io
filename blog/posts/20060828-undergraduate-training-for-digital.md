@@ -4,7 +4,7 @@ _August 28, 2006_
 Originally published at `https://digitalhistoryhacks.blogspot.com/2006/08/undergraduate-training-for-digital.html`
 
 I suspect that most of my readers are already working in academia or industry. I know of a few, however, who are at the beginning stages of an undergraduate program and are wondering what kind of coursework will provide a solid foundation for historical practice in a digital age. Although digital history (or history and computing or historical informatics) doesn't really exist yet as a separate specialty, many of the necessary techniques are already being taught at most universities and colleges. Furthermore, thanks to an initiative known as OpenCourseWare[^1], it is possible to teach yourself many of these techniques using freely-available courseware from MIT, Johns Hopkins, Carnegie Mellon, Tufts and other schools. (For the benefit of students at my own university, I've also included courses taught at Western.)  
-  
+
 So what kind of preparation? The short answer is that you want a double major in history and computer science with some carefully chosen math and linguistics courses. Below I've listed some of the coursework that I've found most useful (or wish that I had taken). Hopefully this post will encourage some other working digital historians or digital humanists to share their own suggestions.  
 
 * Foundational
@@ -36,16 +36,19 @@ So what kind of preparation? The short answer is that you want a double major in
 * Digital history (GMU Hist615[^31], Hist696[^32], Hist697[^33], UWO Hist513F[^34])
 
 Plus, of course, lots of whatever kinds of history courses most interest you.  
-  
-  
+
 Updates (30-31 Aug 2006)  
-  
+
 Paula Petrik[^35] writes "Since I'm cross-trained with an MFA, I'd like to add to your list and advise students to take an art course or two, especially in graphic design or typography. The web is a visual medium in many respects, and academics of necessity must 'compete' in this environment. That's not to say that historians must become graphic designers, but a good, clean design does wonders. And some knowledge of typography improves readability and legibility."  
-  
+
 Tom Scheinfeldt[^36] writes "I'd like to second Paula's comment about the importance of design and display. History is at least as much about presentation of results as it is about research. By the same token, I'd also encourage undergraduates to take at least one public history course. The web is the most public of media, and students should understand the interests and expectations not only of their scholarly peers, but also of the more general public they will surely encounter as they venture onto the web."  
-  
+
 Tags: digital history[^37] \| history education[^38] \| open source[^39] \| pedagogy[^40]
 
+---
+
+Previous: [Digital History Interns 2006](20060825-digital-history-interns-2006.md)  
+Next: [Easy Pieces in Python: A Lookup Table](20060830-easy-pieces-in-python-lookup-table.md)  
 [Back to the blog archive](../README.md)
 
 [^1]: `http://opencontent.org/ocwfinder/`

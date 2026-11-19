@@ -4,7 +4,7 @@ _December 9, 2008_
 Originally published at `https://digitalhistoryhacks.blogspot.com/2008/12/some-winter-reading-for-humanist-makers.html`
 
 (Crossposted to Cliopatria & Digital History Hacks)  
-  
+
 In December 2004, I bought a copy of Joe Martin's Tabletop Machining[^1] to see what would be involved in learning how to make clockwork mechanisms and automata. It was pretty obvious that I had many years of study ahead of me, but I had just finished my PhD and knew that publishing that would take a few years more. So I didn't mind beginning something else that might take ten or fifteen years to master. Since then, I've been reading steadily about making things, but it wasn't until this past fall that I actually had the chance to set up a small Lab for Humanistic Fabrication[^2] and begin making stuff in earnest. Since it's December again, I thought I'd put together a small list of books to help other would-be humanist makers.  
 
 * Alexander, Christopher. Notes on the Synthesis of Form[^3] (Harvard, 1964).
@@ -43,9 +43,12 @@ In December 2004, I bought a copy of Joe Martin's Tabletop Machining[^1] to see 
 * Thompson, Rob. Manufacturing Processes for Design Professionals[^35] (Thames & Hudson, 2007).
 * Woodbury, Robert S. Studies in the History of Machine Tools[^36] (MIT, 1973).
 
-  
 Tags: bricolage[^37] \| critical technical practice[^38] \| DIY[^39] \| fabrication[^40] \| humanism[^41]
 
+---
+
+Previous: [A Few Arguments for Humanistic Fabrication](20081121-few-arguments-for-humanistic.md)  
+Next: [Coda](20081229-coda.md)  
 [Back to the blog archive](../README.md)
 
 [^1]: `http://www.amazon.com/Tabletop-Machining-Joe-Martin/dp/0966543300/`
