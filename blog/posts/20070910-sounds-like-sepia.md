@@ -11,15 +11,15 @@ What I got to wondering was whether environmental coloration might be used to ma
 
 First, I built a simple circuit to generate a relatively pure tone using the handy 555 timer[^3] and a few other components. I set up a digital audio recorder right above the circuit and recorded a few seconds of irritating buzz. The rig is shown in the photo below... the white thing on the speaker is half of a Nalgene container that I used for a resonator. I've included the schematic in case you want to make your own. You can lower the pitch by increasing the resistance of the 100K resistor and raise it by decreasing the resistance.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmXL6vd9fsZnYKzT_VISHKVCP0wSgR-2qXpKW4EF7lCtvjIXpAEXpwJATz8-G-oXv4UD482l2_G17slaoGOVlkzoCcRHwN2BShDi_7A2SA24iWWo4Qou5av8wn9B3g7DETa2fiQ/s200/ec-circuit.jpg)  
+![](../images/20070910-sounds-like-sepia-1.jpg)  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxbvaoMX_bD_CcpumrADuGVpWRNU8ZfX_oz1maHuoTF94HoXqVIJhwoSsX9OsQtL8c5-jNmygTBkCJwxS_riedhE_tmvKX9NXzSNaKBCAhdiqG_QkQvOHkpsUZIFMeZH5O4Q0rZA/s200/ec-rig.jpg)  
+![](../images/20070910-sounds-like-sepia-2.jpg)  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiOk3Jp8tYhV7vn6on9LTmuC0pl7OQSwi0nioKEQQBnfamHb1LguUqg_iYei-2aWZfOygzw0r7sw0AlkMMEgnuI1I9NqpYpdCzrvzlomvgbaRCD1akSKFj_574poJw1R9ezQyoxA/s200/ec-schematic.jpg)  
+![](../images/20070910-sounds-like-sepia-3.jpg)  
 
 When I recorded the sound of the tone generator right above the circuit it sounded like this[^4] (WAV file). I then moved the recorder to a position about 10 feet away, near an open window. Finally I moved it into another room about 20 feet away. Using Audacity[^5], I amplified both of these recordings so that the overall sound level was the same as the first one (-21 dB). The recording made at an intermediate distance sounded like this[^6] (WAV file) and the one made at the far distance sounded like this[^7] (WAV file). Using the frequency analysis capability of Audacity, it is easy to see the effect of distance and noise on the subsequent recordings.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7M7PpSCppadRh3xVHhdAfv9J8qFdZCJsZaTdV5fEnT8kSLGKW-YRgZvW8KBMJOUQPC0RG6CI33h4e5qgoA4uodnVCfKSPvZROSvL63IpmwBMxjtgPiXQ-71kqoehwMGxBdVcmfA/s200/ec-freq-analysis.jpg)  
+![](../images/20070910-sounds-like-sepia-4.jpg)  
 
 Does environmental coloration make the sound seem more distant in time as well as space? I'm not sure. I thought I'd put it out there in case anyone else has the same perception, or wants to hack the hack.  
 

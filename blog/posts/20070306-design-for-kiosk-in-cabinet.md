@@ -5,7 +5,7 @@ Originally published at `https://digitalhistoryhacks.blogspot.com/2007/03/design
 
 Last year the Western Social Science building was renovated to include shallow glass-fronted display cabinets for each department. A small group of my colleagues gathered in front of ours to discuss how best to portray the department to students and visitors. Some thought that using the cabinet to display a collection of faculty-authored monographs would be boring ... which is funny, because writing such monographs is crucial for promotion and tenure in our department. Anyway, the general consensus was that it would be nice to have something fun, something animated, maybe even interactive.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9G06AhZbUJqH8WmFcrmEzV66LWKrr2D2BRGn80p1TF61KyBOk4vL5aBIMx6OwGkuTZIEdg7QycOn6uVw2BWI4ynjv9GbCotcn7JXpduabwL5cfoAFGYJer_HeFsBQILAnQzLlvA/s200/cabinet.jpg)  
+![](../images/20070306-design-for-kiosk-in-cabinet-1.jpg)  
 
 The cabinet poses two main design constraints. The first is that it is shallow, so there is room to fit a tablet computer, but not a laptop or desktop. It would also be difficult to fit in an LCD projector unless you wanted to do something catoptric[^1]. The second constraint is that there is an air gap between the user and the display. So they can't touch anything, unlike a regular kiosk. Interactions have to be mediated by photons, or radio waves, or sound. The cabinet is in a busy hallway near people's offices, so sound could get really irritating.  
 
@@ -15,9 +15,9 @@ I also like the idea of working with flows, something I've been thinking a lot a
 
 Here's what I came up with. In the cabinet there's a tablet computer with a webcam facing the user. A series of historical images flows past in chronological order, partially transparent and projected over the user's image. When they reach up to "touch" one of the images, the flow stops and that image is displayed in detail. They're not really touching anything, of course. The camera detects the motion of their hand in the air, and they see themselves touching something on the screen. Here are some screen shots from my demo:  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS5qGi0TLUiPbzzlyVFYCGp_EadaUDFi5KES3ixIBt9VO48E4I06LbmQebpv1hObid2R5RRZINlXw4OgqYMBUnDwqn9zlpmye80FMPpbjDNcgfnpC92BaHgGICDLNCWWr04Yguuw/s200/kiosk01.jpg)  
+![](../images/20070306-design-for-kiosk-in-cabinet-2.jpg)  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7PZFDM-qfIX1CiqD2eV8doAr8d5ywuQ8s9ENvnC8CguL9OUM30BkPE1V9BDnQEtBOjJaVqQBed-CnYUYnkJBbfcZpCJSYHzGk2khAAl_5OdSSs8AICQRRPJuX1MCgyV_3aUOq9w/s200/kiosk02.jpg)  
+![](../images/20070306-design-for-kiosk-in-cabinet-3.jpg)  
 
 You can download the Python source here[^6]. For my demo I used a lovely series of lantern slides from the McCord Museum[^7]. Although the webcam motion detector interface works, I didn't implement the flow part because in an actual installation I would want to use the wireless capabilities of the tablet to tap into an RSS feed of images. That would require a little more programming.  
 

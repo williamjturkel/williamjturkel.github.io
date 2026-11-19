@@ -10,7 +10,7 @@ I regularly read Tara Calashain's wonderful blog ResearchBuzz[^3], so when David
 
 Here's an example. Tables of contents for back issues of the journal Environmental History are stored in an HTML table on a web page[^6] at the Forest History Society. Suppose you want to look through them. You could always go to the page and browse. If you do this every few months, you will see that another issue has been added as a new one is released. Calishain discusses the use of page monitors to track these kinds of changes, so that you don't have to try to remember to visit the site on a regular basis.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid1Vvu4xrQCQe2LnHz_UjNghz9SB6Q7IVzLIIj_1X8sQa1vTHgq3bwfjUQObb8YcqTkjoHl-d1JCeBLLgkJRpDsfmIJ3sVAenFvz-43KufRMGqkbdHgjw1EOtWo69GsqZHbIaH_w/s200/howto01a.jpg)  
+![](../images/20070213-how-to-scrape-web-page-to-rss-feed-1.jpg)  
 
 Another strategy is scrape the information off of the webpage, transform it into an RSS feed, and make it available where you are going to be spending an increasing amount of your time (i.e., in your feed reader). You can do this without programming by making use of a sweet new free service called Feed43[^7]. Go to the website and choose "Create Your Own Feed." The first thing that it is going to ask you is for an address. Here you enter the URL of the page that you want to scrape:  
 
@@ -58,7 +58,7 @@ the "Item Link Template" to
 
 and since we don't have any content, just set that to a non-breaking space. Click "Preview" to make sure that your feed looks OK. At this point you can subscribe to your feed.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUa4ue48Ex-3_5TTaCaHXndy4wlUi30kEtcc1WN-K73FXbIBKLZHblDuO1g5Pvx3GbZO9MFwezy-imDU9DL6MagW1VRdzGeLdtOiFoupDW3fY_Xru1nH__S88ynjQmX8jfY7k4rQ/s200/howto01b.jpg)  
+![](../images/20070213-how-to-scrape-web-page-to-rss-feed-2.jpg)  
 
 Tags: digital history[^8] \| scraping[^9] \| RSS[^10]
 {% endraw %}

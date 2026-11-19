@@ -15,7 +15,7 @@ On the advanced search page[^5] of the online DCB, it is possible to click on a 
 
 This hack scrapes the search page to extract the codes for each of the identification categories, then 'clicks' each category and grabs the number of matching biographies. The results are then presented as a "tag cloud," a representation where the font size is proportional to the number of hits. The code for the hack was written in Perl and is available here[^6]. The tag cloud of entries in the DCB looks like this:  
 
-![](http://photos1.blogger.com/blogger/4745/1988/400/dcbo-cloud.jpg)  
+![](https://web.archive.org/web/20060115im_/http://photos1.blogger.com/blogger/4745/1988/400/dcbo-cloud.jpg)  
 
 Now what do we see? The vast majority of people in the DCB are businessmen, office holders, politicians, lawyers and soldiers. This, too, says a lot about Canadian historiography. It also suggests a new question: how do the categories change over time? That's another hack for another day.  
 

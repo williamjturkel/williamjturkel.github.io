@@ -7,8 +7,8 @@ Fifteen years ago William Cronon[^1] published *Nature's Metropolis: Chicago and
 
 Thinking idly about the historiographical significance of Cronon's book, I got to wondering what kind of hinterland it dominates. That is to say, where do we find publically accessible copies of *Nature's Metropolis*? Fortunately, the new Open WorldCat[^5] makes it quite easy for a digital history hacker to answer a question like this. First we search for the locations of libraries where the book is held and scrape the addresses[^6]. Then we use a lookup table[^7] to map the zip codes to latitude/longitude pairs. Finally, we hand the whole thing off to Google Maps[^8] to plot the results, shown below.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimFqawPpfw4vmMTOr7lmLEW2MAqWFSs1gKMiSxvU4tlFK447JdYVRtbZF9MNgUDnZjQsNSPk8xja2fAZPMY3vO0_vhi4g9GQBkVRte91BohJocFmFXDfJ4M7DTGxKihMQtv9yufg/s200/nm02.png)  
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-lkokKy7PyUrmLm24xOFn1MwUhOGzL9ukuvJxOVhvevRa3JXsWg6z8ZO7IygRD5sN_qyrJ4nPatEFe_Kc4XBFEwWXCVHbB91srHIOnp-zKB6YhDW5MhSvCQLxzP3zVRJLMUEhg/s200/nm01.png)  
+![](../images/20060904-natures-metropolis-and-its-hinterland-1.png)  
+![](../images/20060904-natures-metropolis-and-its-hinterland-2.png)  
 
 From the maps, it looks as if the hinterland that *Nature's Metropolis* dominates is the northeastern US.  
 

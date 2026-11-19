@@ -40,7 +40,7 @@ The distance between maximally different strings is 1. (For technical reasons, i
 
 So how well does this method work on historical biographies? Fortunately, Cilibrasi and Vitányi have made their work available as an open source software package called CompLearn[^23]. I chose the biographies of ten individuals from the *DCB* and handed them off to CompLearn. (The individuals were George Best[^24], Jean de Brébeuf[^25], John Cabot[^26], Sebastian Cabot[^27], Martin Frobisher[^28], Isaac Jogues[^29], Louis Jolliet[^30], René-Robert Cavelier de La Salle[^31], Paul Le Jeune[^32], and Jean Talon[^33]). If you are familiar with the history of Early Canada, you can probably do a preliminary clustering in your head. If not, a quick read through the biographies will give you some idea of how the individuals in question were related. The figure below shows what CompLearn came up with.  
 
-![](http://photos1.blogger.com/blogger/4745/1988/320/complearn.jpg)  
+![](https://web.archive.org/web/20060319im_/http://photos1.blogger.com/blogger/4745/1988/320/complearn.jpg)  
 
 I have to say, I'm ridiculously excited about compression as a machine learning technique.  
 

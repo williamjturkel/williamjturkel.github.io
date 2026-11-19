@@ -11,19 +11,19 @@ For my long-suffering students, this means the need to learn more about computer
 
 Most of my students have had little or no exposure to electronics and don't really have a sense of how to put off-the-shelf hardware modules together to create useful effects. We don't have a workshop space where people can solder (at least not yet) and don't have enough equipment for each student to build his or her own project. To get around some of these difficulties, I decided to create a collection of cards that can be laser printed on business card stock. Each card shows a picture of a device and has little glyphs along the sides that indicate how it can be combined with other devices. The basic scheme is laid out like this:  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7pIkTwKwsG8jywYkxRNbXtMjmB0TfUCejPJ8eH_2wFnNYloZAKkfjgQSMsVSUAVZhyWeHcsUsIG9HdPBgxVz89R9xbRm3VH1Gt_zEl7Szr8rNymfZPV1r4TWEX9DIubHf9JmjZQ/s200/analog-digital.jpg)  
+![](../images/20071120-physical-computing-cards-1.jpg)  
 
 I'm planning to use the cards in studio by talking through some of the basic principles of physical computing and describing how particular effects or installations might be created. Suppose, for example, that you wanted a museum exhibit to sense the presence of a viewer, try to figure out if it was a child or adult, and adjust the wording of the artifact captions accordingly. One way to implement something like that would be to use force sensitive resistors hidden in a floor mat to determine the person's weight, and establish one or more thresholds to set an appropriate caption, which would then be displayed on an LCD. All of the computation could be done onboard a microcontoller module like Arduino[^6]. Using these cards to create a block diagram the system might look something like this:  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzuPaJKAkMAtUDZL22XdM0BmJZwRQbJmzFtWy-j27s6YsodUwvKbZ3JbryG3SDJJXKMVPWuaQZYbdGTXE3AJJi0eMI_SgXb95eFOE6AUGd6oMB5XzFSyySWfOyFNQAwFdguh_zsg/s200/weight-caption-example.jpg)  
+![](../images/20071120-physical-computing-cards-2.jpg)  
 
 Having explained a bit about how each module works, I can then pose a series of increasingly difficult design challenges and talk through their ideas with them. How would you make a light come on to illuminate a panel when someone approaches?  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmn8SIR3JknXqEIeFnj080v4KpBqT1ZWOCtsjJKVg-EgsYETZYB5quuFVav5-elSF3PqN5npBUn-Gz-tOoXFC9UIcblY-APrEIpdSa2IQke8Q9jVDZQAuHLwZOdNASCibM2U8UvQ/s200/panel-light-example.jpg)  
+![](../images/20071120-physical-computing-cards-3.jpg)  
 
 Given our available equipment, the designs can be more elaborate. How would you build a Wii-style wireless remote into a replica of some historical scientific apparatus? One possibility might look something like this:  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWf5VkFYlkMDE3tqG4GgyTUovhU8bPsfOplPOuqtC3vyLYpZb6kvv3D3p4dzah-4iSrWtrQ6QWFueeACNKoXbz3ESgVb-kX6yrIW1KgHXhkAA0VR4mmzWA5TCgjpMGvi0myWnGQg/s200/wii-type-example.jpg)  
+![](../images/20071120-physical-computing-cards-4.jpg)  
 
 PDF pages of the cards that I've made so far are here[^7] (8Mb). If you are interested in printing your own, you can contact me for a zipped file of the JPEGs of individual cards.  
 

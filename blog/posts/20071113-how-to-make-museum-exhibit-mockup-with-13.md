@@ -15,23 +15,23 @@ If you are happy with your view, use File->Export->2DGraphic to create a JPEG. U
 
 In The GIMP, choose Image->CanvasSize. The width and height of the file are shown at the top, joined together on the right by a little chain. If you try to change one value, the other changes automatically, because the two values are chained together. Click on the Chain to break the link. Set the width to 1024, the height to 768 and click Resize. Now choose File->Save and click Export. This will save your file with the new dimensions. Use File->Close to close the image in The GIMP. Go out to Windows, right-click on your file and choose Properties. Click the Summary tab, and the Advanced button. It should confirm that your file is 1024 x 768 with 72 dpi. It is a good idea to get in the habit of keeping track of the properties of your image files. My first view looks like this:  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLRdruqnXFnvw9IPWhFYyjB_1yWsnHuS2IXQzVbXYR7WoqkADCNRG2OsRzfwp7nGCFjOB31B7A2W_bHunUeoCNNE43lW-oscOJodlBnmRaj7niENboEvmjoycONFZTsqO6hna_tg/s200/mockup-view-whole.jpg)  
+![](../images/20071113-how-to-make-museum-exhibit-mockup-with-13-1.jpg)  
 
 We now want to generate some views that are more representative of what the visitor would see. First, we want a shot of the view from outside the entrance. Choose Camera->StandardViews->Right and export a JPEG of the view. Mine looks like this:  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjvR583NjKvh1hfCbA7E6XhiIEvTcFds1XEZ6to9ypfVTAa1MTA2D76PIHNXlWSKM1c-0lcX4MPvKuESh938AZqcGZ9o1IfhKBFDCviJpXNQEncS5AwWlQG2-A8i3mcyfnFtBkyQ/s200/mockup-view-entrance.jpg)  
+![](../images/20071113-how-to-make-museum-exhibit-mockup-with-13-2.jpg)  
 
 As the visitor enters, I'm going to assume that his or her attention is drawn first to the projected image. (At this point Bryce might be getting in the way. You can try moving him around the space and orienting him appropriately, or simply drag him out of the way, which is what I did.) Choose Zoom and set the field of view to 65 degrees. Then choose Camera->StandardViews->Front. We want to give more of a feeling of immersion with this view, so choose Camera->Walk, put the cross hairs on the front edge of the carpet and click. Then you can use the UpArrow on the keyboard to move into the scene at the right eye level. When you're happy export a JPEG. Mine looks like this:  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGFFwiG1I_WbcjwUG9Rny5cpRpXppejFZ8fzp1icSsKG0NQW3eB0Yoc2GvLyLJTuiOPC_3CJpuWjcv3jODSNaIWejZZj_bp3-lPP9oVgC16ZVODezQns2ghPft2bwfrTEMh9oJlg/s200/mockup-view-projection.jpg)  
+![](../images/20071113-how-to-make-museum-exhibit-mockup-with-13-3.jpg)  
 
 Next we want to show a view of the display case. Click on the carpet near the kiosk, and use the UpArrow and LeftArrow on the keyboard to 'walk' around the scene until you get a good view. When you've got it, export a JPEG. Here's mine:  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP4qGm2SzSHtvGDhrFK6CVzd69TLqKZyXI5C_LGfq0Y4xBah27d3A2gB3mTIWKYI7h6a-stNu8clzR8iz69l5wuDlbz6rNvjfOREGw6vLF34AqcU96IJvQTszvO75dSaJLbJa5CA/s200/mockup-view-case.jpg)  
+![](../images/20071113-how-to-make-museum-exhibit-mockup-with-13-4.jpg)  
 
 Finally, I'm imagining that the visitor will check out the kiosk before moving into the next gallery. Continue to use the Walk tool to move around the scene until you get a good view looking back at the kiosk. Export a JPEG. Mine looks like this:  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtuj1Z221lqkSTqLpC9iBucPy-tFuiZ8qICIxMiO0qyp4rNhoL8p2aKqqeW4VCYJuYr55gMBDfYxFrUX9JrlHT9bfNQTIcZSXfJH3wYItOrJM2QUVvQDHQ8nN9JD8ECw6qzKcAUg/s200/mockup-view-kiosk.jpg)  
+![](../images/20071113-how-to-make-museum-exhibit-mockup-with-13-5.jpg)  
 
 We now have five images of our space to use in the presentation. At this point they are still quite plain. In the next part we will use The GIMP to modify these images to convey more of our vision for the exhibit.  
 

@@ -13,7 +13,7 @@ When applied to the problem of learning, Bayes theorem looks like this: Pr[categ
 
 So how well does the naive bayesian learner do? Not very well. In a tenfold cross-validation run testing for cases of simple larceny in the 1830s it has an average error rate of 39.17%, compared with COINFLIP's average error rate of 49.39%. The error rate is simply (Misses + False Positives) / Total Number of Trials. Part of the problem is that we made the assumption that the probability of any word in a document is independent of the probability of any other word in the same document. We know this isn't strictly true. In the Old Bailey proceedings, for example, you find both "dwelling" and "dwelling house", as well as "victualling house", "sessions house", "station house", "house keeper" and many other forms. To the extent that these and other words tend to co-occur, the word probabilities can't be independent. We can improve the performance of our naive bayesian learner by using pairs of words (i.e., 2-grams) rather than individual words as features for the learner. This drops the error rate to 26.23% when categorizing trials for simple larceny in the 1830s. The code that tests the different learners is here[^6]. A graph of performance is shown below.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguBpwzlLLpzI5Nr4TOPCj9tI-GLpczHZdyj52vDoF2uyULw2m8NuneABC6d_SDrPi6nN8wkBmyxTpRG9apRxlh7RpZI_2tpOIGeybGayVj39EeqDKHL7rw_9m8tCkA0DWRjoPvuA/s200/ob-cross-validation-larceny-stats.jpg)  
+![](../images/20080617-naive-bayesian-in-old-bailey-part-7-1.jpg)  
 
 Tags: archive[^7] \| data mining[^8] \| digital history[^9] \| feature space[^10] \| machine learning[^11] \| text mining[^12]
 

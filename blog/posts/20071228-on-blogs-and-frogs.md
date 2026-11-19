@@ -9,7 +9,7 @@ Last week some time, my eyes popped open in the middle of the night and I realiz
 
 From there I got to thinking about the students in my digital history grad class[^2]. They have to blog as the written component of their coursework. Although I'm very explicit about my preference for quality over quantity, you'd think that they would be motivated to produce approximately the same amount of written work as one another. Nevertheless, I had a sense that there could easily be an order of magnitude difference in output between the most and least-frequent posters. I tried to visualize what the distributions would look like: probably a power law[^3]. Since that night, I've had a chance to check. The figure below shows the number of times that various members of Cliopatria and of my grad class posted between the beginning of September and now.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLj1dKoCeWdtlP_5K02JOHgIa4h3-_2Iu1ARAmUdtCn4U_ox7PjlsvKNobxtFoqS3k3z8UdHSMBCNDgi9yqB4-P7IE8DBPrOqSrhbD0mJxMblwsU3Y9evFff_SaYtc2YvLZAbe8A/s200/blogging-activity.jpg)  
+![](../images/20071228-on-blogs-and-frogs-1.jpg)  
 
 I think most academics, including my students, quickly learn that they have strong preferences for some kinds of writing rather than others. One person likes to write abstruse monographs, one popular books, one carefully-crafted essays. Some of us have found that we're able to blog and some people seem to be especially good at it. There's an ecology of scholarly production, and we all have to find our niche.  
 

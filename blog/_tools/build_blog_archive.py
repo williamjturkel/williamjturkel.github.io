@@ -77,6 +77,21 @@ def image_sources(html):
         yield src, best
 
 
+def download_image(url, depth=0):
+    """Return (bytes, content type). Old Blogger "full size" links lead to
+    a small HTML page that holds the picture; follow it to the image."""
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        data, ctype = r.read(), r.headers.get_content_type()
+    if ctype.startswith("image/"):
+        return data, ctype
+    if ctype == "text/html" and depth == 0:
+        img = BeautifulSoup(data, "lxml").find("img")
+        if img and img.get("src"):
+            return download_image(img["src"], depth + 1)
+    raise ValueError(f"not an image ({ctype})")
+
+
 def fetch_images():
     IMAGES_DIR.mkdir(exist_ok=True)
     manifest = json.loads(IMAGE_MANIFEST.read_text()) if IMAGE_MANIFEST.exists() else {}
@@ -89,9 +104,7 @@ def fetch_images():
             data = ctype = None
             for url in dict.fromkeys([best, src]):      # fall back to src
                 try:
-                    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-                    with urllib.request.urlopen(req, timeout=60) as r:
-                        data, ctype = r.read(), r.headers.get_content_type()
+                    data, ctype = download_image(url)
                     break
                 except Exception as err:
                     print(f"  failed {url}: {err}")
@@ -134,8 +147,9 @@ def load_entries():
 class FootnoteConverter(MarkdownConverter):
     """markdownify converter that turns <a href> into footnotes."""
 
-    def __init__(self, images=None, **options):
+    def __init__(self, images=None, date=None, **options):
         super().__init__(**options)
+        self.date = date
         self.notes = []          # list of URLs, footnote n = index + 1
         self.images = images or {}
 
@@ -164,6 +178,10 @@ class FootnoteConverter(MarkdownConverter):
         alt = (el.get("alt") or "").replace("]", "")
         if src in self.images:
             src = "../images/" + self.images[src]
+        elif src.startswith("http") and self.date:
+            # The original host is gone and no local copy could be made:
+            # show the Wayback Machine's copy nearest the post date.
+            src = f"https://web.archive.org/web/{self.date:%Y%m%d}im_/{src}"
         return f"![{alt}]({src})"
 
     def convert_code(self, el, text, *args, **kwargs):
@@ -246,7 +264,7 @@ def escape_pipes(md):
 
 def convert(post, images=None):
     soup = BeautifulSoup(post["html"], "lxml")
-    conv = FootnoteConverter(images=images, heading_style="ATX", bullets="*",
+    conv = FootnoteConverter(images=images, date=post["published"], heading_style="ATX", bullets="*",
                              escape_underscores=True, escape_asterisks=True)
     body = conv.convert_soup(soup)
     body = re.sub(r"[ \t]+\n", lambda m: "  \n" if m.group(0).startswith("  ") else "\n", body)

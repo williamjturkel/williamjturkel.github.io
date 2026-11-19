@@ -10,11 +10,11 @@ In an earlier hack[^2] we discovered that the majority of people in the *Diction
 
 Does this capture the Canadian experience? Time for another hack[^5]. To save time, we scrape the search page and extract the codes for the different volumes and categories. Biographies in four of the twelve volumes haven't been categorized, so there will be some gaps in our data, but we should have enough to see trends. We build a table of data[^6] to analyze in a spreadsheet. We can then plot the relative proportion of each occupation over time. (Relative because there are more biographies overall in some volumes.) Also, since some occupations are very common (e.g., member of armed forces) and others are not (e.g., architect) we will want to plot the numbers on a log scale[^7]. The following three graphs show which occupations lose, maintain or gain ground over time.  
 
-![](http://photos1.blogger.com/blogger/4745/1988/200/ids-chg-down.jpg)  
+![](https://web.archive.org/web/20060122im_/http://photos1.blogger.com/blogger/4745/1988/200/ids-chg-down.jpg)  
 
-![](http://photos1.blogger.com/blogger/4745/1988/200/ids-chg-even.jpg)  
+![](https://web.archive.org/web/20060122im_/http://photos1.blogger.com/blogger/4745/1988/200/ids-chg-even.jpg)  
 
-![](http://photos1.blogger.com/blogger/4745/1988/200/ids-chg-up.jpg)  
+![](https://web.archive.org/web/20060122im_/http://photos1.blogger.com/blogger/4745/1988/200/ids-chg-up.jpg)  
 
 So, is there an "Adams Effect" in Canadian biography? His "war" prediction is spot on: almost 21% of the biographies in Volumes 2 (1701-40) and 4 (1771-1800) are for members of the armed forces. This drops steadily to about 4 or 5% by the late nineteenth century. "Politics," alas, becomes more, rather than less, popular, accounting for about 10% of the biographies in the first half of the nineteenth century, and peaking at about 14% in Volume 11 (1881-90). It is worth emphasizing the fact that the volumes of the *DCB* are organized by death dates, and that politicians who died in the 1880s may well have been active in the 1860s and 70s (i.e., during the Canadian Confederation[^8] and its aftermath.)  
 

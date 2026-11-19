@@ -61,7 +61,7 @@ feedfile.close()
 
 That's all there is to it. Most of the hassle is in getting the tabbing and newlines right, and dealing with the odd missing bit of information (in this case, some of the courses don't seem to have numbers.) The RSS file that we created is here[^5]. Now you can easily add it to a feed reader like Bloglines[^6], as shown below.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkk0lvMUxWFRd8M58HfnsWY2DmYftWBXoB52Lmj36ZUqk6TI2AFhHOfjKGd5cr64Yb9Jv4d8EHgoAJBp1nEvWicIp6KHqdFGZjxCpd7ty94dUSGQqhyP1ghLQIqg0nHOXTq7KOvA/s200/rssfeed.jpg)  
+![](../images/20070211-easy-pieces-in-python-munging-1.jpg)  
 
 Tags: hacking[^7] \| munging[^8] \| Python[^9] \| RSS[^10] \| XML[^11]
 

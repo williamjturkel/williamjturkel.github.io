@@ -11,7 +11,7 @@ An alternate strategy is to enter a broad search keyword (e.g., "Frobisher") and
 
 The figure below shows the first 31 of 50 hits for "Frobisher" before and after this search refinement process. I used red font to indicate the irrelevant results. As can be seen, this use of compression and a probe text does a good job of floating the relevant hits to the top of the pile.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVHhJo_-1dAmitItBTtMiAmWHCcak5prD5FxP_tyqiutn4QnoSngeW-einUeWzOmr7tWhsyYMezhylPv6yOaHSzp2vRpTsJuA79xfeDJ9SbVItoVvwHQo33rWBQOjWLC0aSLJ59g/s200/frobisher-ncd-graph.png)  
+![](../images/20070702-search-refinement-with-compression-1.png)  
 
 Tags: data compression[^4] \| data mining[^5] \| Dictionary of Canadian Biography[^6] \| digital history[^7] \| Kolmogorov complexity[^8] \| search[^9] \| visualization[^10]
 

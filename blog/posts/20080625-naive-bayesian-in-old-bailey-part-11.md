@@ -7,11 +7,11 @@ We feel pretty confident that the performance of the TFIDF-50 version of the nai
 
 The code for testing is here[^1]. The learner is given the trials in chronological order, one at a time. The way that the program works is that it first uses the current state of the learner to classify a trial. The classification is scored as a hit, miss, false positive or correct negative, then the trial is used to train the learner (with the appropriate category being given as feedback). The learner is then given the next trial to judge. Once the learner has seen all of the data, the final count of hits, misses, etc. is output and the performance plotted as in previous posts. The results are shown below for the 1830s.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQrAjuSVayuY1YLza2Ux2n_jdj2Q1waxk0lYCkx5mIdJffk3j289X6tDh3_QWp0AmCoq83PLMSNubZM17dbjjTGVzVKKr_LqjK35IElFThxcpYndlQESHUxFUAY0x6pWS3J0W6OQ/s200/ob-tfidf50-1830s.jpg)  
+![](../images/20080625-naive-bayesian-in-old-bailey-part-11-1.jpg)  
 
 As can be seen, the performance is pretty stable, considering that different offences make up values ranging between 0.077% (for perverting justice 10/12959) and 42.48% of the total (for simple larceny 5505/12959). The system gets very few false positives for bigamy, and quite a few for shoplifting. We'll look at why this is the case in the next post. It is very accurate for the most frequently attested offence, simple larceny, and relatively inaccurate for the infrequently attested offences of kidnapping (11/12959) and perverting justice (10/12959). The central part of the plot is magnified and shown in the figure below. The performance of the learner varies for similar sorts of crime (e.g., it performs better for indecent assault than assault), something that we will take up next.  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxm01CcN74exz4jBe5iqHuVY7_nRd1iIPiPs8tKrhyphenhyphenENU7x8kQVeSkqgl7RHyfLbrTdWoteWHRLz5KE-D-lRNsJnYEJrYmgLcRqCOu0kI8O528Gv7iMhXDVmB9jjXEA7xj7iqnBg/s200/ob-tfidf50-1830s-detail.jpg)  
+![](../images/20080625-naive-bayesian-in-old-bailey-part-11-2.jpg)  
 
 Tags: archive[^2] \| data mining[^3] \| digital history[^4] \| feature space[^5] \| machine learning[^6] \| text mining[^7]
 

@@ -11,7 +11,7 @@ For a couple of years I've been doing projects with my students and research ass
 
 Last week, Adam[^4], Devon[^5] and I had a chance to set up our new Roland Modela MDX-20[^6] and try making something with it, a kind of physical "hello world."  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv2ZB4d66kdmXTDpejOGQY-SZNzMQsBB1Nv1CCTHky4Zd5mamOzMzD0D87IhyphenhyphenCWB7g4bPAwhenRS07zG88DoBiRO4JjWLSEIjvCYWAtkCidA219BC4juRsolK442GEScqP3N-01Q/s400/mdx20-20080919-thumbs.jpg)  
+![](../images/20080921-hello-world-1.jpg)  
 
 The MDX-20 is a (relatively simple) computer-controlled milling machine. It is able to move a rapidly spinning, sharp tool in three dimensions, gradually removing material from a solid block, so that it comes to precisely resemble a three-dimensional model in the computer. What this means is that something that is almost purely virtual can be materialized in foam, plastic, wood, and other soft physical media. (Although our first efforts look pretty chunky, the machine is capable of much more precise contours--we have a lot to learn.) The MDX-20 also has a scanning probe, which we haven't had a chance to test yet. When used in scanning mode, the MDX-20 automates the creation of 3D models from physical objects. This allows you to start with one or more objects in the real world, scan them to create 3D models, edit or remix as desired, then replicate them in material form. At this point, the possibilities seem nearly endless.  
 
