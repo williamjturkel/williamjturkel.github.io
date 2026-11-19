@@ -13,7 +13,7 @@ Both bent circuits and buzz machines lend themselves to a kind of feedback-drive
   
 Sitting at the workbench, fiddling with wires and inhaling molten solder and burnt plastic, I've had plenty of time to muse about digital history. At this point our discipline is where music was in the first half of the twentieth century. There is a long, classical tradition that most historians know and work in. There are a few new technologies that are familiar and widespread... we might think of, say, word processors the way that they thought of vinyl records. There are a few technologies that are becoming familiar but aren't taken very seriously (wiki[^9] = theremin[^10]?) While the more avant-garde are playing with the equivalent of tape loops[^11] or prepared pianos[^12], there hasn't yet been widespread adoption and endless modification of these and other techniques. They're still the domain of Brian Eno[^13] and not of Madonna[^14]. This makes it difficult to teach digital history, because students have to be simultaneously exposed to low-level stuff that is still far from their day-to-day research (e.g., programming in Python) and high-level stuff that is potentially relevant but tangential (e.g., data mining). What's in-between doesn't exist yet.  
   
-Tags: buzz machines[^15] | circuit bending[^16] | digital history[^17] | electronica[^18] | hacking[^19]
+Tags: buzz machines[^15] \| circuit bending[^16] \| digital history[^17] \| electronica[^18] \| hacking[^19]
 
 [Back to the blog archive](../README.md)
 

@@ -7,7 +7,7 @@ One of the great benefits of having a blog has been that people who are interest
   
 I started by downloading local copies of all of the files. This is usually a good idea both because it makes the processing faster and because you aren't hammering the archive's servers every time you need to access a record. There are a number of different ways to do something like this, and it is very handy for historians to be familiar with at least some of them. One possibility is to use a Firefox extension like DownThemAll[^3]. This allows you to download all of the links or images in a webpage. It also allows you to pause and resume the download process, which can be useful when you're working with a large number of files. For those who are more comfortable with scripting and prefer command line tools, it is hard to beat GNU Wget[^4]. Both programs are free. The third alternative is to write your own script in a language like Python or Perl. This option is most difficult, but gives you more control over various kinds of preprocessing, like dealing with accented characters. (For more, see the section on this in The Programming Historian[^5].) It takes a while to download a large batch of files, but once you have them you're ready to move on to the next step.  
   
-Tags: archive[^6] | data mining[^7] | digital history[^8] | feature space[^9] | machine learning[^10] | text mining[^11]
+Tags: archive[^6] \| data mining[^7] \| digital history[^8] \| feature space[^9] \| machine learning[^10] \| text mining[^11]
 
 [Back to the blog archive](../README.md)
 

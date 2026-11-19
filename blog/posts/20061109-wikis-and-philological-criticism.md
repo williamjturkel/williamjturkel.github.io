@@ -11,7 +11,7 @@ Wiki software automatically tracks every single change made to a given page and 
   
 Far too much emphasis has been placed on the content of Wikipedia, and not nearly enough on the practices of reading that it supports. Our students should be using wikis to learn the philological underpinnings of their craft, not told to avoid them because they are a 'bad' source.  
   
-Tags: history flow[^5] | philology[^6] | reading[^7] | Wikipedia[^8]
+Tags: history flow[^5] \| philology[^6] \| reading[^7] \| Wikipedia[^8]
 
 [Back to the blog archive](../README.md)
 

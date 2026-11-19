@@ -53,7 +53,7 @@ Now use the Arrow tool to select each face of the pyramid in turn, right-click a
   
 We now have a basic 3D model which we can use to convey an impression of how the exhibit space will look. If you'd like to load the model into SketchUp and play with it, a copy is here[^4]. In the next part, we'll generate some screenshots of our space, and load them into The GIMP for further manipulation.  
   
-Tags: digital history[^5] | public history[^6]
+Tags: digital history[^5] \| public history[^6]
 
 [Back to the blog archive](../README.md)
 

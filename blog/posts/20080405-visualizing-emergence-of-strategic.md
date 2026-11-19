@@ -45,7 +45,7 @@ A year and half later, we're in the process of scaling up NiCHE activities by a 
   
 What is more exciting is that we are getting closer to the point where we can make these kind of tools available to everyone in NiCHE. People will be able to enter their own information about research collaborations and interests, and explore social connections within the network. It will become much easier to find joint acquaintances to make introductions or to find people with particular skills or expertise.  
   
-Tags: Graphviz[^9] | social network analysis[^10] | SSHRC (Social Sciences and Humanities Research Council of Canada)[^11] | visualization[^12]
+Tags: Graphviz[^9] \| social network analysis[^10] \| SSHRC (Social Sciences and Humanities Research Council of Canada)[^11] \| visualization[^12]
 
 [Back to the blog archive](../README.md)
 

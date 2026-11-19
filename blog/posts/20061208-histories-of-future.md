@@ -7,7 +7,7 @@ My grad seminar in digital history[^1] wrapped up this week with a discussion of
   
 As I've mentioned before[^4], digital history is new enough that there's no real gap yet between the frontiers of research and classroom discussions. So for me, the idea of "histories of the future" represents a problem that I'm struggling with. Many of the histories that are being written right now don't really reflect the present, at least not my present. (In his wonderful Blessed Among Nations[^5], Eric Rauchway uses the metaphor of an eyeglass prescription that no longer makes things clear.) I have the sense that if I could only figure out how to relate the two senses of the phrase "histories of the future," I'd know what history should look like in the present.  
   
-Tags: digital history[^6] | macdougall, rob: influence of[^7]
+Tags: digital history[^6] \| macdougall, rob: influence of[^7]
 
 [Back to the blog archive](../README.md)
 

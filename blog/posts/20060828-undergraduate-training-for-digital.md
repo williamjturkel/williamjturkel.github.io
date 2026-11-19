@@ -44,7 +44,7 @@ Paula Petrik[^35] writes "Since I'm cross-trained with an MFA, I'd like to add t
   
 Tom Scheinfeldt[^36] writes "I'd like to second Paula's comment about the importance of design and display. History is at least as much about presentation of results as it is about research. By the same token, I'd also encourage undergraduates to take at least one public history course. The web is the most public of media, and students should understand the interests and expectations not only of their scholarly peers, but also of the more general public they will surely encounter as they venture onto the web."  
   
-Tags: digital history[^37] | history education[^38] | open source[^39] | pedagogy[^40]
+Tags: digital history[^37] \| history education[^38] \| open source[^39] \| pedagogy[^40]
 
 [Back to the blog archive](../README.md)
 

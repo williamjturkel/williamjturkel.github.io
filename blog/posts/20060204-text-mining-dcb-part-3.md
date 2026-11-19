@@ -27,7 +27,7 @@ Given the biographies that we already downloaded and the 65 words in our text fi
   
 Next we will want to formalize the idea of distances in our feature space...  
   
-Tags: concordance[^8] | dictionary of canadian biography[^9] | digital history[^10] | feature space[^11] | hacking[^12] | perl[^13] | text mining[^14]
+Tags: concordance[^8] \| dictionary of canadian biography[^9] \| digital history[^10] \| feature space[^11] \| hacking[^12] \| perl[^13] \| text mining[^14]
 
 [Back to the blog archive](../README.md)
 

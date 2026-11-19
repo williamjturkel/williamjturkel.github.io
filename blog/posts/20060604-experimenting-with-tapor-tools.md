@@ -65,7 +65,7 @@ Without reading the biography yet, I can now guess that Robert McLaughlin lived 
 10. A history page on the GM Canada website which talks about McLaughlin and his company
 
   
-Tags: concordance[^7] | dictionary of canadian biography[^8] | digital history[^9] | history education[^10] | pedagogy[^11] | search[^12] | stepwise refinement[^13] | text mining[^14]
+Tags: concordance[^7] \| dictionary of canadian biography[^8] \| digital history[^9] \| history education[^10] \| pedagogy[^11] \| search[^12] \| stepwise refinement[^13] \| text mining[^14]
 
 [Back to the blog archive](../README.md)
 

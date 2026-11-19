@@ -9,7 +9,7 @@ As a result I've decided to make a few modifications so that we can store inform
   
 In my next post I will describe the intial data tables and the way we get Perl to talk to our database...  
   
-Tags: dictionary of canadian biography[^6] | digital history[^7] | relational databases[^8] | text mining[^9]
+Tags: dictionary of canadian biography[^6] \| digital history[^7] \| relational databases[^8] \| text mining[^9]
 
 [Back to the blog archive](../README.md)
 

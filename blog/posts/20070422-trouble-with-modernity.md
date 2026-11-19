@@ -21,7 +21,7 @@ Fossil trail, indeed. Designing from scratch is like trying to start every evolu
   
 In Web 2.0 applications, there has been a trend toward microcontent[^9]. On the plus side, this has led to easy remixing and the wonderful variety of mashups. We have to be careful, however, to maintain and index the context in which these chunks are used and reused. One of the fundamental principles of archival practice is respect for the original order[^10] of records. In a sense, this is akin to the practice of keeping mostly whole cars in junkyards. It may not appear to be the most "logical" way of preserving information, but in the long run it may turn out to be the must useful way.  
   
-Tags: analysis and synthesis[^11] | bricolage[^12] | context[^13] | findability[^14] | hacking[^15] | LEGO[^16]
+Tags: analysis and synthesis[^11] \| bricolage[^12] \| context[^13] \| findability[^14] \| hacking[^15] \| LEGO[^16]
 
 [Back to the blog archive](../README.md)
 

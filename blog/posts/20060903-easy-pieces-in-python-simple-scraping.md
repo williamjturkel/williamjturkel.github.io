@@ -41,7 +41,7 @@ And this is what we get:
   
 By modifying the URLs and patterns that we feed into our scraper, we can accomplish a wide variety of scraping tasks with a small amount of code.  
   
-Tags: hacking[^9] | python[^10] | scraping[^11] | WorldCat[^12] | XML[^13]
+Tags: hacking[^9] \| python[^10] \| scraping[^11] \| WorldCat[^12] \| XML[^13]
 
 [Back to the blog archive](../README.md)
 

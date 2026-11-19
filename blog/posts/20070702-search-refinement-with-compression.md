@@ -13,7 +13,7 @@ The figure below shows the first 31 of 50 hits for "Frobisher" before and after 
   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVHhJo_-1dAmitItBTtMiAmWHCcak5prD5FxP_tyqiutn4QnoSngeW-einUeWzOmr7tWhsyYMezhylPv6yOaHSzp2vRpTsJuA79xfeDJ9SbVItoVvwHQo33rWBQOjWLC0aSLJ59g/s200/frobisher-ncd-graph.png)  
   
-Tags: data compression[^4] | data mining[^5] | Dictionary of Canadian Biography[^6] | digital history[^7] | Kolmogorov complexity[^8] | search[^9] | visualization[^10]
+Tags: data compression[^4] \| data mining[^5] \| Dictionary of Canadian Biography[^6] \| digital history[^7] \| Kolmogorov complexity[^8] \| search[^9] \| visualization[^10]
 
 [Back to the blog archive](../README.md)
 

@@ -11,7 +11,7 @@ The beauty of a wiki, as many people have noted, is that it allows online materi
   
 This year, Rob MacDougall[^6] and I are teaching a new course on science, technology and global history, and I find myself in the (exciting? unenviable?) position of writing my lectures the week before I give them. A lot of my projects feel like they may be on hold until November, when I can hand the lecturing off to Rob and start to deal with some of the changes that have broken things that used to work. I can't feel too bothered, however. All is flux[^7], especially on the internet. The trick is to find the techniques and tools that help you deal gracefully with change, to think in clay and not in stone.  
   
-Tags: Dictionary of Canadian Biography[^8] | digital history[^9] | entropy[^10] | wikis[^11]
+Tags: Dictionary of Canadian Biography[^8] \| digital history[^9] \| entropy[^10] \| wikis[^11]
 
 [Back to the blog archive](../README.md)
 

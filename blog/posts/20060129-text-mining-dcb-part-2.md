@@ -33,7 +33,7 @@ The curve looks pretty much like we expected it to. There are peaks at 1600, 161
   
 Next we will use the concordance to establish a list of features so we can create a spreadsheet representation of Volume 1 that looks like the one above...  
   
-Tags: concordance[^8] | dictionary of canadian biography[^9] | digital history[^10] | hacking[^11] | perl[^12] | statistical natural language processing[^13] | text mining[^14]
+Tags: concordance[^8] \| dictionary of canadian biography[^9] \| digital history[^10] \| hacking[^11] \| perl[^12] \| statistical natural language processing[^13] \| text mining[^14]
 
 [Back to the blog archive](../README.md)
 

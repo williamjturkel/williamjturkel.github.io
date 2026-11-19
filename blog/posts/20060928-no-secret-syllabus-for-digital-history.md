@@ -12,7 +12,7 @@ It's a fun observation and it rings true for me. It explains the asides that I b
   
 But not every course has a secret syllabus. Notably, I don't have one for my digital history grad class[^7]. The things that I put in the syllabus this year are exactly the things I am struggling with right now. In 20 years, perhaps, when digital history is an established field with a hundred visions and revisions ... maybe then I will feel the impatient tension between what I need to tell them and what I want to tell them. But for now all we have are the visions. When one of my tech-savvy students tells me in a bemused way that he has never felt so lost in all his life, I can agree. Me either. Right now digital history is an exploration. We don't know what we're going to find. We don't even have a map, never mind a secret one. That is why it is such a great time to become a digital historian.  
   
-Tags: digital history[^8] | voyageurs[^9]
+Tags: digital history[^8] \| voyageurs[^9]
 
 [Back to the blog archive](../README.md)
 

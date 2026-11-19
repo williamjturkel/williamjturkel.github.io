@@ -14,7 +14,7 @@ If the idea of exhaustive or complete research ever made sense, it doesn't any l
   
 One of the consequences of the infinite archive (or of what Roy Rosenzweig calls the "culture of abundance[^2]") is that we can't wait to run out of sources before ending a line of inquiry. We can't even pretend to do so. Instead, we have to focus on how much new information we are getting, on average, from what we're learning. Following the work of CS Peirce and William James, Gregory Bateson famously defined information as "the difference that makes a difference." When it stops making a difference, it's no longer information.  
   
-Tags: bits[^3] | convergence[^4] | information[^5] | pragmatism[^6]
+Tags: bits[^3] \| convergence[^4] \| information[^5] \| pragmatism[^6]
 
 [Back to the blog archive](../README.md)
 

@@ -19,7 +19,7 @@ It's not just these two word sequences that have a history. Every word, every co
   
 A similar logic would help us find documents written by ornithologists. In this case, the training corpus would have to be tagged with a different kind of metadata in addition to the date: the occupation of the author. Once we had that we could discover that two words that appear separately on millions of web pages, "pair" and "nested", occur quite rarely as the collocation "pair nested." That's the kind of thing an ornithologist would write.  
   
-Tags: n-grams[^18] | perpetual analytics[^19] | search[^20] | spidering[^21] | text mining[^22] | trolling engine[^23]
+Tags: n-grams[^18] \| perpetual analytics[^19] \| search[^20] \| spidering[^21] \| text mining[^22] \| trolling engine[^23]
 
 [Back to the blog archive](../README.md)
 

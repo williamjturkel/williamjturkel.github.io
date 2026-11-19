@@ -15,7 +15,7 @@ In the long run, the complete digitization of our archival base may be accompani
   
 In a sense, the information-processing revolution in history is one part of a much larger and longer-term trend that J. R. and William H. McNeill have traced in The Human Web[^8]. Patterns of interaction and exchange have become ever denser and faster over the course of the Holocene, with a consequent reduction in information costs.  
   
-Tags: digital history[^9] | historiography[^10] | information costs[^11]
+Tags: digital history[^9] \| historiography[^10] \| information costs[^11]
 
 [Back to the blog archive](../README.md)
 

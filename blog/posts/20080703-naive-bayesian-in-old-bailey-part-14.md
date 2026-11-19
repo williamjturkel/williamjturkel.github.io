@@ -23,7 +23,7 @@ Machine learning can be a powerful tool for historical research because
 4. Its false positive errors are often instructive, giving you a way of finding interesting things just beyond the boundaries of your categories
 5. A change in the learner's performance over time might signal a historically significant change or discontinuity in your sources
 
-Tags: archive[^4] | data mining[^5] | digital history[^6] | feature space[^7] | machine learning[^8] | text mining[^9]
+Tags: archive[^4] \| data mining[^5] \| digital history[^6] \| feature space[^7] \| machine learning[^8] \| text mining[^9]
 
 [Back to the blog archive](../README.md)
 

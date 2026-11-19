@@ -23,7 +23,7 @@ Now I guess it's my turn to pass this on. I'm tagging five people who made the m
 * Gavin Robinson, "Digital History Projects: Planning[^13]," Investigations of a Dog[^14].
 * Alun Salt, "The Antikythera Mechanism[^15]," Archaeoastronomy[^16].
 
-Tags: 5 things[^17] | memetics[^18]
+Tags: 5 things[^17] \| memetics[^18]
 
 [Back to the blog archive](../README.md)
 

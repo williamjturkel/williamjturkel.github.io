@@ -17,7 +17,7 @@ As I see it, many of the programs that we are currently using impede the unifica
   
 How could this be different? Think of your Zotero bibliography as the core of your research process. Every item in it is there because it is relevant to your work. Suppose you keep your notes and drafts in Zotero, too. Then for the purposes of digital history, a good statistical description of your Zotero database is the best and most up-to-the-minute description of your research process. That description will be more accurate to the extent that you can incorporate other streams of information into it, like the feeds that you read, the books that you purchase, and the research-related web searches that you do. I think that the development of Zotero in the near future will allow more and more of this kind of incorporation, and the fact that the software is open source and provides an API bodes well for using it as a platform for mining. The key point that I want to emphasize, however, is that measurements of your Zotero bibliography will be most useful to the extent that they are fed back into your research in a useful way. Suppose you do a quick analysis of a text that you are in the process of reading. It is quite simple to provide the results of that analysis both as information that you can read, and as a vector that can be used to refine automatic searching or spidering for related material.  
   
-Tags: analysis and synthesis[^6] | browser[^7] | data mining[^8] | digital history[^9] | entropy[^10] | flows[^11] | information costs[^12] | Zotero[^13]
+Tags: analysis and synthesis[^6] \| browser[^7] \| data mining[^8] \| digital history[^9] \| entropy[^10] \| flows[^11] \| information costs[^12] \| Zotero[^13]
 
 [Back to the blog archive](../README.md)
 

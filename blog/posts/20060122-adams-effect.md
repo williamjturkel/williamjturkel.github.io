@@ -24,7 +24,7 @@ How about the next generation? We see a decline in explorers and mariners, in th
   
 (26 Sep 2008: links to code updated)  
   
-Tags: dictionary of canadian biography[^9] | digital history[^10] | hacking[^11] | perl[^12]
+Tags: dictionary of canadian biography[^9] \| digital history[^10] \| hacking[^11] \| perl[^12]
 
 [Back to the blog archive](../README.md)
 

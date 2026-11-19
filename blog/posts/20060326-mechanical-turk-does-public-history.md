@@ -15,7 +15,7 @@ So what does this have to do with history? For one thing, automata have a wonder
   
 Setting aside the history of computers and the history of people-as-computers, digital history allows people to be integrated into computation in surprising and powerful new ways. Many of these will have implications for public history. Take the folksonomies[^14] that arise from tagging. As Mills Kelly noted in a recent post[^15] in edwired, opening up archives and museums to public tagging is a new way of allowing people to find their own significance in historical sources. "Then we'll see what the archive really looks like to the user," he says, "as opposed to the archivist." Such a move could not only give curators and archivists a better idea of what their patrons think, but give professors a better idea of what their students think, and give students of social cognition a better idea of how people think. (And, of course, large repositories of tags lend themselves to data mining.) Best of all, Kelly and his colleagues will be developing their new website[^16] on the collapse of communism in eastern Europe so that users can do their own tagging.  
   
-Tags: application program interface[^17] | data mining[^18] | digital history[^19] | folksonomy[^20] | public history[^21] | tagging[^22]
+Tags: application program interface[^17] \| data mining[^18] \| digital history[^19] \| folksonomy[^20] \| public history[^21] \| tagging[^22]
 
 [Back to the blog archive](../README.md)
 

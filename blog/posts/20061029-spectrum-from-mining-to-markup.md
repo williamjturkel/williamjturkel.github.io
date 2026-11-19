@@ -42,7 +42,7 @@ In future posts, I will introduce some of the python code that we are using to p
   
 The classicist and digital humanist Gregory Crane has recently written that "Already the books in a digital library are beginning to read one another and to confer among themselves before creating a new synthetic document for review by their human readers" [What Do You Do with a Million Books?[^7]] This magic is accomplished, in part, by markup. If the system knows which 'Mary' is meant in a particular text it is quite easy to provide links to the same person (or saint, or ship) in other documents in the same digital collection. At the moment we are adding these links by hand, but it is easy to imagine building a system that uses text mining to assign preliminary tags, allows a human analyst to provide correction, then uses that feedback to learn. The Gamera project[^8] already provides a framework like this for doing OCR[^9] on texts of historical interest.  
   
-Tags: data mining[^10] | dictionary of canadian biography[^11] | link analysis[^12] | python[^13] | tagging[^14] | text encoding initiative[^15] | text mining[^16] | xml[^17]
+Tags: data mining[^10] \| dictionary of canadian biography[^11] \| link analysis[^12] \| python[^13] \| tagging[^14] \| text encoding initiative[^15] \| text mining[^16] \| xml[^17]
 
 [Back to the blog archive](../README.md)
 

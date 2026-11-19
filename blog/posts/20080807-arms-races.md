@@ -19,7 +19,7 @@ In fact, a closely related arms race is being fought at another level, one that 
 * The guys with white hats[^7] are also using OCR to crack CAPTCHAs, with the aim of creating stronger challenges. One side effect is that the OCR gets better at recognizing wonky text, and thus better for creating digital books.
 
   
-Tags: machine learning[^8] | optical character recognition (OCR)[^9] | Turing test[^10]
+Tags: machine learning[^8] \| optical character recognition (OCR)[^9] \| Turing test[^10]
 
 [Back to the blog archive](../README.md)
 

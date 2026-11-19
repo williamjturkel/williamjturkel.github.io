@@ -11,7 +11,7 @@ I haven't had a chance to do much programming recently so I thought I would put 
   
   
   
-Tags: digital history[^6] | hacking[^7] | open source[^8] | perl[^9] | SIPs[^10] | text mining[^11] | visualization[^12]
+Tags: digital history[^6] \| hacking[^7] \| open source[^8] \| perl[^9] \| SIPs[^10] \| text mining[^11] \| visualization[^12]
 
 [Back to the blog archive](../README.md)
 

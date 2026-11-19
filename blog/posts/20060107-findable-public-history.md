@@ -14,7 +14,7 @@ As an academic historian, I can tell you that these include almost all of the bo
   
 What does this mean for public historians? On the one hand, it means that there is probably a significant online audience for any of our work. On the other, it means that we have to be concerned with findability. For every work we produce we should be asking ourselves, "how are people going to get here?"  
   
-Tags: digital history[^7] | findability[^8] | long tail[^9] | public history[^10]
+Tags: digital history[^7] \| findability[^8] \| long tail[^9] \| public history[^10]
 
 [Back to the blog archive](../README.md)
 

@@ -27,7 +27,7 @@ Given our available equipment, the designs can be more elaborate. How would you 
   
 PDF pages of the cards that I've made so far are here[^7] (8Mb). If you are interested in printing your own, you can contact me for a zipped file of the JPEGs of individual cards.  
   
-Tags: digital history[^8] | history appliances[^9] | interaction design[^10] | pedagogy[^11] | physical computing[^12] | public history[^13]
+Tags: digital history[^8] \| history appliances[^9] \| interaction design[^10] \| pedagogy[^11] \| physical computing[^12] \| public history[^13]
 
 [Back to the blog archive](../README.md)
 

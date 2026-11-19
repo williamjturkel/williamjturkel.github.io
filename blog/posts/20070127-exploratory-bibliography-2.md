@@ -29,7 +29,7 @@ Bestsellers. A few of the books in the network are distinguished by a large numb
   
 One of the objectives of a comprehensive / general exam is to learn how to do things with a stack of books: to trace the origins of ideas or concepts, find pairings or clusters that would work well together in a syllabus, find key works that are emblematic of a particular school, and so on. Digital approaches like the one demonstrated here can be very useful in this process.  
   
-Tags: Amazon[^5] | application program interface[^6] | bibliography[^7] | Graphviz[^8] | hacking[^9] | python[^10] | visualization[^11]
+Tags: Amazon[^5] \| application program interface[^6] \| bibliography[^7] \| Graphviz[^8] \| hacking[^9] \| python[^10] \| visualization[^11]
 
 [Back to the blog archive](../README.md)
 

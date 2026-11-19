@@ -21,7 +21,7 @@ We want to be a bit careful about comparing different rows in the matrix, becaus
   
 It appears that recommendations for earlier books tend to be to those published later, and recommendations for later books tend to be to those published earlier. And finally, it appears that a growing proportion of recommendations are to books published the same year. The fact that the year 2001 seems to be an exception to this trend may be worth investigating.  
   
-Tags: Amazon[^6] | application program interface[^7] | bibliography[^8] | hacking[^9] | python[^10] | visualization[^11]
+Tags: Amazon[^6] \| application program interface[^7] \| bibliography[^8] \| hacking[^9] \| python[^10] \| visualization[^11]
 
 [Back to the blog archive](../README.md)
 

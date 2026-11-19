@@ -13,7 +13,7 @@ As can be seen, the performance is pretty stable, considering that different off
   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxm01CcN74exz4jBe5iqHuVY7_nRd1iIPiPs8tKrhyphenhyphenENU7x8kQVeSkqgl7RHyfLbrTdWoteWHRLz5KE-D-lRNsJnYEJrYmgLcRqCOu0kI8O528Gv7iMhXDVmB9jjXEA7xj7iqnBg/s200/ob-tfidf50-1830s-detail.jpg)  
   
-Tags: archive[^2] | data mining[^3] | digital history[^4] | feature space[^5] | machine learning[^6] | text mining[^7]
+Tags: archive[^2] \| data mining[^3] \| digital history[^4] \| feature space[^5] \| machine learning[^6] \| text mining[^7]
 
 [Back to the blog archive](../README.md)
 

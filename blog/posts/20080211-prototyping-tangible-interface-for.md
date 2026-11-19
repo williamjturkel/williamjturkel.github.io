@@ -26,7 +26,7 @@ Testing. I was quite impressed with how crisply the whole system works together.
   
 The final exhibit for our class will be mounted in April. You will be able to read more about it on the students' blogs[^12] and at the exhibit website[^13]. I'll write about some of the other components in future posts.  
   
-Tags: Arduino[^14] | geocoding[^15] | Google Earth[^16] | history appliances[^17] | physical computing[^18] | Python[^19]
+Tags: Arduino[^14] \| geocoding[^15] \| Google Earth[^16] \| history appliances[^17] \| physical computing[^18] \| Python[^19]
 
 [Back to the blog archive](../README.md)
 

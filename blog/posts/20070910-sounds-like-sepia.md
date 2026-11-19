@@ -23,7 +23,7 @@ When I recorded the sound of the tone generator right above the circuit it sound
   
 Does environmental coloration make the sound seem more distant in time as well as space? I'm not sure. I thought I'd put it out there in case anyone else has the same perception, or wants to hack the hack.  
   
-Tags: ambience[^8] | digital history[^9] | hacking[^10] | soundscapes[^11]
+Tags: ambience[^8] \| digital history[^9] \| hacking[^10] \| soundscapes[^11]
 
 [Back to the blog archive](../README.md)
 

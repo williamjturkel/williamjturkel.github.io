@@ -9,7 +9,7 @@ At that point, of course, I might have found a copy in one of the libraries or a
   
 Today, again, I realized that I really should read that article. When I typed the journal title into Google Books, there it was, waiting for me to download. Now, I don't recommend this strategy to anyone working on, say, their dissertation. Maybe it was a complete fluke. I suspect, however, that it is weak measure of the seismic shifts that our landscape of information costs[^2] is currently undergoing.  
   
-Tags: Google[^3] | information costs[^4]
+Tags: Google[^3] \| information costs[^4]
 
 [Back to the blog archive](../README.md)
 

@@ -35,7 +35,7 @@ Finally, I'm imagining that the visitor will check out the kiosk before moving i
   
 We now have five images of our space to use in the presentation. At this point they are still quite plain. In the next part we will use The GIMP to modify these images to convey more of our vision for the exhibit.  
   
-Tags: digital history[^7] | public history[^8]
+Tags: digital history[^7] \| public history[^8]
 
 [Back to the blog archive](../README.md)
 

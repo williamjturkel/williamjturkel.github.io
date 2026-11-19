@@ -37,7 +37,7 @@ So how well did it do? All of the books that were recommended four or more times
 * Waldrop, M. Mitchell. The Dream Machine: J.C.R. Licklider and the Revolution that Made Computing Personal[^27]. Penguin, 2002. [4]
 * Wardrip-Fruin, Noah and Pat Harrigan, eds. First Person: New Media as Story, Performance, and Game[^28]. MIT, 2004. [4]
 
-Tags: amazon[^29] | application program interface[^30] | bibliography[^31] | python[^32] | scraping[^33] | spidering[^34]
+Tags: amazon[^29] \| application program interface[^30] \| bibliography[^31] \| python[^32] \| scraping[^33] \| spidering[^34]
 
 [Back to the blog archive](../README.md)
 

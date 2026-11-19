@@ -7,7 +7,7 @@ I think one of my favorite things about having this blog is that people occasion
   
 Last month, for example, Rob Nelson of the Technology Integration Program at William and Mary wrote some PHP code to create his own field-at-a-glance page[^2] for antebellum America. More recently, Matt Joyce greatly improved the exploratory bibliography[^3] code and posted a tutorial at his new blog Babbaging. Both Rob and Matt have nice clear explanations of what they did.  
   
-Tags: hacking[^4] | open source[^5] | stepwise refinement[^6]
+Tags: hacking[^4] \| open source[^5] \| stepwise refinement[^6]
 
 [Back to the blog archive](../README.md)
 

@@ -11,7 +11,7 @@ Our discussion of the tunable soundscape quickly veered into questions of uncert
   
 For me that raises one of the key benefits of the history appliance idea. We should approach the building of history appliances as a form of critical, reflective practice ... we make things, we design interactions, to give us new routes into the questions that historians have always struggled with.  
   
-Tags: ambience[^15] | history appliances[^16] | lived experience[^17] | Max/MSP/Jitter[^18] | phidgets[^19]
+Tags: ambience[^15] \| history appliances[^16] \| lived experience[^17] \| Max/MSP/Jitter[^18] \| phidgets[^19]
 
 [Back to the blog archive](../README.md)
 

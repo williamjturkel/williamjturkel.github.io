@@ -13,7 +13,7 @@ I think the stock market skirt is a great example of what I call a "history appl
   
 For a historian, the correlation between stock prices and hemlines raises questions of agency, and we feel comfortable exploring those on paper. Nothing foregrounds agency like a robot, however, and historians shouldn't shy away from building them into their historical interpretations.  
   
-Tags: history appliances[^4] | public history[^5] | thing knowledge[^6]
+Tags: history appliances[^4] \| public history[^5] \| thing knowledge[^6]
 
 [Back to the blog archive](../README.md)
 

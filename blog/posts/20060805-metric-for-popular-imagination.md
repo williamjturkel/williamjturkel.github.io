@@ -39,7 +39,7 @@ At this point Google really does constitute what John Battelle called "the datab
   
 Update (26 Aug 2006): Nicolás Quiroga translated this post into Spanish for his new digital history blog Tapera[^5].  
   
-Tags: application program interface[^6] | data mining[^7] | feature space[^8] | statistical natural language processing[^9]
+Tags: application program interface[^6] \| data mining[^7] \| feature space[^8] \| statistical natural language processing[^9]
 
 [Back to the blog archive](../README.md)
 

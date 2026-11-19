@@ -14,7 +14,7 @@ So much for perfection of part. What about adequacy of collection? The advantage
   
 Somewhere in *Discovering[^4]*, Root-Bernstein has an anecdote about a scientist who wrote the most significant research questions on a blackboard in the lab, so they would always be in front of people and could be constantly modified to reflect new understandings. Blogs can serve the same purpose, placing an evolving set of questions and models before the members of a virtual lab.  
   
-Tags: digital history[^5] | information costs[^6] | programming[^7] | stepwise refinement[^8] | writing[^9]
+Tags: digital history[^5] \| information costs[^6] \| programming[^7] \| stepwise refinement[^8] \| writing[^9]
 
 [Back to the blog archive](../README.md)
 

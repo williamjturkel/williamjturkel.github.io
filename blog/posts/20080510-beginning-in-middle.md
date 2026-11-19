@@ -15,7 +15,7 @@ Historians have a secret advantage when it comes to learning technical material 
   
 I believe in eating my own dogfood, and wouldn't subject my students to anything I wouldn't take on myself. As my own research and teaching moves more toward desktop fabrication, I've been reading a lot about materials science, structural engineering, machining, CNC and other subjects for which I have absolutely no preparation. It's pretty confusing, of course, but each day it all seems a little more clear. I've also been making a lot of mistakes as I try to make things. As humanists, I don't think we can do better than to follow Terence's adage[^6] that nothing human should be alien to us. It is possible to learn anything, if you're willing to begin in the middle.  
   
-Tags: digital history[^7] | historiography[^8] | interdisciplinarity[^9] | learning[^10]
+Tags: digital history[^7] \| historiography[^8] \| interdisciplinarity[^9] \| learning[^10]
 
 [Back to the blog archive](../README.md)
 

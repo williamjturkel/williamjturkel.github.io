@@ -95,7 +95,7 @@ Beyond the mechanical, there are a lot of murky conceptual problems with plagiar
   
 In a 2003 article[^7] in the AHR, Roy Rosenzweig wrote about the difficulties that historians and other scholars will face as they move from a culture of scarcity to one of abundance. In many ways, this transition has already occurred. It's time to stop pretending that prose must always be unique, or that n-grams can be property. All your prose are belong to us.[^8]  
   
-Tags: Google[^9] | n-grams[^10] | pedagogy[^11] | property rights[^12]
+Tags: Google[^9] \| n-grams[^10] \| pedagogy[^11] \| property rights[^12]
 
 [Back to the blog archive](../README.md)
 

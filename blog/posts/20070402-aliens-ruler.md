@@ -21,7 +21,7 @@ Presumably aliens have better technology than wooden metersticks. But Lloyd work
   
 I bring up this thought experiment because I think it highlights what is interesting about digital history. Digital history isn't just about historical sources stored and manipulated on computers. That's pretty old hat, dating at least to Father Busa's work[^3] with automated concordancing in the 1940s. And digital history isn't just about historical sources represented in digital form, which dates back millennia[^4]. Instead the "digital" of digital history points us toward sites where the digital or analog representation of past events--or the conversion from one form to the other--plays a role in historical consciousness.  
   
-Tags: analog[^5] | bits[^6] | digital history[^7] | digitization[^8] | information theory[^9] | representation[^10]
+Tags: analog[^5] \| bits[^6] \| digital history[^7] \| digitization[^8] \| information theory[^9] \| representation[^10]
 
 [Back to the blog archive](../README.md)
 

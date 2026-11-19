@@ -11,7 +11,7 @@ If you're a regular reader of my blog, you might've found that last bit about Li
   
 It's surprising to me how fast my Unix experience came back when I popped open a shell and started typing commands. That part is neither here nor there. What's really great about open source, however, is that I am free to fix anything that is bugging me. As soon as I had that feeling of freedom, it all came back to me again. Why would anyone give that up? How had I ended up in a situation where I didn't feel that way?  
   
-Tags: free software[^7] | GNU/Linux[^8] | hacking[^9] | open source[^10]
+Tags: free software[^7] \| GNU/Linux[^8] \| hacking[^9] \| open source[^10]
 
 [Back to the blog archive](../README.md)
 

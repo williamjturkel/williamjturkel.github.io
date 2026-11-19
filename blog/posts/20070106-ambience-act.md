@@ -14,7 +14,7 @@ One important role for computer games in education is as things to think with. M
   
 As the ambience act of Shenmue shows, however, computer games can also serve as a laboratory for exploring ideas of change and history in nondiegetic ways. Setting aside the historical relevance of the Shenmue storyline, the game is still interesting because it clearly distinguishes between two kinds of events: those that can have consequences and those that cannot. When the operator is involved, choices and actions can make a difference later on, the score changes and it is possible for the game to end. In contrast, the ambience act is purely ahistorical. If characters aged while the game was idling, or could become sick or die, the game wouldn't really be idling. Allowing students to experience the contrast between game play and the ambience act might be one useful springboard for discussion of the myth of people without history[^10] in a historiographical or methodological seminar.  
   
-Tags: computer games[^11] | digital history[^12] | historical consciousness[^13] | history education[^14] | simulation[^15]
+Tags: computer games[^11] \| digital history[^12] \| historical consciousness[^13] \| history education[^14] \| simulation[^15]
 
 [Back to the blog archive](../README.md)
 

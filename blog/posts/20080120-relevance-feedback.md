@@ -13,7 +13,7 @@ Machine learning methods are often categorized as "supervised" or "unsupervised.
   
 In informational retrieval systems that were created before the web, users typically learned to construct elaborate queries and to refine their queries based on the results that they received. These systems often included a way for the user to provide relevance feedback. In the context of the web, queries are typically only a word or two long, and most search engines don't include a mechanism for the searcher to provide direct relevance feedback. This may be good enough for web searchers taken as a group (it may even be optimal), but it imposes a cost on individual researchers. Researchers need to be able to find obscure sources, and the best way to do this is to pair them with a system that can learn from relevance feedback. Digital humanists need tools that go beyond the single box search[^2]. And we're probably going to have to write them ourselves.  
   
-Tags: digital history[^3] | machine learning[^4] | search[^5]
+Tags: digital history[^3] \| machine learning[^4] \| search[^5]
 
 [Back to the blog archive](../README.md)
 

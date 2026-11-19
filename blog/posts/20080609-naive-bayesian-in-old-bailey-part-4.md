@@ -22,19 +22,19 @@ With raw text files for each of the trials, we're almost in a position to try do
 
 * Finally, we are going to need to have some idea of how many offences there were of each kind in a particular decade (the code is here[^6]). For the 1830s, the data look like the following:
 
-* breakingpeace-assault.txt|51
-* breakingpeace-libel.txt|7
-* breakingpeace-riot.txt|5
-* breakingpeace-threateningbehaviour.txt|4
-* breakingpeace-wounding.txt|166
-* breakingpeace.txt|1
-* damage-arson.txt|7
-* damage-other.txt|1
+* breakingpeace-assault.txt\|51
+* breakingpeace-libel.txt\|7
+* breakingpeace-riot.txt\|5
+* breakingpeace-threateningbehaviour.txt\|4
+* breakingpeace-wounding.txt\|166
+* breakingpeace.txt\|1
+* damage-arson.txt\|7
+* damage-other.txt\|1
 * ...
 
 That about does it for the utility routines. Next we have to address the problem of sampling.  
   
-Tags: archive[^7] | data mining[^8] | digital history[^9] | feature space[^10] | machine learning[^11] | text mining[^12]
+Tags: archive[^7] \| data mining[^8] \| digital history[^9] \| feature space[^10] \| machine learning[^11] \| text mining[^12]
 
 [Back to the blog archive](../README.md)
 

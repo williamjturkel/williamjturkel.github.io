@@ -23,7 +23,7 @@ Finally we can consider a kind of theft, in this case housebreaking. If any lear
   
 Now we are in a position to provide one kind of answer to the question, "what good is an error-prone learner?" Since the learner's errors are meaningfully related to its successful ability to categorize, we can use false positives as a way of generalizing beyond the bounds of hard and fast categorization. If we used a search engine to find cases of assault we might miss some of the most interesting such cases (like the cantharides example) ... cases that are interesting precisely because they lay just outside the category. One of the things that machine learning gives us, is a way of finding some of the more interesting exceptions to our rules.  
   
-Tags: archive[^3] | data mining[^4] | digital history[^5] | feature space[^6] | machine learning[^7] | text mining[^8]
+Tags: archive[^3] \| data mining[^4] \| digital history[^5] \| feature space[^6] \| machine learning[^7] \| text mining[^8]
 
 [Back to the blog archive](../README.md)
 

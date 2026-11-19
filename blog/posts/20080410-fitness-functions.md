@@ -17,7 +17,7 @@ On a rainy day in 1992, I wandered into a Vancouver technical bookstore on my wa
   
 I often tell my students that they should follow their curiosity, take chances and not be afraid to fail. You never really know what whim, what chance encounter or distraction is going to change your life. In my case, I read a lot of science fiction and graphic novels and ate a lot of guacamole. I played role playing games and got married early and happily. I watched TV. I got bad grades in linear algebra and analysis, but I liked math enough to keep trying until I got better at it. And my first published work was on a subject that was novel and trendy enough that my reputation as an up-and-coming researcher outweighed my uneven transcript: genetic algorithms. It's tempting to look back at that moment in the bookstore as a crucial inflection point in my life, but that would be too linear. The choices that we make affect our fitness, but never in a way that makes it easy to assign credit or blame.  
   
-Tags: feedback[^6] | genetic algorithms[^7] | nonlinear optimization[^8] | pedagogy[^9]
+Tags: feedback[^6] \| genetic algorithms[^7] \| nonlinear optimization[^8] \| pedagogy[^9]
 
 [Back to the blog archive](../README.md)
 

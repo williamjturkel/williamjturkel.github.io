@@ -9,7 +9,7 @@ In 2001, a secret Microsoft team known as the Puppetmasters put together a new k
   
 Setting aside the fact that the Beast sounds like it was a heck of a lot of fun, it seems to me that digital history could harness this kind of collective problem solving if framed in the right way. This is already the stuff of fiction. In Vernor Vinge's Rainbows End[^6], for example, computing is ubiquitous, high school students take courses in "search and analysis" and collectives of intelligence analysts work together in swarm-like fashion. One of Jenkins's provocative claims is that games and other media are already teaching children to work together in this fashion to solve problems. "In a hunting culture," he says, "kids play with bows and arrows. In an information society, they play with information."  
   
-Tags: alternate reality games[^7] | collective intelligence[^8]
+Tags: alternate reality games[^7] \| collective intelligence[^8]
 
 [Back to the blog archive](../README.md)
 

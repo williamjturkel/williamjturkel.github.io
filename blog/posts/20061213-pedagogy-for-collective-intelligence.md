@@ -14,7 +14,7 @@ Our public history MA program[^3] is different from my undergraduate classes bec
   
 I think there are three areas that need more thought. First, the tools for collaboration could be greatly improved. (Personally, I hope that an extended Zotero[^6] could serve as the basis for future interaction.) Second, we have to get beyond the idea of autonomous learners. I'm not sure how long it will take the academy to make this transition, but individual academics can surely get involved with projects that teach the skills needed for these new knowledge communities. Third, we have to try to open up academic collectives so that they can mesh with ones outside the academy.  
   
-Tags: collective intelligence[^7] | pedagogy[^8] | public history[^9] | rhizome[^10]
+Tags: collective intelligence[^7] \| pedagogy[^8] \| public history[^9] \| rhizome[^10]
 
 [Back to the blog archive](../README.md)
 

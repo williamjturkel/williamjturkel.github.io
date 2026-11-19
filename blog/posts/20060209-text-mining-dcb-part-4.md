@@ -10,7 +10,7 @@ Remember that we coded the absence of a given feature as '0' and the presence as
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  
- Argall, Sir Samuel | 1 | 1 | 1 | 0 | 0 | 0 |
+ Argall, Sir Samuel \| 1 \| 1 \| 1 \| 0 \| 0 \| 0 \|
 | Champlain, Samuel de | 1 | 0 | 1 | 1 | 0 | 1 |
 
   
@@ -52,7 +52,7 @@ What about the pairs of biographies that are far apart? Here we find something q
   
 At this point, a skeptic might say that all we have done is create a nonobvious way to estimate the length of biographical entries... the longer the entry, the more likely it is to have positive features. We can easily test this hypothesis by checking the filesizes of all of the biographies. Sure enough, Champlain's and Talon's are the longest in Volume 1. So we will want to refine our distance measure to exclude the shared lack of features, when we move to the next step of our investigation, clustering.  
   
-Tags: dictionary of canadian biography[^13] | digital history[^14] | feature space[^15] | hacking[^16] | long tail[^17] | perl[^18] | text mining[^19]
+Tags: dictionary of canadian biography[^13] \| digital history[^14] \| feature space[^15] \| hacking[^16] \| long tail[^17] \| perl[^18] \| text mining[^19]
 
 [Back to the blog archive](../README.md)
 

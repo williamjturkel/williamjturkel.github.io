@@ -9,7 +9,7 @@ With the geo-DJ, I imagine the simplest working version to be something like a m
   
 As the user walks around, the geo-DJ loops through the following algorithm. First, determine the user's current position. Then, determine the line through the endpoints (the former rail), determine the length of the perpendicular line from the user to the rail line (i.e., the magnitude of a normal vector), and scale the pitch of a tone that is playing in the headphones. Repeat, ad infinitum... or until the batteries drain, whichever comes first. If the user steps toward the rail, the pitch of the sound increases. If he or she steps away from it, the pitch decreases. Using this version of the system, a person can explore the lineaments of landscape features which may no longer exist. See Michal Migurski's great air photo[^2] of San Francisco "healing" around a former railroad.  
   
-Tags: ambience[^3] | digital history[^4] | electronica[^5] | hacking[^6] | historical consciousness[^7] | history appliances[^8] | place[^9] | place-based computing[^10]
+Tags: ambience[^3] \| digital history[^4] \| electronica[^5] \| hacking[^6] \| historical consciousness[^7] \| history appliances[^8] \| place[^9] \| place-based computing[^10]
 
 [Back to the blog archive](../README.md)
 

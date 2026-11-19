@@ -116,6 +116,18 @@ def protect_liquid(md):
     return md
 
 
+def escape_pipes(md):
+    """Escape | outside `code` spans so kramdown doesn't build tables
+    (Blogger posts end with lines like "Tags: a | b"). Table rows are left alone."""
+    def fix(line):
+        if line.lstrip().startswith("|"):      # a real table row
+            return line
+        parts = re.split(r"(`+[^`]*`+)", line)
+        return "".join(p if p.startswith("`") else p.replace("|", "\\|")
+                       for p in parts)
+    return "\n".join(fix(line) for line in md.split("\n"))
+
+
 def convert(post):
     soup = BeautifulSoup(post["html"], "lxml")
     conv = FootnoteConverter(heading_style="ATX", bullets="*",
@@ -123,6 +135,7 @@ def convert(post):
     body = conv.convert_soup(soup)
     body = re.sub(r"[ \t]+\n", lambda m: "  \n" if m.group(0).startswith("  ") else "\n", body)
     body = re.sub(r"\n{3,}", "\n\n", body).strip()
+    body = escape_pipes(body)
     return body, conv.notes
 
 

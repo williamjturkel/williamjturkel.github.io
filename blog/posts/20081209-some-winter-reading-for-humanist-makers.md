@@ -44,7 +44,7 @@ In December 2004, I bought a copy of Joe Martin's Tabletop Machining[^1] to see 
 * Woodbury, Robert S. Studies in the History of Machine Tools[^36] (MIT, 1973).
 
   
-Tags: bricolage[^37] | critical technical practice[^38] | DIY[^39] | fabrication[^40] | humanism[^41]
+Tags: bricolage[^37] \| critical technical practice[^38] \| DIY[^39] \| fabrication[^40] \| humanism[^41]
 
 [Back to the blog archive](../README.md)
 

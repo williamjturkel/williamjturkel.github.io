@@ -12,7 +12,7 @@ The statement provides food for thought on a number of levels. How long does it 
   
 How might we convey such information about historic rates or volumes in a more tangible or peripheral way? Suppose we wanted to get a feel for the increasing amount of e-mail exchanged as the nineties unfolded. One possibility would be to hook up a stream of historical data to a metronome[^2] driven by a servomotor[^3]. As the years slowly scroll by on an odometer-like display, the tempo increases from largo, through adagio to hardcore techno[^4]. You probably have to turn it off at that point. Not only will the sheer volume of e-mail cause the metronome to tear itself to pieces if you let it continue towards Y2K, but hardcore techno was, as AllMusic tells us, "practically ... a dinosaur by the end of the decade."  
   
-Tags: ambience[^5] | history appliances[^6] | information costs[^7] | interaction design[^8] | phidgets[^9]
+Tags: ambience[^5] \| history appliances[^6] \| information costs[^7] \| interaction design[^8] \| phidgets[^9]
 
 [Back to the blog archive](../README.md)
 

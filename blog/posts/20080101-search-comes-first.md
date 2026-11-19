@@ -13,7 +13,7 @@ According to Search Engine Watch[^3], as of this past summer search engines worl
   
 In my conversations last month, the follow-up question was usually whether or not historians and other humanists will need to be able to program computers. I'm not sure about the answer to that. I'm certain that some of them will. The discipline of history is in for some interesting times, as interpretations backed by intensive research in a few archives will be confronted with those backed by machine learning or text mining of massive datasets. My hope is that we'll find a rapprochement... but then I'm an optimist.  
   
-Tags: clues[^4] | digital history[^5] | findability[^6] | history education[^7] | search[^8]
+Tags: clues[^4] \| digital history[^5] \| findability[^6] \| history education[^7] \| search[^8]
 
 [Back to the blog archive](../README.md)
 

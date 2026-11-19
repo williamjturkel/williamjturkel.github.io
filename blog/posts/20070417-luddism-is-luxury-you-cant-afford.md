@@ -13,7 +13,7 @@ It turns out that what's really interesting about latter day Luddism is that it 
   
 So enjoy the latte, the iPod, the microfiber clothing. By all means, cycle or take a train instead of driving a car. If you're really concerned about technology, however, remember that it has the most potential to be dangerous when you stop seeing it.  
   
-Tags: affordances[^4] | present-at-hand[^5] | ready-to-hand[^6] | technology[^7]
+Tags: affordances[^4] \| present-at-hand[^5] \| ready-to-hand[^6] \| technology[^7]
 
 [Back to the blog archive](../README.md)
 

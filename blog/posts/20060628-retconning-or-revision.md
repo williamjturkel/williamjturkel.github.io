@@ -11,7 +11,7 @@ It's a pretty bleak picture. The idea of retconning, however, suggests a way out
   
 Historians, too, are constantly revising their interpretation of the past. (Here I would disagree with Shaviro by saying that it is not the past that is retroactively changed, but history. The past is gone, inaccessible, whereas history is what we make of it.) That constant revision is understood to be revisionist precisely because we remember what earlier interpretations were. Unlike Civilization, each new interpretation becomes part of the archive, and changes the rules of the game.  
   
-Tags: computer games[^6] | digital history[^7] | feature space[^8] | historiography[^9] | simulation[^10]
+Tags: computer games[^6] \| digital history[^7] \| feature space[^8] \| historiography[^9] \| simulation[^10]
 
 [Back to the blog archive](../README.md)
 

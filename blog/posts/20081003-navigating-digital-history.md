@@ -25,7 +25,7 @@ I was reminded of navigation the other day when I met with a PhD student who is 
   
 7. Assume that what you want to know is out there, and go looking for it.  
   
-Tags: digital history[^6] | history education[^7] | pedagogy[^8]
+Tags: digital history[^6] \| history education[^7] \| pedagogy[^8]
 
 [Back to the blog archive](../README.md)
 

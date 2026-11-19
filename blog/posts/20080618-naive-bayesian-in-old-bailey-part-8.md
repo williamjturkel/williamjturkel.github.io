@@ -9,7 +9,7 @@ An alternative approach is to try and concentrate on the words in a trial which 
   
 To compute the tf-idf, we first need to create a list of every word that was used in all of the trials, and the number of different trials in which each word appears. We could put this information in a text file, but the file would be huge and very slow to access. Instead, we will store our document frequencies in a SQLite[^3] database, using Python commands to store and retrieve the information. The code which creates this database is here[^4]. We can then compute the tf-idf scores for each word in a given trial, creating a new directory to store these files. The code to do that is here[^5]. Finally, we will want a version of our tenfold cross-validation routine to test the performance of a naive bayesian learner that operates across tf-idf vectors rather than raw words or 2-grams (here[^6]). This new learner has similar performance to the 2-gram version, with an average error rate of 25.73% when using the 15 highest scoring tf-idf terms to categorize cases of larceny in the 1830s. As a bonus, it is remarkably fast. At this point, you're probably wondering what good a machine learner is, if one quarter of its judgments are incorrect. We'll get there.  
   
-Tags: archive[^7] | data mining[^8] | digital history[^9] | feature space[^10] | machine learning[^11] | text mining[^12]
+Tags: archive[^7] \| data mining[^8] \| digital history[^9] \| feature space[^10] \| machine learning[^11] \| text mining[^12]
 
 [Back to the blog archive](../README.md)
 

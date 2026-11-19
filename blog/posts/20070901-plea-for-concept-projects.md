@@ -9,7 +9,7 @@ Academic historians (and many other humanists and social scientists) don't reall
   
 Digital scholarship puts very few restrictions on form and makes it easy to reach a potentially vast audience almost instantly. And yet most new projects offer only incremental advances over the pre-digital state of the art, if that. It's time to make some space for concept projects, to put work out there because it's visionary or beautiful or wacky or reflexive or just, as Thoreau put it, because it "affects the quality of the day."  
   
-Tags: digital history[^4] | public history[^5] | transaction costs[^6]
+Tags: digital history[^4] \| public history[^5] \| transaction costs[^6]
 
 [Back to the blog archive](../README.md)
 

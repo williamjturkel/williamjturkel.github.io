@@ -12,7 +12,7 @@ Thinking idly about the historiographical significance of Cronon's book, I got t
   
 From the maps, it looks as if the hinterland that *Nature's Metropolis* dominates is the northeastern US.  
   
-Tags: application program interface[^9] | data mining[^10] | digital history[^11] | geocoding[^12] | Google[^13] | hacking[^14] | WorldCat[^15]
+Tags: application program interface[^9] \| data mining[^10] \| digital history[^11] \| geocoding[^12] \| Google[^13] \| hacking[^14] \| WorldCat[^15]
 
 [Back to the blog archive](../README.md)
 

@@ -19,7 +19,7 @@ Archives with APIs. Take it a step further. Most online archives today are desig
   
 Models. Agent-based and other approaches from complex adaptive systems research are beginning to infiltrate the edges of the discipline, particularly amongst researchers more inclined toward the social sciences. Serious games appeal to a generation of researchers that grew up with not-so-serious ones. People who might once have found quantitative history appealing are now building geographic information systems. In every case, computational processes become tools to think with. I was recently at the Metropolis on Trial[^2] conference, loosely organized around the 120 million word online archive of the Old Bailey proceedings[^3]. At the conference, historians talked and argued about sources and interpretations, of course, but also about optical character recognition and statistical tables and graphs and search results generated with tools on the website. We're not yet at a point where these discussions involve much nuanced analysis of layers of computational mediation... but it is definitely beginning.  
   
-Tags: computational history[^4] | digital history[^5]
+Tags: computational history[^4] \| digital history[^5]
 
 [Back to the blog archive](../README.md)
 

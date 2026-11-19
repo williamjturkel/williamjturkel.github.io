@@ -50,7 +50,7 @@ So how well does this method work on historical biographies? Fortunately, Cilibr
   
 I have to say, I'm ridiculously excited about compression as a machine learning technique.  
   
-Tags: data compression[^34] | data mining[^35] | dictionary of canadian biography[^36] | digital history[^37] | Kolmogorov complexity[^38] | open source[^39] | visualization[^40]
+Tags: data compression[^34] \| data mining[^35] \| dictionary of canadian biography[^36] \| digital history[^37] \| Kolmogorov complexity[^38] \| open source[^39] \| visualization[^40]
 
 [Back to the blog archive](../README.md)
 

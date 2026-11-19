@@ -9,7 +9,7 @@ I was also contacted by Joseph Reagle[^5] who blogs about Open Communities, Medi
   
 Last but not least, I've also been following Semantic Humanities[^7], a blog about web technology and humanities scholarship that digs into scripting and markup and occasionally breaks into code.  
   
-Tags: blogs[^8] | digital history[^9]
+Tags: blogs[^8] \| digital history[^9]
 
 [Back to the blog archive](../README.md)
 

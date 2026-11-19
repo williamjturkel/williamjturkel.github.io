@@ -9,7 +9,7 @@ Our discussion turned from there to the fact that bloggers tend to value substan
   
 Don't get me wrong: I think originality can be a good thing, but I don't think that it's the only good thing. The internet gives us instant access to the contents of the hive mind. It's easy to find out that someone else has already had your brainwave, or done the hack that you were planning to try. Don't let that stop you. You have to play with other people's ideas, words, tropes, code, artifacts, instruments, and story lines to achieve any kind of mastery of anything. Besides, historians are fond of pointing out that every new new thing actually has a long past [insert unoriginal allusion to Santayana here]. Sure the collective is doomed to repeat things, but how else could it memorize them?  
   
-Tags: buzz[^9] | gradient[^10] | play[^11] | social memory[^12]
+Tags: buzz[^9] \| gradient[^10] \| play[^11] \| social memory[^12]
 
 [Back to the blog archive](../README.md)
 

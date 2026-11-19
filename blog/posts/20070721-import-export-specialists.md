@@ -19,7 +19,7 @@ Performance. The best book that I've found so far for hooking up sensors and act
   
 Electronica. I like listening to electronic music, but hadn't learned anything about it until quite recently. What I've read about its history suggests that it is quite common for electronic musicians to spend a fair amount of their time building new instruments and exploring their creative possibilities. The Cycling '74[^9] website has an interesting collection of resources, including videos, interviews and tutorials. The Create Digital Music[^10] webzine is also full of useful stuff. For me, electronica is Ultima Thule: so far out there that I have a hard time finding my most trusted landmarks (i.e., good books on the subject). Pinch and Trocco's Analog Days[^11] is an exception.  
   
-Tags: ambience[^12] | bricolage[^13] | electronica[^14] | hacking[^15] | history appliances[^16] | interdisciplinarity[^17]
+Tags: ambience[^12] \| bricolage[^13] \| electronica[^14] \| hacking[^15] \| history appliances[^16] \| interdisciplinarity[^17]
 
 [Back to the blog archive](../README.md)
 

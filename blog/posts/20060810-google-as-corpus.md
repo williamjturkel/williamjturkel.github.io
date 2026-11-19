@@ -67,7 +67,7 @@ The Google research team did something similar on more than a trillion words fro
   
 So what can you do with n-grams? Lots. Daniel Tauritz, a computer scientist at the University of Missouri-Rolla keeps a clearinghouse[^12] of n-gram research. A partial list of applications includes "text compression (1953), spelling error detection and correction (1962), optical character recognition (1967), information retrieval (1973), textual representation (1979), language identification (1991), missing phoneme guessing (1992), information filtering (1993), automatic text categorization (1994), music representation (1998), spoken document retrieval (2000), computational immunology (2000) and medical record matching (2001)." Many of these techniques have clear applications or analogs in historical research.  
   
-Tags: application program interface[^13] | Google[^14] | n-grams[^15] | python[^16] | search[^17] | statistical natural language processing[^18] | tf-idf[^19]
+Tags: application program interface[^13] \| Google[^14] \| n-grams[^15] \| python[^16] \| search[^17] \| statistical natural language processing[^18] \| tf-idf[^19]
 
 [Back to the blog archive](../README.md)
 

@@ -7,7 +7,7 @@ One of my projects this summer is to put together a new graduate course on digit
   
 About a third of the seminar readings are drawn from multiple versions of GMU's "Clio Wired[^4]" course. The rest come from the blogosphere, online journals, and other sources. So far, I haven't made use of any gated resources, so the course should be accessible to anyone who wants to make use of it. If you have any suggestions or ideas, I'd be happy to hear from you at wturkel@uwo.ca.  
   
-Tags: digital history[^5] | history education[^6] | pedagogy[^7] | public history[^8]
+Tags: digital history[^5] \| history education[^6] \| pedagogy[^7] \| public history[^8]
 
 [Back to the blog archive](../README.md)
 

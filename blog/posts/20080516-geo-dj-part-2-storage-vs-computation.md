@@ -13,7 +13,7 @@ Doing the geo-DJ project on a small computer like Arduino approaches these limit
   
 It may be that the platform that we're trying to use is too simple. We may have to add more memory, or dedicated signal processing hardware, or both. But that is one of the things that makes a project like this fun. By working close to computational limits we not only have more of a challenge, but more of a sense what computing used to be like, long ago, when we were kids.  
   
-Tags: ambience[^7] | digital history[^8] | electronica[^9] | hacking[^10] | historical consciousness[^11] | history appliances[^12] | place[^13] | place-based computing[^14]
+Tags: ambience[^7] \| digital history[^8] \| electronica[^9] \| hacking[^10] \| historical consciousness[^11] \| history appliances[^12] \| place[^13] \| place-based computing[^14]
 
 [Back to the blog archive](../README.md)
 

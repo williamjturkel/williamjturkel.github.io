@@ -22,7 +22,7 @@ Again, this trend toward social and cultural history will come as no surprise to
   
 In an earlier post[^14], I suggested that one of the hallmarks of digital history will be that it will increasingly give us access to these long tail topics, if only we can find them. This brings us, however, to the historian's favorite question, "So what?" What is the significance of any individual, any event? In her 1996 presidential address[^15] to the AHA, Caroline Bynum said, "For surely what characterizes historians above all else is the capacity to be shocked by the singularity of events in a way that stimulates the search for 'significance'..." Having access to all of these singularities is going to force us to face questions that microhistorians have been facing for years, questions about whether we are dealing with ordinariness or extraordinariness, normality or abnormality, the rule or the exception.  
   
-Tags: dictionary of canadian biography[^16] | digital history[^17] | long tail[^18] | microhistory[^19]
+Tags: dictionary of canadian biography[^16] \| digital history[^17] \| long tail[^18] \| microhistory[^19]
 
 [Back to the blog archive](../README.md)
 

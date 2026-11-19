@@ -37,7 +37,7 @@ As you vary the speed and direction of rotation for the two mirrors, you get a r
   
 To demonstrate, I used the joystick to vary the parameters of the system. In an application, it would be hooked up to streaming data instead. Groovy!  
   
-Tags: ambience[^9] | hacking[^10] | history appliances[^11] | nostalgia[^12]
+Tags: ambience[^9] \| hacking[^10] \| history appliances[^11] \| nostalgia[^12]
 
 [Back to the blog archive](../README.md)
 

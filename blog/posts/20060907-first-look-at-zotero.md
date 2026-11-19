@@ -27,7 +27,7 @@ Notes for the Zotero team. Don't let my suggestions for future improvements dist
 * RSS feeds: it would be awesome if the functionality of Sage[^18] was built into the lefthand pane. Many of the sources I want to cite these days are blog posts.
 
   
-Tags: hacking[^19] | zotero[^20]
+Tags: hacking[^19] \| zotero[^20]
 
 [Back to the blog archive](../README.md)
 

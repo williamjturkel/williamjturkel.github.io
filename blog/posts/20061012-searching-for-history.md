@@ -119,7 +119,7 @@ Finally, we can also see the AOL users' concern with privacy in the data. The co
   
 Of course, this is merely the tip of the iceberg. Much more could be found by studying, for example, how people use dates in searches or what kinds of things they are looking for when they visit particular websites.  
   
-Tags: AOL search data[^64] | concordance[^65] | data mining[^66] | findability[^67] | KWIC[^68] | public history[^69] | search[^70] | text mining[^71]
+Tags: AOL search data[^64] \| concordance[^65] \| data mining[^66] \| findability[^67] \| KWIC[^68] \| public history[^69] \| search[^70] \| text mining[^71]
 
 [Back to the blog archive](../README.md)
 

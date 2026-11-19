@@ -13,7 +13,7 @@ The next figure shows the results for the precision measure. In general the lear
   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCwYdRTNWymf6a80R1oojlPApSBAnZfX9EIfpHNMBFh6ac5CfLIiauyiVfBmS3_eRjVcxbxmEDZ91h3oZtqotx5dAqLGmD2WxxG-625gKv5AzFZYIwzk1YH8I_2Zy1zNw8L9mhpw/s200/ob-tfidf50-1830s-40s-fpratio.jpg)  
   
-Tags: archive[^3] | data mining[^4] | digital history[^5] | feature space[^6] | machine learning[^7] | text mining[^8]
+Tags: archive[^3] \| data mining[^4] \| digital history[^5] \| feature space[^6] \| machine learning[^7] \| text mining[^8]
 
 [Back to the blog archive](../README.md)
 

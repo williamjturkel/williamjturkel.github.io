@@ -9,7 +9,7 @@ By providing us with access to completely new kinds of sources, digital history 
   
 Now suppose you wanted to write the history of a very brief interval, say a few hours, minutes or even seconds. In the past, this kind of history--I'm not sure what to call it--would only have been possible for an event like 9/11, the JFK assassination or D-Day. But with access to Google's cache data and some sophisticated data mining tools, it becomes possible to imagine creating rich snapshots of web activity over very short intervals. And to the extent that web activity tracks real world activity and can be used to make inferences about it, it becomes possible to imagine writing the history of one second on earth, or one millisecond, or one microsecond.  
   
-Tags: cache[^2] | data mining[^3] | scale[^4] | search[^5]
+Tags: cache[^2] \| data mining[^3] \| scale[^4] \| search[^5]
 
 [Back to the blog archive](../README.md)
 

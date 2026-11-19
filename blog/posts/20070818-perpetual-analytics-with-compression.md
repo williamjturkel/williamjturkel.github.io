@@ -15,7 +15,7 @@ As described so far, this system is able to cluster your own reading, always sho
   
 Furthermore, the system scales up powerfully for collaborative research if the database is shared by everyone working on a particular subject. As each person finds something of interest, it immediately becomes available for recommendation to any of the others, depending on what they are looking at. Built on top of a server-backed version of Zotero[^4], this tool provides one path to leveraging the power of collective intelligences[^5].  
   
-Tags: ambience[^6] | browser[^7] | data compression[^8] | data mining[^9] | Kolmogorov complexity[^10] | perpetual analytics[^11] | Zotero[^12]
+Tags: ambience[^6] \| browser[^7] \| data compression[^8] \| data mining[^9] \| Kolmogorov complexity[^10] \| perpetual analytics[^11] \| Zotero[^12]
 
 [Back to the blog archive](../README.md)
 

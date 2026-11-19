@@ -18,7 +18,7 @@ Putting work into the browser makes things easier for the user at the cost of in
 * Making things work on the server side will require a database (MySQL[^11]), a scripting language (PHP[^12]), a search engine toolkit (Plucene[^13]) and maybe some other goodies (like Cake[^14])
 * We'll also need custom-made or off-the-shelf mining and visualization components
 
-Tags: browser[^15] | citation[^16] | data mining[^17] | digital history[^18] | hacking[^19] | open source[^20] | server[^21] | web programming[^22]
+Tags: browser[^15] \| citation[^16] \| data mining[^17] \| digital history[^18] \| hacking[^19] \| open source[^20] \| server[^21] \| web programming[^22]
 
 [Back to the blog archive](../README.md)
 

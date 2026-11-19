@@ -17,7 +17,7 @@ Scraping refers to the process of mechanically extracting information from sourc
   
 For a new generation of digital historians, however, the payoff of learning to search, spider and scrape will lie not only in the ability to design and execute new kinds of historical project, but in the increased reflexive awareness that comes from writing programs to augment reading.  
   
-Tags: digital history[^8] | hacking[^9] | pedagogy[^10] | search[^11] | SIPs[^12] | spidering[^13] | web programming[^14]
+Tags: digital history[^8] \| hacking[^9] \| pedagogy[^10] \| search[^11] \| SIPs[^12] \| spidering[^13] \| web programming[^14]
 
 [Back to the blog archive](../README.md)
 

@@ -29,7 +29,7 @@ The next step is to split each of these XML files into individual trials. Our ov
   
 There are a variety of ways to parse XML, but it is quick and easy to use the Beautiful Soup[^3] library for Python. The program that splits the XML files into separate trial files is here[^4]; for more information about using Beautiful Soup see The Programming Historian[^5]. There are far more trial files than session files: there were 12,959 trials in the 1830s alone. Now that we have one file for each trial, we're ready for the next step.  
   
-Tags: archive[^6] | data mining[^7] | digital history[^8] | feature space[^9] | machine learning[^10] | text mining[^11]
+Tags: archive[^6] \| data mining[^7] \| digital history[^8] \| feature space[^9] \| machine learning[^10] \| text mining[^11]
 
 [Back to the blog archive](../README.md)
 

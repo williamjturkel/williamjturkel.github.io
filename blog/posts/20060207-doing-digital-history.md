@@ -13,7 +13,7 @@ Won't someone else write a program which I can use? Yes and no. We all use word-
   
 And, as Steven Colbert[^18] would say, "that's the wørd."  
   
-Tags: application program interface[^19] | digital history[^20] | new information[^21] | open source[^22] | search[^23] | web programming[^24]
+Tags: application program interface[^19] \| digital history[^20] \| new information[^21] \| open source[^22] \| search[^23] \| web programming[^24]
 
 [Back to the blog archive](../README.md)
 

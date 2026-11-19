@@ -34,7 +34,7 @@ Digital historians, on the other hand, have to be thoroughgoing Heracliteans and
   
 Do we have what we need to fully implement this strategy? A lot of the pieces are already in place, including massive textual databases, search engines with APIs, XML, RSS feeds and feed readers, high-level programming languages, and tools for online scholarship like Zotero[^4]. The combined literature of statistical natural language processing, text and data mining, machine learning, and information retrieval provide a cornucopia of useful techniques. If you know how to program you're already most of the way there; if not, now is as good a time as any to begin learning how.  
   
-Tags: digital history[^5] | flows[^6]
+Tags: digital history[^5] \| flows[^6]
 
 [Back to the blog archive](../README.md)
 

@@ -9,7 +9,7 @@ With a little hacking, most of this scenario could be easily accomplished today.
   
 Public historians will be able to find new roles designing historically accurate and interesting experiences for consumers, selecting from the welter of sources across media, combining and interpreting them. We tend to think of historical production in terms of writing books, but there will be many more "machines to think with[^5]." The most subtle will shape our historical consciousness by working in the periphery[^6].  
   
-Tags: ambience[^7] | historical consciousness[^8] | interaction design[^9] | pervasive computing[^10] | phidgets[^11]
+Tags: ambience[^7] \| historical consciousness[^8] \| interaction design[^9] \| pervasive computing[^10] \| phidgets[^11]
 
 [Back to the blog archive](../README.md)
 

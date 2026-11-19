@@ -11,7 +11,7 @@ One of the fundamental ideas of the design process is to submit what you come up
   
 I think that it's very important to treat the development of technical systems as a form of critical, reflective practice. We make something as a way of understanding it. I'm toying with the idea of adding a studio component to my digital history class[^7] next year. My students are comfortable with reading papers and discussing them, and they quickly get comfortable with the practice of blogging. I'm not sure, however, that they think of themselves as makers, and the studio process might be very valuable for them (and for me). We know what's in this corner. What's in the other one?  
   
-Tags: digital history[^8] | GIS[^9] | historical consciousness[^10] | immersive environments[^11] | interaction design[^12] | mashups[^13] | memory[^14] | pedagogy[^15] | place[^16] | RSS[^17]
+Tags: digital history[^8] \| GIS[^9] \| historical consciousness[^10] \| immersive environments[^11] \| interaction design[^12] \| mashups[^13] \| memory[^14] \| pedagogy[^15] \| place[^16] \| RSS[^17]
 
 [Back to the blog archive](../README.md)
 

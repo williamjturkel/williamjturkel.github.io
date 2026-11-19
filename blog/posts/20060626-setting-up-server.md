@@ -17,7 +17,7 @@ For some time, I've been planning to buy and set up a server, and the recent Doi
   
 More once the server is up and running...  
   
-Tags: blogs[^19] | digital history[^20] | hacking[^21] | open source[^22] | perl[^23] | relational databases[^24] | server[^25]
+Tags: blogs[^19] \| digital history[^20] \| hacking[^21] \| open source[^22] \| perl[^23] \| relational databases[^24] \| server[^25]
 
 [Back to the blog archive](../README.md)
 

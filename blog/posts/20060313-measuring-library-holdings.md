@@ -9,7 +9,7 @@ Like every graduate program in the province, our department[^1] is subject to pe
   
 In the following two hacks we automate the process. First[^6], we go to the page of H-Net lists and get the name of each discussion list. The we go to the review search page, and, one-by-one, we search for all of the book reviews published on each discussion list. We save the links to each individual book review. We then spider the reviews, scrape the ISBN out of each, and save it to a file. Then[^7], we submit each of the ISBNs to our library catalogue, and do a bit of rudimentary scraping to see if each book is in the library or not. Finally, we can accumulate the final results in a spreadsheet for whatever further analysis is required.  
   
-Tags: bibliography[^8] | hacking[^9] | h-net[^10] | spidering[^11] | web programming[^12]
+Tags: bibliography[^8] \| hacking[^9] \| h-net[^10] \| spidering[^11] \| web programming[^12]
 
 [Back to the blog archive](../README.md)
 

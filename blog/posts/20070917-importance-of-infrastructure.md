@@ -17,7 +17,7 @@ In *Electric Sound[^6]*, Joel Chadabe describes the London digs of an early 1980
   
 It's a pattern you can see over and over in the histories of science, technology, and the arts: the right infrastructure attracts the right people and then something really cool happens. But it isn't possible to predict in more detail than that.  
   
-Tags: digital history[^7] | hacking[^8] | infrastructure[^9]
+Tags: digital history[^7] \| hacking[^8] \| infrastructure[^9]
 
 [Back to the blog archive](../README.md)
 

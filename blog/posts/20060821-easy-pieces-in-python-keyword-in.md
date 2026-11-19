@@ -40,7 +40,7 @@ This gives us the following results.
   
 This kind of analysis can be useful for historiographical argumentation. If we look at the contexts in which the Iroquois appear in Colby's text, we find that they are usually the objects of verbs rather than the subjects. That is to say that we find a lot of phrases like "to the Iroquois," "make the Iroquois," "overawe the Iroquois," "invite the Iroquois," "with the Iroquois," "smiting the Iroquois," and so on. We find far fewer phrases of the form "[the] Iroquois knew," "the Iroquois rejoiced," or "six hundred Iroquois invaded." This could be taken to suggest that Colby wasn't thinking of the Iroquois as historical agents (which is how most historians see them now) but rather as background characters, as foils for the settlers of New France.  
   
-Tags: concordance[^5] | KWIC[^6] | n-grams[^7] | programming[^8] | python[^9] | text mining[^10]
+Tags: concordance[^5] \| KWIC[^6] \| n-grams[^7] \| programming[^8] \| python[^9] \| text mining[^10]
 
 [Back to the blog archive](../README.md)
 

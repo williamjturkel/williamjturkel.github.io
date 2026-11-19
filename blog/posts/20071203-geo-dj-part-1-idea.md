@@ -9,7 +9,7 @@ The system that I am designing now, the geo-DJ, expands this work into an ambien
   
 At the moment, I'm working with a number of different hardware designs. The easiest ones to build will make use of the same handheld / GPS / GIS platform that I used earlier. I'm also experimenting with using dedicated audio hardware and microcontrollers like Arduino[^5]. Although I envision using the system as a history appliance[^6], many other applications are possible. I'll be posting software and hardware notes here for other people who want to hack the geo-DJ.  
   
-Tags: ambience[^7] | digital history[^8] | electronica[^9] | hacking[^10] | historical consciousness[^11] | history appliances[^12] | place[^13] | place-based computing[^14]
+Tags: ambience[^7] \| digital history[^8] \| electronica[^9] \| hacking[^10] \| historical consciousness[^11] \| history appliances[^12] \| place[^13] \| place-based computing[^14]
 
 [Back to the blog archive](../README.md)
 

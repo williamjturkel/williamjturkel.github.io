@@ -31,7 +31,7 @@ Now we want to add some text to title our exhibit. Let's call it "Wakka Wakka: T
   
 Using similar techniques, it is possible to modify the other SketchUp stills so they suggest what the exhibit will be like. I was originally planning to do all of the exhibit views but ran out of time, so I will have to save that for another day.  
   
-Tags: digital history[^8] | public history[^9]
+Tags: digital history[^8] \| public history[^9]
 
 [Back to the blog archive](../README.md)
 

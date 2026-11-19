@@ -14,7 +14,7 @@ At a still different level, there is the work that goes into making and maintain
   
 At 10 years of age, AOTW is an obvious labor of love and a source of ideas and inspiration. Since March of this year, however, Brian has also been blogging at behind AOTW[^6], "the backwash of a digital history project". The combination of the AOTW site and Brian's blog provide the student of digital history with an unparalleled view behind the scenes of a successful project. In March, for example, Brian posted about footnotes in online history[^15], allowing the reader to compare his code with the implementation on the AOTW site. In another post that month, he discussed copyright and the public domain[^16], something that he has a more-than-academic interest in. In April he laid out a top-down strategy[^17] for practicing digital history, continued in June[^18]. In July, he discussed the question of whether a site should host advertisements in "Pimping the History Web?[^19]" and reviewed some 19th-century online works[^20] from the Perseus Project. In August, he implemented a timeline widget[^21] and gazeteer[^22] for AOTW. This month he has a series of great posts to help someone get started without "an IT shop or a CHNM": tools for putting history online[^23], PHP+database+webserver[^24] and jumping in with both feet[^25].  
   
-Tags: blogs[^26] | digital history[^27] | history web[^28] | web programming[^29]
+Tags: blogs[^26] \| digital history[^27] \| history web[^28] \| web programming[^29]
 
 [Back to the blog archive](../README.md)
 

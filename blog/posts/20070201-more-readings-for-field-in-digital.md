@@ -49,7 +49,7 @@ Jeremy Boggs[^24] posted a nice piece about the importance of design in digital 
 
 And last but not least, Tom Elliot[^37] pointed out Geoffrey Rockwell's great list of online readings in humanities computing[^38].  
   
-Tags: bibliography[^39] | digital history[^40] | history education[^41] | pedagogy[^42]
+Tags: bibliography[^39] \| digital history[^40] \| history education[^41] \| pedagogy[^42]
 
 [Back to the blog archive](../README.md)
 

@@ -9,7 +9,7 @@ So much is to be expected from a savvy museum in the 21st century. One of the in
   
 Tours written by students and members of the public are stored on the McCord's server and made available, with a disclaimer, on the web. This kind of mechanism has a number of important implications for the practice of history. For one thing, it greatly reduces the information costs[^7] associated with using a distant archive. It is easier for students at a high school in Vancouver to use the digital resources in Montreal than it would be for them to use the material resources in their own city. The McCord is also building a resource which can be used by scholars of history education and/or public history. How do people construct historical narratives from visual sources? What kinds of inferences do they think are supported or warranted by what kinds of sources? How do their understandings of particular sources differ from the interpretations of professional historians?  
   
-Tags: digital history[^8] | folksonomy[^9] | history education[^10] | information costs[^11] | pedagogy[^12] | public history[^13]
+Tags: digital history[^8] \| folksonomy[^9] \| history education[^10] \| information costs[^11] \| pedagogy[^12] \| public history[^13]
 
 [Back to the blog archive](../README.md)
 

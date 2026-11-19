@@ -19,7 +19,7 @@ Next, we will have to strip out all of the HTML formatting for each biography...
   
 (26 Sep 2008: Links to code updated)  
   
-Tags: dictionary of canadian biography[^17] | digital history[^18] | hacking[^19] | new information[^20] | perl[^21] | text mining[^22] | web programming[^23]
+Tags: dictionary of canadian biography[^17] \| digital history[^18] \| hacking[^19] \| new information[^20] \| perl[^21] \| text mining[^22] \| web programming[^23]
 
 [Back to the blog archive](../README.md)
 

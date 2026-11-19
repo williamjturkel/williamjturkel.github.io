@@ -11,7 +11,7 @@ Since I teach with a laptop and LCD projector, I've been thinking it would be fu
   
 I'd be happy to hear from anyone who has tried something like this.  
   
-Tags: feedback[^5] | pedagogy[^6] | Twitter[^7]
+Tags: feedback[^5] \| pedagogy[^6] \| Twitter[^7]
 
 [Back to the blog archive](../README.md)
 

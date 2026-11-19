@@ -20,7 +20,7 @@ Having access to text that has been semantically marked up makes it possible to 
   
 So, to create a clean copy of each of the trial files we're going to use a very brute force method. We will simply copy the file, one character at a time, skipping any characters that fall between < and > inclusive. The Python code which does this job is here[^5].  
   
-Tags: archive[^6] | data mining[^7] | digital history[^8] | feature space[^9] | machine learning[^10] | text mining[^11]
+Tags: archive[^6] \| data mining[^7] \| digital history[^8] \| feature space[^9] \| machine learning[^10] \| text mining[^11]
 
 [Back to the blog archive](../README.md)
 

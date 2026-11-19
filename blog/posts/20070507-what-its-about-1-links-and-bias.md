@@ -14,7 +14,7 @@ Links, it is said, are the currency of the web. They make it possible to navigat
   
 Stop for a moment and think about search engines. Google handles more than ninety million search requests[^2] per day. For the vast majority of those searches, there will be far too many hits for the user to look at more than a tiny fraction of the results. Instead, he or she will concentrate on the top 10 or 20 hits. Google (and a few other companies like Yahoo! and MSN) are introducing biases into research results by ranking the hits. That's unavoidable, and historians, at least, take bias for granted. It is something to be thought about, not something that can be eliminated. I would argue, however, that search engine result ranking is the single most pervasive form of bias that has ever existed. When Google says that their mission[^3] "is to organize the world's information and make it universally accessible and useful," they're not kidding. Do you know how search engines work? Can you afford not to?  
   
-Tags: digital history[^4] | pedagogy[^5]
+Tags: digital history[^4] \| pedagogy[^5]
 
 [Back to the blog archive](../README.md)
 

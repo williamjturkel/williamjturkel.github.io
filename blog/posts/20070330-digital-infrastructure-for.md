@@ -15,7 +15,7 @@ Here I will lay out a few principles and ideas for such an infrastructure; as al
   
 4. Browser-based tools. For work with online sources, researchers will also make use of tools that are built into the browser, like Zotero[^3]. At the moment, Zotero allows you to automatically scrape bibliographic information from a webpage that you are viewing into a citation database. Future releases will allow you to do things like synchronize your own database with a server, share citations with colleagues, or provide an RSS feed of your recently tagged items. By making the server-side infrastructure compatible with Zotero, both tools will become more powerful.  
   
-Tags: application program interface[^4] | browser[^5] | computer supported collaborative work[^6] | data mining[^7] | digital history[^8] | information dashboard[^9] | mashups[^10] | open access[^11] | open source[^12] | zotero[^13]
+Tags: application program interface[^4] \| browser[^5] \| computer supported collaborative work[^6] \| data mining[^7] \| digital history[^8] \| information dashboard[^9] \| mashups[^10] \| open access[^11] \| open source[^12] \| zotero[^13]
 
 [Back to the blog archive](../README.md)
 

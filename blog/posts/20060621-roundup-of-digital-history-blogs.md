@@ -61,7 +61,7 @@ Richard Urban, Inherent Vice[^35]. Richard is a PhD student in library and infor
   
 Scott Weingart, a research assistant on a digital humanities project at the University of Florida has just started Ludus Historiae[^36], to bring "the absurdities of the past to the computers of the future."  
   
-Tags: blogs[^37] | digital history[^38]
+Tags: blogs[^37] \| digital history[^38]
 
 [Back to the blog archive](../README.md)
 

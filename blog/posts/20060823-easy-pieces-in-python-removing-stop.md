@@ -30,7 +30,7 @@ This is what the same sentence looks like when stop words are deleted:
 
   
   
-Tags: programming[^6] | python[^7] | text mining[^8]
+Tags: programming[^6] \| python[^7] \| text mining[^8]
 
 [Back to the blog archive](../README.md)
 

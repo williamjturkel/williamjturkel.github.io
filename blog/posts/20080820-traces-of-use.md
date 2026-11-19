@@ -15,7 +15,7 @@ Probably, but not necessarily. Digitization simply refers to the explicit digita
   
 Saying that we can digitize any trace that we can discover and measure isn't the same thing as saying we can discover and measure any trace that we might need at the moment, episodes of CSI notwithstanding. The material world is almost infinitely informative about the past, but the traces that are preserved have nothing to do with our interests and intents. And one shouldn't draw too fine a line between the analog and the digital, because digital representations are always stored on real-world analog devices, something Matt Kirschenbaum explores in his new book Mechanisms[^3].  
   
-Tags: analog[^4] | clues[^5] | digitization[^6] | representation[^7]
+Tags: analog[^4] \| clues[^5] \| digitization[^6] \| representation[^7]
 
 [Back to the blog archive](../README.md)
 

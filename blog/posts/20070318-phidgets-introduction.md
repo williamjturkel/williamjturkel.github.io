@@ -9,7 +9,7 @@ You can now buy reusable physical components to measure light, sound, temperatur
   
 I've recently gotten a large collection of phidgets to use for both research (more about that later) and for public and digital history student projects. Eventually our students will be able to design and implement things like interactive exhibits and history appliances[^7]. In the meantime, however, I have to make sure that I know how they work and that the lower-level scaffolding is in place. Phidgets don't come with Python[^8] support right now, so I've had to use ctypes[^9] to dig into the dynamically linked C libraries. I know I'm not the only pythonista who wants to hack phidgets right now, so for the benefit of others, here are some partially implemented wrappers for the 8/8/8 interface kit[^10] and the servo 4-motor kit[^11]. Comments and improvements are always welcome, of course.  
   
-Tags: hacking[^12] | interaction design[^13] | phidgets[^14] | python[^15]
+Tags: hacking[^12] \| interaction design[^13] \| phidgets[^14] \| python[^15]
 
 [Back to the blog archive](../README.md)
 

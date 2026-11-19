@@ -32,7 +32,7 @@ returns
 
   
   
-Tags: application program interface[^4] | geocoding[^5] | Google[^6] | munging[^7] | python[^8]
+Tags: application program interface[^4] \| geocoding[^5] \| Google[^6] \| munging[^7] \| python[^8]
 
 [Back to the blog archive](../README.md)
 

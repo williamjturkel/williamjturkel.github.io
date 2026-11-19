@@ -19,7 +19,7 @@ Not surprisingly, many of the ideas reworked themes familiar from fantasy or sci
   
 For me, part of the fun was asking the students beforehand about their interests, hobbies and skills. I'm not sure what role we will find for talents that include piano playing, gardening, belly dancing, horse riding, knitting and snowboarding... but I'm glad to know their imaginations are in good working order. There are links to all of their blogs on the course website.  
   
-Tags: digital history[^3] | interaction design[^4] | pedagogy[^5]
+Tags: digital history[^3] \| interaction design[^4] \| pedagogy[^5]
 
 [Back to the blog archive](../README.md)
 

@@ -11,7 +11,7 @@ The article describes research done by student interns in conjunction with IBM. 
   
 So far, so good. But what if we consider broken links to be a kind of historical evidence? Existing link checkers can already spider through whole sites looking for broken links. Rather than fixing them (or before fixing them) why not compile an archive of them to study? We could ask why links get broken in the first place. Sure, some are bound to be typos. But in many cases, the target site has moved to a different address, and this continual process of renaming reflects other processes: of rebranding, search engine positioning, system or business process reorganization, and so on. We should take a page from the archaeologists' book[^8], and pay more attention to what our middens have to tell us.  
   
-Tags: broken links[^9] | document fingerprinting[^10] | Doing Digital History workshop[^11] | link analysis[^12]
+Tags: broken links[^9] \| document fingerprinting[^10] \| Doing Digital History workshop[^11] \| link analysis[^12]
 
 [Back to the blog archive](../README.md)
 

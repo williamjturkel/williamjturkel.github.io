@@ -13,7 +13,7 @@ As a preliminary step in this direction, I got a small grant to experiment with 
   
 Enter Photosynth[^11], from Microsoft Live Labs. Researchers recently announced a pretty amazing new tool that automatically extracts features from images, uses photogrammetry to stitch them together in three dimensions and then gives you an immersive browser to explore the whole thing. Their demo shows the system with contemporary photographs, but historical photographs should work as well. I can't wait for a chance to play with their software.  
   
-Tags: GIS[^12] | GPS[^13] | historical photographs[^14] | immersive environments[^15] | photogrammetry[^16] | photosynth[^17] | place-based computing[^18] | text mining[^19] | visualization[^20]
+Tags: GIS[^12] \| GPS[^13] \| historical photographs[^14] \| immersive environments[^15] \| photogrammetry[^16] \| photosynth[^17] \| place-based computing[^18] \| text mining[^19] \| visualization[^20]
 
 [Back to the blog archive](../README.md)
 

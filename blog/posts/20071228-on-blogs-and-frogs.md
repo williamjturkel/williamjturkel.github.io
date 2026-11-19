@@ -21,7 +21,7 @@ Frogs, however, don't take the long view. As Charles F. Hockett argued in anothe
   
 Thinking about blogging as a contribution to an infinite archive pushes us a bit too close to the frog's view of the world for comfort. Imagine having to squeeze your post in right here, right now, the only place where it has a hope of making any difference for anybody. The history blogosphere is already too vibrant, too far-flung for most people to monitor effectively. As more voices are added to the cacophony it's going to become harder and harder to be heard. How can we hope to get it right? Here's where we have a real advantage over the frog. We have the ability to create machines which simulate neural and evolutionary processes. Imagine the blogger of the future, augmented by an artificial system that monitors discourse, predicts gaps and pops in your contribution when and where it's most likely to be cited. Over time, the system learns what you are capable of, and becomes more effective at getting your message out. Does that sound crazy? Ribbit!  
   
-Tags: blogs[^4] | Cliopatria[^5] | Eleutherodactylus coqui[^6] | findability[^7] | machine learning[^8]
+Tags: blogs[^4] \| Cliopatria[^5] \| Eleutherodactylus coqui[^6] \| findability[^7] \| machine learning[^8]
 
 [Back to the blog archive](../README.md)
 

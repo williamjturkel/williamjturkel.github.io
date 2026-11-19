@@ -15,7 +15,7 @@ So what kind of database tables do we need? We want to keep each kind of entity 
   
 We will also want to create tables of links. These will contain a primary key (something to specify each unique link) and foreign keys[^19] for each entity that is linked. So, schematically, one entry in our link table might say "the person John Abraham is related to the ship Mary" (and specify how), and another might say that "the person William Bond is related to the institution HBC," and so on. We can then write programs to trace along these links trying to discover new information, or programs that can refine search results by drawing in related information.  
   
-Tags: data mining[^20] | dictionary of canadian biography[^21] | link analysis[^22]  
+Tags: data mining[^20] \| dictionary of canadian biography[^21] \| link analysis[^22]  
  | new information[^23] | relational databases[^24] | search[^25] | social network analysis[^26]
 
 [Back to the blog archive](../README.md)

@@ -13,7 +13,7 @@ In digital history, we have to pay attention to finding the right balance of smo
   
 As we develop historical projects online, we need to ask ourselves how we can incorporate tinkering while maintaining smoothness where we want it. A great recent example of this is Devon Elliott's suggestion[^5] that archives use wiki technology to allow historians and other researchers to create item-level metadata.  
   
-Tags: bricolage[^6] | hacking[^7] | interaction design[^8] | seamful design[^9]
+Tags: bricolage[^6] \| hacking[^7] \| interaction design[^8] \| seamful design[^9]
 
 [Back to the blog archive](../README.md)
 

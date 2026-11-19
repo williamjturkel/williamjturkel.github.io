@@ -31,7 +31,7 @@ About this post. A couple of months ago I was tagged with a meme and passed it o
 
 You're it!  
   
-Tags: flows[^16] | hacking[^17] | historical photographs[^18] | interaction design[^19] | public history[^20] | Python[^21] | webcams[^22]
+Tags: flows[^16] \| hacking[^17] \| historical photographs[^18] \| interaction design[^19] \| public history[^20] \| Python[^21] \| webcams[^22]
 
 [Back to the blog archive](../README.md)
 

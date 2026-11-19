@@ -47,7 +47,7 @@ That's all there is to it. Most of the hassle is in getting the tabbing and newl
   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkk0lvMUxWFRd8M58HfnsWY2DmYftWBXoB52Lmj36ZUqk6TI2AFhHOfjKGd5cr64Yb9Jv4d8EHgoAJBp1nEvWicIp6KHqdFGZjxCpd7ty94dUSGQqhyP1ghLQIqg0nHOXTq7KOvA/s200/rssfeed.jpg)  
   
-Tags: hacking[^7] | munging[^8] | Python[^9] | RSS[^10] | XML[^11]
+Tags: hacking[^7] \| munging[^8] \| Python[^9] \| RSS[^10] \| XML[^11]
 
 [Back to the blog archive](../README.md)
 

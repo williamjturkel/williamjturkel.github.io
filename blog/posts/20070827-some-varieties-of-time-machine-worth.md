@@ -26,7 +26,7 @@ What to do? The key word is 'specialize'. As with other kinds of work, there is 
   
 Next time: the archive as time machine.  
   
-Tags: Cliopatria[^15] | gedankenexperiment[^16] | time machines[^17]
+Tags: Cliopatria[^15] \| gedankenexperiment[^16] \| time machines[^17]
 
 [Back to the blog archive](../README.md)
 

@@ -11,7 +11,7 @@ By using a different measure, we can see that our various learners achieve their
   
 Looking at the graph we notice some interesting results. The naive bayesian that uses words for features gets relatively few false positives, but at the cost of missing an order of magnitude more items than the other two learners. The 2-gram learner outperforms COINFLIP and the tf-idf learner on false positives, but not on misses. The tf-idf learner is the only one that outperforms COINFLIP in terms of both accuracy and precision. Thus we will do our next round of experiments with the tf-idf learner.  
   
-Tags: archive[^1] | data mining[^2] | digital history[^3] | feature space[^4] | machine learning[^5] | text mining[^6]
+Tags: archive[^1] \| data mining[^2] \| digital history[^3] \| feature space[^4] \| machine learning[^5] \| text mining[^6]
 
 [Back to the blog archive](../README.md)
 

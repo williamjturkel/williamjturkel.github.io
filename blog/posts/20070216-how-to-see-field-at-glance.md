@@ -13,7 +13,7 @@ I decided to lay out my page by putting the stuff that changes most frequently o
   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtsKKChpWhwGq5Ym0Iws7AFYQKp4lW8_aZDyBAoca50uzJaKipXuoL_9j7ZSh9cX46iI6Ps_JAkra_yDnQxUXuBkhmOoX8Yz46OnNp6T2UqqeqoSBmLl1wCS6Qx6s9tY-FqQadOg/s200/howto02.jpg)  
   
-Tags: digital history[^11] | new information[^12] | RSS[^13]
+Tags: digital history[^11] \| new information[^12] \| RSS[^13]
 
 [Back to the blog archive](../README.md)
 

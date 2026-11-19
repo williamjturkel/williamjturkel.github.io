@@ -38,7 +38,7 @@ Gwen White[^33]
   
 Update 29 Sep 2006. My friend Mills Kelly[^34] notified me that there are actually two grad digital history courses at GMU this semester. He is teaching History 689: Teaching and Learning in the Digital Age[^35], and his students are blogging too. Welcome!  
   
-Tags: blogs[^36] | digital history[^37] | history education[^38] | pedagogy[^39]
+Tags: blogs[^36] \| digital history[^37] \| history education[^38] \| pedagogy[^39]
 
 [Back to the blog archive](../README.md)
 

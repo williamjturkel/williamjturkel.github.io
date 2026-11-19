@@ -36,7 +36,7 @@ and since we don't have any content, just set that to a non-breaking space. Clic
   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUa4ue48Ex-3_5TTaCaHXndy4wlUi30kEtcc1WN-K73FXbIBKLZHblDuO1g5Pvx3GbZO9MFwezy-imDU9DL6MagW1VRdzGeLdtOiFoupDW3fY_Xru1nH__S88ynjQmX8jfY7k4rQ/s200/howto01b.jpg)  
   
-Tags: digital history[^8] | scraping[^9] | RSS[^10]
+Tags: digital history[^8] \| scraping[^9] \| RSS[^10]
 {% endraw %}
 
 [Back to the blog archive](../README.md)

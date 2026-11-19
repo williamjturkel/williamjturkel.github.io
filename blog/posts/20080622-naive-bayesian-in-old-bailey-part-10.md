@@ -11,7 +11,7 @@ From the graph, it is pretty clear that it is easiest to learn to categorize lar
   
 Note that in this test, we only ran each learner once on each data set, rather than doing ten-fold cross-validation. Our experiments with cross-validation[^1] suggested that the different versions of the learner were relatively insensitive to the order in which training and testing trials were presented. Since this is exploratory work, we will make the (possibly incorrect) assumption that a single trial is probably representative. This will let us do a lot more testing in the same amount of time.  
   
-Tags: archive[^2] | data mining[^3] | digital history[^4] | feature space[^5] | machine learning[^6] | text mining[^7]
+Tags: archive[^2] \| data mining[^3] \| digital history[^4] \| feature space[^5] \| machine learning[^6] \| text mining[^7]
 
 [Back to the blog archive](../README.md)
 

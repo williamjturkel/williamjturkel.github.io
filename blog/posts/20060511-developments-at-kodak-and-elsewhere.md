@@ -9,7 +9,7 @@ Historians, curators and archivists already have a number of techniques for dati
   
 There is a lot of interest in biometrics[^5] right now, much of it geared toward present-day concerns with security and identity. The Kodak age-detection patent suggests, however, that we may see some spinoffs for historical research. To take another example, a research group at Georgia Tech is working on programs to recognize people from their gait[^6]. It doesn't seem farfetched to imagine a system that uses biometric techniques to search through, say, old newsreel footage.  
   
-Tags: biometrics[^7] | data mining[^8] | digital history[^9] | historical photographs[^10] | new information[^11]
+Tags: biometrics[^7] \| data mining[^8] \| digital history[^9] \| historical photographs[^10] \| new information[^11]
 
 [Back to the blog archive](../README.md)
 

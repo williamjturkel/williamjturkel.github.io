@@ -17,7 +17,7 @@ The MDX-20 is a (relatively simple) computer-controlled milling machine. It is a
   
 In Thing Knowledge[^7], the philosopher Davis Baird argues that "Things and theory can both constitute our knowledge of the world." Things can serve as models, physical representations that act in a similar way to theories. They can create phenomena, separating action "from human agency and buil[ding it] into the reliable behavior of an artifact." Or they can serve as measuring instruments, combining both representation and work (11-12). There's a long tradition of ignoring things to focus on ideas, cyberspace being one of many guises for idealism. It's time for digital humanists to say, "Hello, world!"  
   
-Tags: digitization[^8] | fabrication[^9] | history appliances[^10] | stepwise refinement[^11]
+Tags: digitization[^8] \| fabrication[^9] \| history appliances[^10] \| stepwise refinement[^11]
 
 [Back to the blog archive](../README.md)
 

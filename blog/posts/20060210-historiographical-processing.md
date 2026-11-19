@@ -14,7 +14,7 @@ One vision for this comes from the unsettling world of contemporary data mining.
 
   
   
-Tags: data mining[^9] | digital history[^10] | historiography[^11] | new information[^12] | perpetual analytics[^13] | text mining[^14]
+Tags: data mining[^9] \| digital history[^10] \| historiography[^11] \| new information[^12] \| perpetual analytics[^13] \| text mining[^14]
 
 [Back to the blog archive](../README.md)
 

@@ -48,7 +48,7 @@ This gives us results like the following:
   
 Not too hard, eh?  
   
-Tags: programming[^5] | python[^6] | statistical natural language processing[^7] | text mining[^8]
+Tags: programming[^5] \| python[^6] \| statistical natural language processing[^7] \| text mining[^8]
 
 [Back to the blog archive](../README.md)
 

@@ -37,7 +37,7 @@ And there is the main body of the network and a downward projection that are com
   
 One benefit of this method is the incredible speed with which it executes. It took only seconds to calculate 4,950 NCDs; clustering the entire DCB would require computing 35,427,153 distance measures and would take less than a day to run on my inexpensive home computer. I'll save that hack for another time.  
   
-Tags: data compression[^7] | data mining[^8] | Dictionary of Canadian Biography[^9] | digital history[^10] | Kolmogorov complexity[^11] | visualization[^12]
+Tags: data compression[^7] \| data mining[^8] \| Dictionary of Canadian Biography[^9] \| digital history[^10] \| Kolmogorov complexity[^11] \| visualization[^12]
 
 [Back to the blog archive](../README.md)
 

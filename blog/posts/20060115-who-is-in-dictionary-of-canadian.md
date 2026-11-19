@@ -21,7 +21,7 @@ Now what do we see? The vast majority of people in the DCB are businessmen, offi
   
 (26 Sep 2008: link to code was updated)  
   
-Tags: dictionary of canadian biography[^7] | digital history[^8] | hacking[^9] | perl[^10] | tag cloud[^11]
+Tags: dictionary of canadian biography[^7] \| digital history[^8] \| hacking[^9] \| perl[^10] \| tag cloud[^11]
 
 [Back to the blog archive](../README.md)
 

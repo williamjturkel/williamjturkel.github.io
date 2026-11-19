@@ -13,7 +13,7 @@ As with other forms of new media, we need to be teaching young historians how to
   
 So is all of this completely new? Not really. As any work is reinterpreted over time, citations to that work will change in meaning, too. Traditional historical works age along with the literature that they cite. As a physical analog, we might think of refraction: a wave bending when it enters a new medium. There's a good description of the phenomenon at Wikipedia ... at least there is right now.  
   
-Tags: bibliography[^11] | citation[^12] | data mining[^13] | digital history[^14] | historiography[^15] | public history[^16] | Wikipedia[^17]
+Tags: bibliography[^11] \| citation[^12] \| data mining[^13] \| digital history[^14] \| historiography[^15] \| public history[^16] \| Wikipedia[^17]
 
 [Back to the blog archive](../README.md)
 

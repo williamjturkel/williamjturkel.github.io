@@ -105,7 +105,7 @@ In an earlier post[^1] I put together a list of undergraduate courses that would
 
   
   
-Tags: bibliography[^98] | digital history[^99] | history education[^100] | pedagogy[^101]
+Tags: bibliography[^98] \| digital history[^99] \| history education[^100] \| pedagogy[^101]
 
 [Back to the blog archive](../README.md)
 

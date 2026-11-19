@@ -12,7 +12,7 @@ When I first read Mirror Worlds sixteen years ago, this seemed like science fict
   
 The widespread digitization of historical sources raises the question of what kinds of top-level views we can have into the past. Obviously it's possible to visit an archive in real life or in Second Life, and easy to imagine locating the archive in Google Earth. It is also possible to geocode sources, link each to the places to which it relates or refers. Some of this will be done manually and accurately, some automatically with a lower degree of accuracy. Augmenting places with sources, however, raises new questions about selectivity. Without some way of filtering or making sense of these place-based records, what we'll end up with at best will be an overview, and not topsight.  
   
-Tags: geocoding[^8] | microcosm[^9] | place[^10] | topsight[^11]
+Tags: geocoding[^8] \| microcosm[^9] \| place[^10] \| topsight[^11]
 
 [Back to the blog archive](../README.md)
 

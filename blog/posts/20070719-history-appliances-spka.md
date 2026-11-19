@@ -29,7 +29,7 @@ For a quick demo project, I created a browser that lets me look through historic
   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPHA2UrLX2EWuJQ2P6tp-i8DLrd9We-WTbYKelx6t3HFWjYAOIERO31Ss0zQHGchIKFiYwLdjn3LlAx9jfvwtuei6Lpt94unyOmRkm-L5Xl0zkIwsCliv-cAFjP8vEcAovaNALaA/s200/spoka-009-1024.jpg)  
   
-Tags: ambience[^5] | hacking[^6] | history appliances[^7] | Max/MSP/Jitter[^8] | phidgets[^9]
+Tags: ambience[^5] \| hacking[^6] \| history appliances[^7] \| Max/MSP/Jitter[^8] \| phidgets[^9]
 
 [Back to the blog archive](../README.md)
 

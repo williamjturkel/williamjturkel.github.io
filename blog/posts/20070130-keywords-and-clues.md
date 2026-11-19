@@ -33,7 +33,7 @@ John Battelle coined the phrase the database of intentions[^3] to highlight the 
   
 The problem is that it is rarely possible to read directly from one piece of evidence to one inference. Carlo Ginzburg's essay on "Clues[^5]" is particularly useful here. Starting with Sherlock Holmes, Freud and an art critic named Giovanni Morelli, Ginzburg traces the intellectual genealogy of what he calls the 'evidential' or 'venatic' paradigm: a mode of inference that works by integrating clues, telltale details, traces, signs, symptoms. Pattern-matching agents often fail because they are doing just that, matching patterns. An intelligent humanist, poring over the total collection of traces left by Dr. Freud in our whimsical example won't assume there's a bed-wetting problem in Freud's family if there is no other evidence for one. In other words, sometimes the key piece of evidence is what's not there, rather than what is. This, of course, was also famously true for Holmes in "Silver Blaze[^6]." (For more, see Rita C. Manning, "Why Sherlock Holmes Can't Be Replaced by an Expert System," Philosophical Studies 51, no. 1 (1987): 19-28.)  
   
-Tags: AOL search data[^7] | AI[^8] | Carlo Ginzburg[^9] | clues[^10] | database of intentions[^11] | keywords[^12] | Sherlock Holmes[^13]
+Tags: AOL search data[^7] \| AI[^8] \| Carlo Ginzburg[^9] \| clues[^10] \| database of intentions[^11] \| keywords[^12] \| Sherlock Holmes[^13]
 
 [Back to the blog archive](../README.md)
 

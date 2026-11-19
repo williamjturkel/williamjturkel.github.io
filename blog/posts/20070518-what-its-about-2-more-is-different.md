@@ -16,7 +16,7 @@ Having more changes our ideas of what history and memory are. Roy Rosenzweig's e
   
 Finally, more is about to become an awful lot more. Technologies like RFID[^5] and MEMS[^6] make it possible to create vast sensor networks that continuously record data in unimaginable quantities, or that can track the history of practically any object of interest. CARPE[^7] researchers study the capture, archival and retrieval of personal experiences across a lifetime. If you thought Samuel Pepys[^8] left a lot of material, you haven't seen anything yet.  
   
-Tags: digital history[^9] | pedagogy[^10]
+Tags: digital history[^9] \| pedagogy[^10]
 
 [Back to the blog archive](../README.md)
 

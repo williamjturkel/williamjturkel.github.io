@@ -19,7 +19,7 @@ More than this, however, the idea that a blueprint is all you need to recreate a
   
 Next time: how and why to send messages way into the future.  
   
-Tags: Cliopatria[^5] | gedankenexperiment[^6] | time machines[^7]
+Tags: Cliopatria[^5] \| gedankenexperiment[^6] \| time machines[^7]
 
 [Back to the blog archive](../README.md)
 

@@ -15,7 +15,7 @@ My colleague Alan MacEachern[^1] and I have decided to write a book to teach pra
   
 If you'd like to contact us with questions or comments, there is contact information on our faculty web pages: Turkel[^4] & MacEachern[^1].  
   
-Tags: browser[^5] | digital history[^6] | open access[^7] | open source[^8] | programming[^9] | Zotero[^10]
+Tags: browser[^5] \| digital history[^6] \| open access[^7] \| open source[^8] \| programming[^9] \| Zotero[^10]
 
 [Back to the blog archive](../README.md)
 

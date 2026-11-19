@@ -18,7 +18,7 @@ But how do we know whether the results that we're seeing are some kind of fluke?
   
 Code to create a tenfold cross-validation sample from our data is here[^4]. As a check, we'd also like to make sure that our offence category is reasonably distributed across our sample (code for that is here[^5]).  
   
-Tags: archive[^6] | data mining[^7] | digital history[^8] | feature space[^9] | machine learning[^10] | text mining[^11]
+Tags: archive[^6] \| data mining[^7] \| digital history[^8] \| feature space[^9] \| machine learning[^10] \| text mining[^11]
 
 [Back to the blog archive](../README.md)
 

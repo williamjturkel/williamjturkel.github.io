@@ -11,7 +11,7 @@ It's not anymore. Students who were born in 1983 have already graduated from col
   
 So if digital history isn't about computers, what is it about? Stay tuned.  
   
-Tags: digital history[^5] | pedagogy[^6]
+Tags: digital history[^5] \| pedagogy[^6]
 
 [Back to the blog archive](../README.md)
 

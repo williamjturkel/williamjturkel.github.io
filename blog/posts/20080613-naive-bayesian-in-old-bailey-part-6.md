@@ -20,7 +20,7 @@ With these three simple machines, we can be more clear about what it means to be
 
 We expect our learners to produce answers in each of the four categories. A machine that always hits will also tend to identify a lot of false positives. This can be good if you are looking for a needle in a haystack, but will overwhelm you if your category is well-attested. A machine that always identifies correct negatives will often miss things. These kind of machines tend to be more useful when you would never have time to go through all of your items by hand. Most machine learners have parameters that allow you to tune their performance between these extremes.  
   
-Tags: archive[^1] | data mining[^2] | digital history[^3] | feature space[^4] | machine learning[^5] | text mining[^6]
+Tags: archive[^1] \| data mining[^2] \| digital history[^3] \| feature space[^4] \| machine learning[^5] \| text mining[^6]
 
 [Back to the blog archive](../README.md)
 
