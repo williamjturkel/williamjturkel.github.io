@@ -1,6 +1,6 @@
 # Digital History Hacks
 
-From 2005 to 2011 I kept a blog called _Digital History Hacks_ at `https://digitalhistoryhacks.blogspot.com/`. This page archives all 165 posts, newest first. Each post has been converted to Markdown, and its hyperlinks are given as numbered footnotes showing the original URL (many of which no longer work).
+From 2005 to 2008 I kept a blog called _Digital History Hacks_ at `https://digitalhistoryhacks.blogspot.com/`. This page archives all 165 posts, newest first. Each post has been converted to Markdown, and its hyperlinks are given as numbered footnotes showing the original URL (many of which no longer work).
 
 [Back to the home page](../README.md)
 
