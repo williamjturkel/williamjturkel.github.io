@@ -28,13 +28,17 @@ Back in the days of Usenet[^1], people occasionally played a game on some of the
 * ...
 
 Now let's be wildly anachronistic. Imagine Dr. Freud in his forties, working on The Psychopathology of Everyday Life and "going to the Internet to do some research," as the TV / movie cliché has it. He sits at his laptop typing queries into Google: "bed-wetting OR enuresis site:edu", "+bosnia +herzegovina +turks", and so on. Meanwhile, pattern-matching agents are targeting him for advertisements: "Find out what causes bed-wetting", "Drug free in home bedwetting treatment program with counseling", "Searching for bed wetting alarms?", "Find a huge choice of medical cosmetic items that meet your needs!", "Cheap Sarajevo Flights", "Help Kosovo Orphans", and so on.  
-  
+
 John Battelle coined the phrase the database of intentions[^3] to highlight the sheer amount of information that search histories contain about people's interests and desires. In some cases, these keywords can be revealing enough that they can be tied to specific individuals, as in the well-publicized case of AOL searcher 4417749[^4]. As the Freud example suggests, however, people search for a variety of reasons. A friend of mine once bought me a CD for a present, and then was irritated because Amazon kept recommending other music that he didn't like based on that purchase. Amazon has since introduced a gift-wrapping option that, I suspect, serves a double purpose ... knowing which items are gifts helps their recommendation engine avoid such gaffes.  
-  
+
 The problem is that it is rarely possible to read directly from one piece of evidence to one inference. Carlo Ginzburg's essay on "Clues[^5]" is particularly useful here. Starting with Sherlock Holmes, Freud and an art critic named Giovanni Morelli, Ginzburg traces the intellectual genealogy of what he calls the 'evidential' or 'venatic' paradigm: a mode of inference that works by integrating clues, telltale details, traces, signs, symptoms. Pattern-matching agents often fail because they are doing just that, matching patterns. An intelligent humanist, poring over the total collection of traces left by Dr. Freud in our whimsical example won't assume there's a bed-wetting problem in Freud's family if there is no other evidence for one. In other words, sometimes the key piece of evidence is what's not there, rather than what is. This, of course, was also famously true for Holmes in "Silver Blaze[^6]." (For more, see Rita C. Manning, "Why Sherlock Holmes Can't Be Replaced by an Expert System," Philosophical Studies 51, no. 1 (1987): 19-28.)  
-  
+
 Tags: AOL search data[^7] \| AI[^8] \| Carlo Ginzburg[^9] \| clues[^10] \| database of intentions[^11] \| keywords[^12] \| Sherlock Holmes[^13]
 
+---
+
+Previous: [Exploratory Bibliography 2: Visualization](20070127-exploratory-bibliography-2.md)  
+Next: [More Readings for a Field in Digital History](20070201-more-readings-for-field-in-digital.md)  
 [Back to the blog archive](../README.md)
 
 [^1]: `http://en.wikipedia.org/wiki/Usenet`

@@ -17,9 +17,13 @@ The Programming Historian[^1] is now available on the NiCHE: Network in Canadian
 * harvest sets of hyperlinks
 
 The Programming Historian is a work-in-progress. We are constantly adding new material, much of it driven by reader request. Upcoming topics will include indexing, scraping projects, simple spiders, mashups and much more.  
-  
+
 Tags: browser[^4] \| digital history[^5] \| open access[^6] \| open source[^7] \| programming[^8] \| Python[^9] \| Zotero[^10]
 
+---
+
+Previous: [Fitness Functions](20080410-fitness-functions.md)  
+Next: [Beginning in the Middle](20080510-beginning-in-middle.md)  
 [Back to the blog archive](../README.md)
 
 [^1]: `http://niche.uwo.ca/programming-historian/`

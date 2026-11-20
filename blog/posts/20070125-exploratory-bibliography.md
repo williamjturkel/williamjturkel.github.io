@@ -4,15 +4,15 @@ _January 25, 2007_
 Originally published at `https://digitalhistoryhacks.blogspot.com/2007/01/exploratory-bibliography.html`
 
 A couple of weeks ago, I posted a reading list[^1] for a graduate exam in digital history. These kinds of lists are customarily around 80-100 books, so I didn't have room to include everything that's in my digital history library, or even everything that seemed essential (the list is quite light on programming books, for example.) Some of my students and colleagues were kind enough to send me suggested additions, which I may include in a subsequent post.  
-  
+
 It's been quite a while since I posted a hack, so I decided to do something with the reading list. Suppose you're interested in digital history and you want to know what other books I might've included on the list, or what similar books someone else might have recommended. Is there any way to automate the process of searching for similar books? Sure.  
-  
+
 The first step is to get a complete set of recommendations via the Amazon API. We pass my blog post through a simple scraper[^2] to get the ASINs (Amazon Standard ID Numbers) for each book on the list. In a loop, we then submit each ASIN to Amazon and get back an XML file that includes ASINs for recommended books. We create a big list of (ASIN, ASIN) pairs. Each one of these is a recommendation: customers who bought the first book also bought the second one. Since we will want to play with these data later on, we use a high-level Python module called pickle[^3] to save them to disk. Python source code for the first step is here[^4].  
-  
+
 Now that we've got a big list of recommendations, the second step is to concentrate on the books that come up most frequently. We unpickle our data then create a list of recommended books and filter out[^5] any that appear on the original list. We count the number of times each is recommended and sort to create a frequency list[^6] with most frequently recommended books at the top of the list. Python source for the second step is here[^7].  
-  
+
 (In the two steps above, I've linked to earlier posts on doing simple tasks with Python. If you compare those posts with the source code presented here, you can see how I modified code that I had already written to solve new problems.)  
-  
+
 So how well did it do? All of the books that were recommended four or more times appear in the list below. I have most of them and think any could easily have been included on the original list.  
 
 * Anderson, Chris. The Long Tail: Why the Future of Business is Selling Less of More[^8]. Hyperion, 2006. [10 recommendations]
@@ -39,6 +39,10 @@ So how well did it do? All of the books that were recommended four or more times
 
 Tags: amazon[^29] \| application program interface[^30] \| bibliography[^31] \| python[^32] \| scraping[^33] \| spidering[^34]
 
+---
+
+Previous: [5 Things (about Memes and the Blogosphere)](20070122-5-things-about-memes-and-blogosphere.md)  
+Next: [Exploratory Bibliography 2: Visualization](20070127-exploratory-bibliography-2.md)  
 [Back to the blog archive](../README.md)
 
 [^1]: `http://digitalhistoryhacks.blogspot.com/2007/01/readings-for-field-in-digital-history.html`

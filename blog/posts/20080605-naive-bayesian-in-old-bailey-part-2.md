@@ -24,13 +24,17 @@ After downloading the XML-tagged files for the nineteenth century to our local m
 * T19130401CLR.xml
 
 Each XML file contains all of the trials that were conducted in a particular session. The file 'T18341124NW\_SUP\_DONE.xml', for example, is the record for 24 Nov 1834. I'm assuming that the string that follows the date in the filename ('NW\_SUP\_DONE') refers to the encoding process, so I'm going to ignore it.  
-  
+
 The next step is to split each of these XML files into individual trials. Our overall strategy will be as follows. First we want to create a directory for the trial files if one doesn't already exist. Then we will get a list of all of the XML files for the decade and step through them one at a time. For each XML file, we're going to extract each trial and save it as a separate file. Since a given trial is delimited with tags that look like <trial id="t-18341124-1" n="1"> ... </trial>, we can parse it out and save it separately as 't-18341124-1.txt'. You can read this trial[^1] online at the Old Bailey archives. You can also have a look at the XML file[^2] to see what we're dealing with. The fact that the OB team provides XML makes this archive an awesome resource for digital historians, and other online sites should do the same forthwith.  
-  
+
 There are a variety of ways to parse XML, but it is quick and easy to use the Beautiful Soup[^3] library for Python. The program that splits the XML files into separate trial files is here[^4]; for more information about using Beautiful Soup see The Programming Historian[^5]. There are far more trial files than session files: there were 12,959 trials in the 1830s alone. Now that we have one file for each trial, we're ready for the next step.  
-  
+
 Tags: archive[^6] \| data mining[^7] \| digital history[^8] \| feature space[^9] \| machine learning[^10] \| text mining[^11]
 
+---
+
+Previous: [A Naive Bayesian in the Old Bailey, Part 1](20080524-naive-bayesian-in-old-bailey-part-1.md)  
+Next: [A Naive Bayesian in the Old Bailey, Part 3](20080607-naive-bayesian-in-old-bailey-part-3.md)  
 [Back to the blog archive](../README.md)
 
 [^1]: `http://www.oldbaileyonline.org/browse.jsp?div=t18341124-1`

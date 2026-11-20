@@ -4,7 +4,7 @@ _September 24, 2006_
 Originally published at `https://digitalhistoryhacks.blogspot.com/2006/09/student-reflections-on-digital-history.html`
 
 The autumn term is now under way and our students are back in school[^1]. Those taking grad courses in digital history at The University of Western Ontario[^2] and George Mason University[^3] are doing reflective blogging as part of their coursework. While not exactly the same, the two courses cover a lot of the same ground, and the students are wrestling with many of same issues. Their blogs make for very interesting reading, and Josh Greenberg[^4] (who is teaching 696) and I hope that there will be opportunties for members of the two classes to interact with one another. So by way of introduction, History 513F[^5] meet History 696[^6].  
-  
+
 Hist513F  
 Bryan Andrachuk[^7]  
 Lauren Burger[^8]  
@@ -16,7 +16,7 @@ Adam Marcotte[^13]
 Carling Marshall[^14]  
 Kevin Marshall[^15]  
 Jeremy Sandor[^16]  
-  
+
 Hist696  
 Bill Andrews[^17]  
 Amanda Bennett[^18]  
@@ -35,11 +35,15 @@ Karen Tessier[^30]
 Billy Wade[^31]  
 Alan Walker[^32]  
 Gwen White[^33]  
-  
+
 Update 29 Sep 2006. My friend Mills Kelly[^34] notified me that there are actually two grad digital history courses at GMU this semester. He is teaching History 689: Teaching and Learning in the Digital Age[^35], and his students are blogging too. Welcome!  
-  
+
 Tags: blogs[^36] \| digital history[^37] \| history education[^38] \| pedagogy[^39]
 
+---
+
+Previous: [Extending Zotero for Collaborative Work](20060919-extending-zotero-for-collaborative.md)  
+Next: [No 'Secret Syllabus' for Digital History](20060928-no-secret-syllabus-for-digital-history.md)  
 [Back to the blog archive](../README.md)
 
 [^1]: `http://www.robmacdougall.org/archives/2006/09/eternal_september.php`
