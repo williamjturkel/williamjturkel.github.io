@@ -23,9 +23,9 @@ When the case is reassembled, the wires can be fed out of the top of the hole wh
 
 ![](../images/20070719-history-appliances-spka-5.jpg)  
 
-After you slide the rubber skin back on, you have an LED-lamp that can be controlled by your computer. If you want to wire it up directly, you might use your parallel port, like Eric Wilhelm does for the haunted house controller[^2] in Make volume 3. Instead, I incorporated it into my standard history appliance rig, which uses Phidgets[^3] controlled by Max/MSP[^4].  
+After you slide the rubber skin back on, you have an LED-lamp that can be controlled by your computer. If you want to wire it up directly, you might use your parallel port, like Eric Wilhelm does for the haunted house controller[^2] in *Make* volume 3. Instead, I incorporated it into my standard history appliance rig, which uses Phidgets[^3] controlled by Max/MSP[^4].  
 
-For a quick demo project, I created a browser that lets me look through historic newspaper articles about séances from the online Globe and Mail archive. While browsing the stories from a particular time period, Spöka flashes gently in the background, faster if there are a lot of them, slower if not. It provides a nice peripheral feel for the intensity of Spiritualist activity at that point in time.  
+For a quick demo project, I created a browser that lets me look through historic newspaper articles about séances from the online *Globe and Mail* archive. While browsing the stories from a particular time period, Spöka flashes gently in the background, faster if there are a lot of them, slower if not. It provides a nice peripheral feel for the intensity of Spiritualist activity at that point in time.  
 
 ![](../images/20070719-history-appliances-spka-6.jpg)  
 

@@ -3,9 +3,9 @@
 _January 29, 2006_  
 Originally published at `https://digitalhistoryhacks.blogspot.com/2006/01/text-mining-dcb-part-2.html`
 
-Yesterday[^1] we began the process of text mining the online Dictionary of Canadian Biography[^2] by downloading all of the biographies in Volume 1 (people who died between AD 1000 and 1700). We saved these on a local machine as HTML files, but for now, we will want to process raw text files. We write a simple hack[^3] to strip out all of the HTML tags and do a little bit of additional cleanup.  
+Yesterday[^1] we began the process of text mining the online *Dictionary of Canadian Biography[^2]* by downloading all of the biographies in Volume 1 (people who died between AD 1000 and 1700). We saved these on a local machine as HTML files, but for now, we will want to process raw text files. We write a simple hack[^3] to strip out all of the HTML tags and do a little bit of additional cleanup.  
 
-At this point it is probably a good idea to sketch out where we are going. The basic idea in text mining is to represent the features of a collection of documents in such a way as to facilitate further processing. Each of our documents is a biography of some person in the DCB. Each feature is something that the biography may or may not share with other biographies, like the presence of a particular word.  
+At this point it is probably a good idea to sketch out where we are going. The basic idea in text mining is to represent the features of a collection of documents in such a way as to facilitate further processing. Each of our documents is a biography of some person in the *DCB*. Each feature is something that the biography may or may not share with other biographies, like the presence of a particular word.  
 
 We can imagine this in the form of a simple spreadsheet, with a '1' if a particular word appears in the biography and a '0' if not:  
 

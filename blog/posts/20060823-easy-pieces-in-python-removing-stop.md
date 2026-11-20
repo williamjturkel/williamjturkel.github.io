@@ -5,7 +5,7 @@ Originally published at `https://digitalhistoryhacks.blogspot.com/2006/08/easy-p
 
 We continue our exploration of simple Python[^1] scripting with another common problem: removing stop words[^2]. About forty percent of a given text consists of very common words like 'a', 'the', 'and', etc. While necessary to convey meaning, these words don't distinguish the text from other texts, and thus are usually not very useful for tasks like searching, indexing, determining good keywords, and so on.  
 
-As before, we are working with Charles William Colby's The Fighting Governor: A Chronicle of Frontenac[^3] (1915) from Project Gutenberg. We will also be using a list of stop words[^4] posted online by computer science researchers at Glasgow. For a specific research project, we would want to tune this list, but it is fine for demo purposes. As before, we read both of our text files into lists of words.  
+As before, we are working with Charles William Colby's *The Fighting Governor: A Chronicle of Frontenac*[^3] (1915) from Project Gutenberg. We will also be using a list of stop words[^4] posted online by computer science researchers at Glasgow. For a specific research project, we would want to tune this list, but it is fine for demo purposes. As before, we read both of our text files into lists of words.  
 
 ```python
 textwords = open('cca0710-trimmed.txt', 'r').read().split()

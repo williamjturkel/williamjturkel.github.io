@@ -13,7 +13,7 @@ As archives digitize their holdings, historians can no longer expect to face the
 
 In the long run, the complete digitization of our archival base may be accompanied by the emergence of a separate field of historical informatics. The current situation in biology is instructive. At first glance, the stuff of biology—genes, cells, organisms, ecosystems, and so on—would seem to have little to do with information processing. The past few decades, however, have seen the emergence of bioinformatics[^7], an explicitly computational form of biology. Students in many areas of the life sciences now find that they need a basic understanding of statistics, applied math, and programming. Precisely the kind of things that young historians need to start learning now.  
 
-In a sense, the information-processing revolution in history is one part of a much larger and longer-term trend that J. R. and William H. McNeill have traced in The Human Web[^8]. Patterns of interaction and exchange have become ever denser and faster over the course of the Holocene, with a consequent reduction in information costs.  
+In a sense, the information-processing revolution in history is one part of a much larger and longer-term trend that J. R. and William H. McNeill have traced in *The Human Web*[^8]. Patterns of interaction and exchange have become ever denser and faster over the course of the Holocene, with a consequent reduction in information costs.  
 
 Tags: digital history[^9] \| historiography[^10] \| information costs[^11]
 

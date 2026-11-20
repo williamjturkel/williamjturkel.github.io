@@ -5,7 +5,7 @@ Originally published at `https://digitalhistoryhacks.blogspot.com/2006/08/easy-p
 
 Yesterday, I showed that it is possible to extract useful information from a historical source (word frequencies) with a few lines of a high-level programming language like Python[^1]. Today we continue with another simple demo, keyword in context (KWIC[^2]). The basic problem is to split a text into a long list of words, slide a fixed window over the list to find n-grams[^3] and then put each n-gram into a dictionary so we can find the contexts for any given word in the text.  
 
-As before, we are going to be working with Charles William Colby's The Fighting Governor: A Chronicle of Frontenac[^4] (1915) from Project Gutenberg. We start by reading the text file into a long string and then splitting it into a list of words:  
+As before, we are going to be working with Charles William Colby's *The Fighting Governor: A Chronicle of Frontenac[^4]* (1915) from Project Gutenberg. We start by reading the text file into a long string and then splitting it into a list of words:  
 
 ```python
 wordlist = open('cca0710-trimmed.txt', 'r').read().split()

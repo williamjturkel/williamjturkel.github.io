@@ -13,7 +13,7 @@ Jeremy Boggs, ClioWeb[^5]. Jeremy is a web designer at the Center for History an
 
 Tara Calishain, "ResearchBuzz[^7]." A great place to find up-to-the-minute information about internet research.  
 
-Dan Cohen[^8]. Co-author of Digital History[^9] (U Penn, 2005), Dan writes an eponymous blog about digital humanities, Google and searching, and "programming for poets." He is also the author of GMU's clever H-Bot[^10].  
+Dan Cohen[^8]. Co-author of *Digital History[^9]* (U Penn, 2005), Dan writes an eponymous blog about digital humanities, Google and searching, and "programming for poets." He is also the author of GMU's clever H-Bot[^10].  
 
 Tom Daccord, "THWT Edublogger[^11]." Tom blogs about teaching humanities with technology.  
 

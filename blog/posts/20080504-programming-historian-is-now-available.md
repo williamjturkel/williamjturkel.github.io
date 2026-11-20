@@ -3,7 +3,7 @@
 _May 4, 2008_  
 Originally published at `https://digitalhistoryhacks.blogspot.com/2008/05/programming-historian-is-now-available.html`
 
-The Programming Historian[^1] is now available on the NiCHE: Network in Canadian History & Environment website. This work is an open-access introduction to programming in Python, aimed at working historians (and other humanists) with little previous experience. Introductory lessons teach you how to  
+*The Programming Historian[^1]* is now available on the NiCHE: Network in Canadian History & Environment website. This work is an open-access introduction to programming in Python, aimed at working historians (and other humanists) with little previous experience. Introductory lessons teach you how to  
 
 * install Zotero[^2], the Python[^3] programming language and other useful tools
 * read and write data files
@@ -16,7 +16,7 @@ The Programming Historian[^1] is now available on the NiCHE: Network in Canadian
 * make tag clouds, and
 * harvest sets of hyperlinks
 
-The Programming Historian is a work-in-progress. We are constantly adding new material, much of it driven by reader request. Upcoming topics will include indexing, scraping projects, simple spiders, mashups and much more.  
+*The Programming Historian* is a work-in-progress. We are constantly adding new material, much of it driven by reader request. Upcoming topics will include indexing, scraping projects, simple spiders, mashups and much more.  
 
 Tags: browser[^4] \| digital history[^5] \| open access[^6] \| open source[^7] \| programming[^8] \| Python[^9] \| Zotero[^10]
 

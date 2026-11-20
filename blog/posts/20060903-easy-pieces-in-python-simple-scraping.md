@@ -9,7 +9,7 @@ As an example, suppose we are working with OCLC's fabulous new Open WorldCat[^3]
 
 Most scraping starts with the programmer looking at the webpage of interest and comparing it with the code that generated it. You can do this in Firefox[^4] by going to the page and choosing View -- Page Source (in Internet Explorer the command is View -- Source). The basic idea is to locate instances of the information that you are interested in and study the context of these in the code. Is there something that always precedes or follows the thing you are interested in? If so, you can write a regular expression[^5] to match that context.  
 
-Suppose we are looking for works by a particular author, say Alan MacEachern[^6]. The WorldCat URLs for his author page, for a particular book (The Institute of Man and Resources[^7]), and for all copies of that book in Ontario are shown below. Since we are programming in Python[^8], we assign them to variables.  
+Suppose we are looking for works by a particular author, say Alan MacEachern[^6]. The WorldCat URLs for his author page, for a particular book (*The Institute of Man and Resources[^7]*), and for all copies of that book in Ontario are shown below. Since we are programming in Python[^8], we assign them to variables.  
 
 ```python
 authorurl = r'http://www.worldcat.org/search?q=alan+maceachern'

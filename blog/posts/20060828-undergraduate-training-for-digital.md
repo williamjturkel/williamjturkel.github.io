@@ -8,32 +8,25 @@ I suspect that most of my readers are already working in academia or industry. I
 So what kind of preparation? The short answer is that you want a double major in history and computer science with some carefully chosen math and linguistics courses. Below I've listed some of the coursework that I've found most useful (or wish that I had taken). Hopefully this post will encourage some other working digital historians or digital humanists to share their own suggestions.  
 
 * Foundational
-
-* Intro linguistics (MIT 24.900[^2], UWO Linguistics 288 a/b)
-* Statistics (CMU Statistics[^3], UWO Statistical Sciences 222 a/b)
-* Intro computer science with emphasis on programming (MIT 6.001[^4], MIT 1.001[^5], UWO Computer Science 025 a/b, 027 a/b)
-
+  * Intro linguistics (MIT 24.900[^2], UWO Linguistics 288 a/b)
+  * Statistics (CMU Statistics[^3], UWO Statistical Sciences 222 a/b)
+  * Intro computer science with emphasis on programming (MIT 6.001[^4], MIT 1.001[^5], UWO Computer Science 025 a/b, 027 a/b)
 * Intermediate
-
-* More programming especially web programming (MIT 6.171[^6])
-* Discrete mathematics and/or linear and matrix algebra (MIT 18.06[^7], MIT 18.310[^8], MIT 6.042J[^9], UWO Computer Science 210 a/b)
-* Morphology and syntax (UCLA Ling205[^10], MIT 24.902[^11], MIT 24.951[^12], UWO Anthropology 248 a/b)
-* Corpus linguistics (UC Berkeley Ling290A[^13])
-* History of English or whatever language you do your research in (e.g., U Maryland Engl482[^14], UWO Linguistics 250 f/g)
-* Historical/comparative linguistics (UC Santa Cruz Ling140[^15], Stanford Ling160[^16], UWO Anthropology 335 f/g)
-* Databases (MIT 1.264J[^17], MIT 6.830[^18], UWO Computer Science 319 a/b)
-* Artificial intelligence (MIT 6.034[^19], UWO Computer Science 346 a/b)
-* Geographical Information Systems GIS (MIT 11.188[^20], UWO Geography 383b)
-
+  * More programming especially web programming (MIT 6.171[^6])
+  * Discrete mathematics and/or linear and matrix algebra (MIT 18.06[^7], MIT 18.310[^8], MIT 6.042J[^9], UWO Computer Science 210 a/b)
+  * Morphology and syntax (UCLA Ling205[^10], MIT 24.902[^11], MIT 24.951[^12], UWO Anthropology 248 a/b)
+  * Corpus linguistics (UC Berkeley Ling290A[^13])
+  * History of English or whatever language you do your research in (e.g., U Maryland Engl482[^14], UWO Linguistics 250 f/g)
+  * Historical/comparative linguistics (UC Santa Cruz Ling140[^15], Stanford Ling160[^16], UWO Anthropology 335 f/g)
+  * Databases (MIT 1.264J[^17], MIT 6.830[^18], UWO Computer Science 319 a/b)
+  * Artificial intelligence (MIT 6.034[^19], UWO Computer Science 346 a/b)
+  * Geographical Information Systems GIS (MIT 11.188[^20], UWO Geography 383b)
 * Advanced
-
-* Machine learning (MIT 6.867[^21])
-* Computational linguistics (U Texas Lin386[^22] / Lin386M3[^23], Brown CG136[^24], San Diego State Ling581[^25], Johns Hopkins 600.465[^26], Cornell CS775[^27])
-* Web, text or data mining (Stanford CS276[^28], MIT 15.062[^29], De Paul ECT584[^30], UWO Computer Science 412 a/b)
-
+  * Machine learning (MIT 6.867[^21])
+  * Computational linguistics (U Texas Lin386[^22] / Lin386M3[^23], Brown CG136[^24], San Diego State Ling581[^25], Johns Hopkins 600.465[^26], Cornell CS775[^27])
+  * Web, text or data mining (Stanford CS276[^28], MIT 15.062[^29], De Paul ECT584[^30], UWO Computer Science 412 a/b)
 * Other (courses that would be great but are less frequently taught)
-
-* Digital history (GMU Hist615[^31], Hist696[^32], Hist697[^33], UWO Hist513F[^34])
+  * Digital history (GMU Hist615[^31], Hist696[^32], Hist697[^33], UWO Hist513F[^34])
 
 Plus, of course, lots of whatever kinds of history courses most interest you.  
 

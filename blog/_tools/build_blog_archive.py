@@ -102,7 +102,12 @@ def fetch_images():
             if src in manifest and (IMAGES_DIR / manifest[src]).exists():
                 continue
             data = ctype = None
-            for url in dict.fromkeys([best, src]):      # fall back to src
+            # Blogger serves the original upload at /s0/; then try the
+            # linked "full size" copy, then the picture shown in the post.
+            urls = [best, src]
+            if "googleusercontent.com" in src:
+                urls.insert(0, re.sub(r"/s\d+(-h)?/", "/s0/", src))
+            for url in dict.fromkeys(urls):
                 try:
                     data, ctype = download_image(url)
                     break
@@ -172,6 +177,11 @@ class FootnoteConverter(MarkdownConverter):
         if not text.strip():
             return f"[^{n}]"
         return f"{text}[^{n}]"
+
+    def escape(self, text, *args, **kwargs):
+        # Text like "<trial id=...>" in a sentence must show as text, not
+        # be read as an HTML tag.
+        return super().escape(text, *args, **kwargs).replace("<", "&lt;")
 
     def convert_img(self, el, text, *args, **kwargs):
         src = (el.get("src") or "").strip()
@@ -262,8 +272,27 @@ def escape_pipes(md):
     return "\n".join(out)
 
 
+def tidy_html(soup):
+    """Fix two Blogger habits markdownify can't see through."""
+    # 1. Italics and bold were written as styled <span>s, not <i>/<b>.
+    for span in soup.find_all("span", style=True):
+        style = span["style"].replace(" ", "").lower()
+        if "font-style:italic" in style:
+            span.wrap(soup.new_tag("em"))
+        if "font-weight:bold" in style:
+            span.wrap(soup.new_tag("strong"))
+    # 2. Nested lists were written as <ul> directly inside <ul>, not inside
+    #    an <li>; move each into the item before it so the nesting survives.
+    for lst in soup.find_all(["ul", "ol"]):
+        if lst.parent and lst.parent.name in ("ul", "ol"):
+            prev = lst.find_previous_sibling("li")
+            if prev is not None:
+                prev.append(lst.extract())
+    return soup
+
+
 def convert(post, images=None):
-    soup = BeautifulSoup(post["html"], "lxml")
+    soup = tidy_html(BeautifulSoup(post["html"], "lxml"))
     conv = FootnoteConverter(images=images, date=post["published"], heading_style="ATX", bullets="*",
                              escape_underscores=True, escape_asterisks=True)
     body = conv.convert_soup(soup)

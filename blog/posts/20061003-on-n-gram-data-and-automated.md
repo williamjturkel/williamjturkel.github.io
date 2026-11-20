@@ -18,7 +18,7 @@ Compared with Google, Turnitin is a mewling and puking infant (N.B. allusion, no
 
 What Google's n-gram data will show is that it is exceedingly difficult to write a passage that doesn't include a previously-used n-gram. To demonstrate this, I wrote a short Python script that breaks a passage of text into 5-grams and submits each, in turn, to Google to make sure that it doesn't already appear somewhere on the internet.  
 
-My university's Handbook of Academic and Scholarship Policy includes the following statement, which provides a handy test case.  
+My university's *Handbook of Academic and Scholarship Policy* includes the following statement, which provides a handy test case.  
 > NOTE: The following statement on Plagiarism should be added to course outlines:  
 > “Plagiarism: Students must write their essays and assignments in their own words. Whenever students take an idea, or a passage from another author, they must acknowledge their debt both by using quotation marks where appropriate and by proper referencing such as footnotes or citations. Plagiarism is a major academic offence (see Scholastic Offence Policy in the Western Academic Calendar).”
 
@@ -85,9 +85,9 @@ Here are the number of times that various 5-grams in this statement have been us
 > 0033 "statement on plagiarism should be"  
 > 0030 "on plagiarism should be added"
 
-Beyond the mechanical, there are a lot of murky conceptual problems with plagiarism. To claim that the core value of scholarship has always been to respect the property rights of the individual author is wildly anachronistic. (For a more nuanced view, see Anthony Grafton's Forgers and Critics[^5] and Defenders of the Text[^6].) A simpleminded notion of plagiarism also makes it difficult to explain any number of phenomena we find in the actual (as opposed to normative) world of text: Shakespeare, legal boilerplate, folktales, oral tradition, literary allusions, urgent e-mails about Nigerian banking opportunities and phrases like "all our n-gram are belong to you."  
+Beyond the mechanical, there are a lot of murky conceptual problems with plagiarism. To claim that the core value of scholarship has always been to respect the property rights of the individual author is wildly anachronistic. (For a more nuanced view, see Anthony Grafton's *Forgers and Critics*[^5] and *Defenders of the Text*[^6].) A simpleminded notion of plagiarism also makes it difficult to explain any number of phenomena we find in the actual (as opposed to normative) world of text: Shakespeare, legal boilerplate, folktales, oral tradition, literary allusions, urgent e-mails about Nigerian banking opportunities and phrases like "all our n-gram are belong to you."  
 
-In a 2003 article[^7] in the AHR, Roy Rosenzweig wrote about the difficulties that historians and other scholars will face as they move from a culture of scarcity to one of abundance. In many ways, this transition has already occurred. It's time to stop pretending that prose must always be unique, or that n-grams can be property. All your prose are belong to us.[^8]  
+In a 2003 article[^7] in the *AHR*, Roy Rosenzweig wrote about the difficulties that historians and other scholars will face as they move from a culture of scarcity to one of abundance. In many ways, this transition has already occurred. It's time to stop pretending that prose must always be unique, or that n-grams can be property. All your prose are belong to us.[^8]  
 
 Tags: Google[^9] \| n-grams[^10] \| pedagogy[^11] \| property rights[^12]
 
