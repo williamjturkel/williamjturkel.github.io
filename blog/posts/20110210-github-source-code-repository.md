@@ -3,7 +3,7 @@
 _February 10, 2011_  
 Originally published at `https://digitalhistoryhacks.blogspot.com/2011/02/github-source-code-repository.html`
 
-There is now a GitHub source code[^1] repository for all of the code from Digital History Hacks.
+There is now a GitHub source code[^1] repository for all of the code from *Digital History Hacks*.
 
 ---
 

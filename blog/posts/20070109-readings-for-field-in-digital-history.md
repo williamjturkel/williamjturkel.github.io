@@ -5,11 +5,11 @@ Originally published at `https://digitalhistoryhacks.blogspot.com/2007/01/readin
 
 In an earlier post[^1] I put together a list of undergraduate courses that would provide useful background for a student interested in pursuing digital history. For graduate students, a more useful exercise is to compile a reading list of a hundred or so books for a general / comprehensive examination. Obviously, there are very few books that are specifically about digital history (never mind a canon) so any list has to cover the space where the field is emerging. It's tricky. Below is the list that I would give a student if one came to me tomorrow. I'd expect them to negotiate the list with me, tailoring it to their level of technical expertise, getting rid of a few things and adding a few. I haven't read some of the books, but I've read enough of them that I could easily finish the rest as we were working through the list. There are a few books that I'd love to assign, but they're long out of print (like Ted Nelson's *Computer Lib* / *Dream Machines*). I'd be very interested in hearing from students or professors who are currently doing a field like this or want to. Other suggestions are welcome, of course.  
 
-1. Aarseth, Espen J. Cybertext: Perspectives on Ergodic Literature[^2]. Baltimore: Johns Hopkins, 1997.
-2. Abbate, Janet. Inventing the Internet[^3], new ed. Cambridge, MA: MIT, 2000.
-3. Agre, Philip E. Computation and Human Experience[^4]. Cambridge: Cambridge, 2005.
-4. Baeza-Yates, Ricardo and Berthier Ribeiro-Neto. Modern Information Retrieval[^5]. Addison-Wesley, 1999.
-5. Barabási, Albert László. Linked: How Everything is Connected to Everything Else and What It Means[^6]. Plume, 2003.
+1. Aarseth, Espen J. *Cybertext: Perspectives on Ergodic Literature*[^2]. Baltimore: Johns Hopkins, 1997.
+2. Abbate, Janet. *Inventing the Internet*[^3], new ed. Cambridge, MA: MIT, 2000.
+3. Agre, Philip E. *Computation and Human Experience*[^4]. Cambridge: Cambridge, 2005.
+4. Baeza-Yates, Ricardo and Berthier Ribeiro-Neto. *Modern Information Retrieval*[^5]. Addison-Wesley, 1999.
+5. Barabási, Albert László. *Linked: How Everything is Connected to Everything Else and What It Means*[^6]. Plume, 2003.
 6. Bateson, Gregory. *Steps to an Ecology of Mind[^7]*, new ed. Chicago: Chicago, 2000.
 7. Battelle, John. *The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture[^8]*. Portfolio, 2005.
 8. Belew, Richard K. *Finding Out About: A Cognitive Perspective on Search Engine Technology and the WWW[^9]*. Cambridge: Cambridge, 2000.

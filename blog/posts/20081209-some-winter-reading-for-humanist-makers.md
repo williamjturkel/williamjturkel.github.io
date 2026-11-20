@@ -5,43 +5,43 @@ Originally published at `https://digitalhistoryhacks.blogspot.com/2008/12/some-w
 
 (Crossposted to Cliopatria & Digital History Hacks)  
 
-In December 2004, I bought a copy of Joe Martin's Tabletop Machining[^1] to see what would be involved in learning how to make clockwork mechanisms and automata. It was pretty obvious that I had many years of study ahead of me, but I had just finished my PhD and knew that publishing that would take a few years more. So I didn't mind beginning something else that might take ten or fifteen years to master. Since then, I've been reading steadily about making things, but it wasn't until this past fall that I actually had the chance to set up a small Lab for Humanistic Fabrication[^2] and begin making stuff in earnest. Since it's December again, I thought I'd put together a small list of books to help other would-be humanist makers.  
+In December 2004, I bought a copy of Joe Martin's *Tabletop Machining[^1]* to see what would be involved in learning how to make clockwork mechanisms and automata. It was pretty obvious that I had many years of study ahead of me, but I had just finished my PhD and knew that publishing that would take a few years more. So I didn't mind beginning something else that might take ten or fifteen years to master. Since then, I've been reading steadily about making things, but it wasn't until this past fall that I actually had the chance to set up a small Lab for Humanistic Fabrication[^2] and begin making stuff in earnest. Since it's December again, I thought I'd put together a small list of books to help other would-be humanist makers.  
 
-* Alexander, Christopher. Notes on the Synthesis of Form[^3] (Harvard, 1964).
-* Ball, Philip. Made to Measure: New Materials for the 21st Century[^4] (Princeton, 1999).
-* Barrett, William. The Illusion of Technique[^5] (Anchor, 1979).
-* Basalla, George. The Evolution of Technology[^6] (Cambridge, 1989).
-* Bryant, John and Chris Sangwin. How Round is Your Circle? Where Engineering and Mathematics Meet[^7] (Princeton, 2008).
-* Dourish, Paul. Where the Action Is: The Foundations of Embodied Interaction[^8] (MIT, 2004).
-* Edgerton, David. The Shock of the Old: Technology and Global History since 1900[^9] (Oxford, 2006).
-* Frauenfelder, Mark and Gareth Branwyn. The Best of MAKE[^10] (O'Reilly, 2007).
-* Gershenfeld, Neil. Fab: The Coming Revolution on Your Desktop--from Personal Computers to Personal Fabrication[^11] (Basic, 2007).
-* Gordon, J. E. Structures: Or Why Things Don't Fall Down[^12] (Da Capo, 2003).
-* Gordon, J. E. The New Science of Strong Materials: Or Why You Don't Fall through the Floor[^13] (Princeton, 2006).
-* Harper, Douglas. Working Knowledge: Skill and Community in a Small Shop[^14] (Chicago, 1987).
-* Igoe, Tom. Making things Talk: Practical Methods for Connecting Physical Objects[^15] (Make Books, 2007).
-* Ingold, Tim. The Perception of the Environment: Essays on Livelihood, Dwelling and Skill[^16] (Routledge, 2000).
-* Marlow, Frank M. Machine Shop Essentials[^17] (Metal Arts, 2004).
-* Martin, Joe. Tabletop Machining[^1] (Sherline, 1998).
-* McDonough, William and Michael Braungart. Cradle to Cradle: Remaking the Way We Make Things[^18] (North Point, 2002).
-* Molotch, Harvey. Where Stuff Comes From: How Toasters, Toilets, Cars, Computers and Many Other Things Come to Be As They Are[^19] (Routledge, 2005).
-* Mims, Forrest M., III. Electronic Sensor Circuits and Projects[^20] (Master Publishing, 2004).
-* Mims, Forrest M., III. Science and Communication Circuits and Projects[^21] (Master Publishing, 2004).
-* Napier, John. Hands[^22] (Princeton, 1993).
-* Oberg, Erik, et al. Machinery's Handbook[^23], 28th ed. (Industrial Press, 2008).
-* O'Sullivan, Dan and Tom Igoe. Physical Computing: Sensing and Controlling the Physical World with Computers[^24] (Thomson, 2004).
-* Polanyi, Michael. Personal Knowledge[^25] (Chicago, 1974).
-* Powell, John. The Survival of the Fitter[^26] (Practical Action, 1995).
-* Pye, David. The Nature and Art of Workmanship[^27] (A&C Black, 2008).
-* Rathje, William and Cullen Murphy. Rubbish! The Archaeology of Garbage[^28] (University of Arizona, 2001).
-* Schon, Donald A. The Reflective Practitioner: How Professionals Think in Action[^29] (Basic, 1984).
-* Sennett, Richard. The Craftsman[^30] (Yale, 2008).
-* Slade, Giles. Made to Break: Technology and Obsolescence in America[^31] (Harvard, 2007).
-* Sterling, Bruce. Shaping Things[^32] (MIT, 2005).
-* Suchman, Lucy. Human-Machine Reconfigurations: Plans and Situated Action[^33] (Cambridge, 2006).
-* Thackara, John. In the Bubble: Designing in a Complex World[^34] (MIT, 2006).
-* Thompson, Rob. Manufacturing Processes for Design Professionals[^35] (Thames & Hudson, 2007).
-* Woodbury, Robert S. Studies in the History of Machine Tools[^36] (MIT, 1973).
+* Alexander, Christopher. *Notes on the Synthesis of Form[^3]* (Harvard, 1964).
+* Ball, Philip. *Made to Measure: New Materials for the 21st Century[^4]* (Princeton, 1999).
+* Barrett, William. *The Illusion of Technique[^5]* (Anchor, 1979).
+* Basalla, George. *The Evolution of Technology[^6]* (Cambridge, 1989).
+* Bryant, John and Chris Sangwin. *How Round is Your Circle? Where Engineering and Mathematics Meet[^7]* (Princeton, 2008).
+* Dourish, Paul. *Where the Action Is: The Foundations of Embodied Interaction[^8]* (MIT, 2004).
+* Edgerton, David. *The Shock of the Old: Technology and Global History since 1900[^9]* (Oxford, 2006).
+* Frauenfelder, Mark and Gareth Branwyn. *The Best of MAKE[^10]* (O'Reilly, 2007).
+* Gershenfeld, Neil. *Fab: The Coming Revolution on Your Desktop--from Personal Computers to Personal Fabrication[^11]* (Basic, 2007).
+* Gordon, J. E. *Structures: Or Why Things Don't Fall Down[^12]* (Da Capo, 2003).
+* Gordon, J. E. *The New Science of Strong Materials: Or Why You Don't Fall through the Floor[^13]* (Princeton, 2006).
+* Harper, Douglas. *Working Knowledge: Skill and Community in a Small Shop[^14]* (Chicago, 1987).
+* Igoe, Tom. *Making things Talk: Practical Methods for Connecting Physical Objects[^15]* (Make Books, 2007).
+* Ingold, Tim. *The Perception of the Environment: Essays on Livelihood, Dwelling and Skill[^16]* (Routledge, 2000).
+* Marlow, Frank M. *Machine Shop Essentials[^17]* (Metal Arts, 2004).
+* Martin, Joe. *Tabletop Machining[^1]* (Sherline, 1998).
+* McDonough, William and Michael Braungart. *Cradle to Cradle: Remaking the Way We Make Things[^18]* (North Point, 2002).
+* Molotch, Harvey. *Where Stuff Comes From: How Toasters, Toilets, Cars, Computers and Many Other Things Come to Be As They Are[^19]* (Routledge, 2005).
+* Mims, Forrest M., III. *Electronic Sensor Circuits and Projects[^20]* (Master Publishing, 2004).
+* Mims, Forrest M., III. *Science and Communication Circuits and Projects[^21]* (Master Publishing, 2004).
+* Napier, John. *Hands[^22]* (Princeton, 1993).
+* Oberg, Erik, et al. *Machinery's Handbook[^23]*, 28th ed. (Industrial Press, 2008).
+* O'Sullivan, Dan and Tom Igoe. *Physical Computing: Sensing and Controlling the Physical World with Computers[^24]* (Thomson, 2004).
+* Polanyi, Michael. *Personal Knowledge[^25]* (Chicago, 1974).
+* Powell, John. *The Survival of the Fitter[^26]* (Practical Action, 1995).
+* Pye, David. *The Nature and Art of Workmanship[^27]* (A&C Black, 2008).
+* Rathje, William and Cullen Murphy. *Rubbish! The Archaeology of Garbage[^28]* (University of Arizona, 2001).
+* Schon, Donald A. *The Reflective Practitioner: How Professionals Think in Action[^29]* (Basic, 1984).
+* Sennett, Richard. *The Craftsman[^30]* (Yale, 2008).
+* Slade, Giles. *Made to Break: Technology and Obsolescence in America[^31]* (Harvard, 2007).
+* Sterling, Bruce. *Shaping Things[^32]* (MIT, 2005).
+* Suchman, Lucy. *Human-Machine Reconfigurations: Plans and Situated Action[^33]* (Cambridge, 2006).
+* Thackara, John. *In the Bubble: Designing in a Complex World[^34]* (MIT, 2006).
+* Thompson, Rob. *Manufacturing Processes for Design Professionals[^35]* (Thames & Hudson, 2007).
+* Woodbury, Robert S. *Studies in the History of Machine Tools[^36]* (MIT, 1973).
 
 Tags: bricolage[^37] \| critical technical practice[^38] \| DIY[^39] \| fabrication[^40] \| humanism[^41]
 

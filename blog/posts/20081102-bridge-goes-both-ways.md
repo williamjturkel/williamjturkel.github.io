@@ -12,7 +12,7 @@ In this blog, I've assumed that most of my audience would be historians and othe
 * Historians who are interested in quantification already know about and use spreadsheets, databases, mathematical models, computer programs and visualization. Historians who aren't interested in quantification won't be happy with a definition of 'qualitative' that consists of "leaving the numerical scale off of the axes of your graph."
 * The best way to promote computation amongst humanists is to emphasize social and textual applications of computing, especially ones that augment the power of individuals to do research that draws on collections of cultural / heritage materials that are distributed across many different repositories.
 * Verbs, not nouns. John Unsworth's paper on scholarly primitives[^5] is a good place to start.
-* There are a number of good books that take a humanistic perspective while still being sensitive to the potential of instrumental thinking. I particularly like Philip Agre's Computation and Human Experience[^6] and Lucy Suchman's Human-Machine Reconfigurations[^7].
+* There are a number of good books that take a humanistic perspective while still being sensitive to the potential of instrumental thinking. I particularly like Philip Agre's *Computation and Human Experience*[^6] and Lucy Suchman's *Human-Machine Reconfigurations*[^7].
 
 Tags: digital history[^8]
 

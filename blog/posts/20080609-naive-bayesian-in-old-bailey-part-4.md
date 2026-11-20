@@ -7,30 +7,25 @@ With raw text files for each of the trials, we're almost in a position to try do
 
 * First of all, we'll want lists of all of the files that need to be processed in a given decade. We could use the operating system for this, but Windows is pretty slow when you have tens of thousands of files in a directory. A program to grab the list of filenames to another text file is here[^2].
 * We're also going to want a list of all of the dates on which trials occurred (in other words, we will want a list of all of the days that the court was in session). The program to generate that list and sort it in ascending order is here[^3].
-* Since our initial experiments will be focused on trying to automatically categorize trials by offence (e.g., "burglary"), we are going to need a few routines that make it easier to work with offences. One of these needs to return a mapping from trial IDs to one or more categories of offence (the code is here[^4]):
-
-* t-18341124-1.txt -> theft-burglary
-* t-18341124-2.txt -> theft-burglary
-* t-18341124-3.txt -> breakingpeace-wounding
-* ...
-* t-18341124-37.txt -> theft-stealingfrommaster, theft-simplelarceny
-* ...
-
+* Since our initial experiments will be focused on trying to automatically categorize trials by offence (e.g., "burglary"), we are going to need a few routines that make it easier to work with offences. One of these needs to return a mapping from trial IDs to one or more categories of offence (the code is here[^4]):  
+  * t-18341124-1.txt -> theft-burglary
+  * t-18341124-2.txt -> theft-burglary
+  * t-18341124-3.txt -> breakingpeace-wounding
+  * ...
+  * t-18341124-37.txt -> theft-stealingfrommaster, theft-simplelarceny
+  * ...
 * Another routine needs to return a mapping from a particular offence to a list of matching trial IDs (the code is here[^5]):
-
-* theft-burglary -> t-18341124-1.txt, t-18341124-183.txt, t-18341124-185.txt, t-18341124-2.txt, t-18341124-4.txt, ...
-
+  * theft-burglary -> t-18341124-1.txt, t-18341124-183.txt, t-18341124-185.txt, t-18341124-2.txt, t-18341124-4.txt, ...
 * Finally, we are going to need to have some idea of how many offences there were of each kind in a particular decade (the code is here[^6]). For the 1830s, the data look like the following:
-
-* breakingpeace-assault.txt\|51
-* breakingpeace-libel.txt\|7
-* breakingpeace-riot.txt\|5
-* breakingpeace-threateningbehaviour.txt\|4
-* breakingpeace-wounding.txt\|166
-* breakingpeace.txt\|1
-* damage-arson.txt\|7
-* damage-other.txt\|1
-* ...
+  * breakingpeace-assault.txt\|51
+  * breakingpeace-libel.txt\|7
+  * breakingpeace-riot.txt\|5
+  * breakingpeace-threateningbehaviour.txt\|4
+  * breakingpeace-wounding.txt\|166
+  * breakingpeace.txt\|1
+  * damage-arson.txt\|7
+  * damage-other.txt\|1
+  * ...
 
 That about does it for the utility routines. Next we have to address the problem of sampling.  
 

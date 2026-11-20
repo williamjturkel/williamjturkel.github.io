@@ -3,7 +3,7 @@
 _February 19, 2006_  
 Originally published at `https://digitalhistoryhacks.blogspot.com/2006/02/text-mining-dcb-part-5.html`
 
-My original plan for this series of posts was to show how it is relatively simple to spider an online historical collection like the Dictionary of Canadian Biography[^1], scrape out some information, and use it to make possibly novel inferences. Up until now, we've been storing information in text files, which is OK for a simple demo but unwieldy if we want to try something more ambitious.  
+My original plan for this series of posts was to show how it is relatively simple to spider an online historical collection like the *Dictionary of Canadian Biography[^1]*, scrape out some information, and use it to make possibly novel inferences. Up until now, we've been storing information in text files, which is OK for a simple demo but unwieldy if we want to try something more ambitious.  
 
 As a result I've decided to make a few modifications so that we can store information in a relational database[^2] instead. Eventually, I will probably implement something open source on a server, like MySQL[^3]. In the meantime, however, I already have MS Access[^4] installed on my computer so that is what I am going to use. It shouldn't be too hard to port[^5] later.  
 

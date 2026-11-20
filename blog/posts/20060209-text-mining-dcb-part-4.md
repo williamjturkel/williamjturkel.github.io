@@ -3,7 +3,7 @@
 _February 9, 2006_  
 Originally published at `https://digitalhistoryhacks.blogspot.com/2006/02/text-mining-dcb-part-4.html`
 
-In our efforts to do some simple text mining of the online Dictionary of Canadian Biography[^1], we created a list 65 distinctive features and located each of the biographies in Volume 1 in a 65-dimensional space. The next step is to figure out how far (in some sense) each of the biographies is from its neighbours.  
+In our efforts to do some simple text mining of the online *Dictionary of Canadian Biography[^1]*, we created a list 65 distinctive features and located each of the biographies in Volume 1 in a 65-dimensional space. The next step is to figure out how far (in some sense) each of the biographies is from its neighbours.  
 
 Remember that we coded the absence of a given feature as '0' and the presence as '1' for each biography. This means that we can compare any two biographies simply by lining up the corresponding values for each feature, like so (assuming, for the sake of example, that we only have six features instead of 65):  
 
@@ -15,7 +15,7 @@ Remember that we coded the absence of a given feature as '0' and the presence as
 
 Now we have a number of options for computing the distance between any two biographies. One possibility would be to add up the number of features that both have in common or both lack. For the example above, the two biographies share the first and third features and both lack the fifth. A simple distance measure is  
 
-1-(common\_features/6)
+1-(*common\_features*/6)
 
 Since these two biographies have three common features, their distance by this measure is  
 
@@ -35,7 +35,7 @@ Before looking at the results, it is worth trying to predict what we might find.
 
 So what happens when we run the hacks? The biographies that are closest together by this measure are ones like François Bailly[^5], Mathurin Gagnon[^6], Marie-Françoise Giffard[^7], Jean Guyon du Buisson[^8], and Marie Irwin[^9]. Each is very short, confirming our suspicion that we might not want to pay so much attention to a lack of features. (As an aside, however, note that this measure pulls out the men and women who are more obscure, and thus could be useful for finding historical topics in the 'long tail'[^10].)  
 
-What about the pairs of biographies that are far apart? Here we find something quite unexpected. There are two biographies that are very distant from a bunch of the others, Samuel de Champlain[^11] and Jean Talon[^12]. These two men dominate most accounts of New France. Their entries in the DCB are very long. So not only does minimizing this distance measure give us a way of approaching Canadian historical biography from below, but maximizing it allows us to sift out the 'great men'.  
+What about the pairs of biographies that are far apart? Here we find something quite unexpected. There are two biographies that are very distant from a bunch of the others, Samuel de Champlain[^11] and Jean Talon[^12]. These two men dominate most accounts of New France. Their entries in the *DCB* are very long. So not only does minimizing this distance measure give us a way of approaching Canadian historical biography from below, but maximizing it allows us to sift out the 'great men'.  
 
 At this point, a skeptic might say that all we have done is create a nonobvious way to estimate the length of biographical entries... the longer the entry, the more likely it is to have positive features. We can easily test this hypothesis by checking the filesizes of all of the biographies. Sure enough, Champlain's and Talon's are the longest in Volume 1. So we will want to refine our distance measure to exclude the shared lack of features, when we move to the next step of our investigation, clustering.  
 

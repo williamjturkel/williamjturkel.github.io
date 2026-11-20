@@ -3,7 +3,7 @@
 _January 14, 2008_  
 Originally published at `https://digitalhistoryhacks.blogspot.com/2008/01/programming-historian.html`
 
-My colleague Alan MacEachern[^1] and I have decided to write a book to teach practicing historians how to use programming to augment their ability to do research online. The Programming Historian will be provided as an open access work via the website of NiCHE: Network in Canadian History & Environment[^2]. We'll announce the details soon. In the meantime, here are a few things that will make this work different from existing books about programming...  
+My colleague Alan MacEachern[^1] and I have decided to write a book to teach practicing historians how to use programming to augment their ability to do research online. *The Programming Historian* will be provided as an open access work via the website of NiCHE: Network in Canadian History & Environment[^2]. We'll announce the details soon. In the meantime, here are a few things that will make this work different from existing books about programming...  
 
 1. We think that you should be able to put what you learn to work in your research practice immediately. Many beginning programmers lose patience because they can't see why they're learning what they're learning.  
 

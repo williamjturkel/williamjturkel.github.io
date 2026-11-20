@@ -5,7 +5,7 @@ Originally published at `https://digitalhistoryhacks.blogspot.com/2006/08/easy-p
 
 I had originally planned to use Perl with my digital history students but have come to the reluctant conclusion that the language probably isn't ideal for my purposes. Perl has the motto that "there's more than one way to do it," which is fine for experienced programmers but a bit confusing for beginners. So I've made the shift to Python[^1] and am very happy so far. When I came across the tutorial on word frequencies[^2] in Ruby at Semantic Humanities[^3], I decided it would make a nice demo for Python, too.  
 
-The basic problem is to split a text file into an array of words, count the number of occurrences of each word, and return a dictionary sorted by frequency. For my text, I chose Charles William Colby, The Fighting Governor: A Chronicle of Frontenac[^4] (1915) available from Project Gutenberg. We start by reading the file into one long string and then use whitespace to split the string into a list of separate words. In Python it looks like this:  
+The basic problem is to split a text file into an array of words, count the number of occurrences of each word, and return a dictionary sorted by frequency. For my text, I chose Charles William Colby, *The Fighting Governor: A Chronicle of Frontenac[^4]* (1915) available from Project Gutenberg. We start by reading the file into one long string and then use whitespace to split the string into a list of separate words. In Python it looks like this:  
 
 ```python
 input = open('cca0710-trimmed.txt', 'r')
